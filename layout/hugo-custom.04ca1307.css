@@ -1,0 +1,487 @@
+/* ============================================================
+   GadgetFix Hugo — Custom CSS
+   Overrides and additions for the Hugo-converted theme
+   ============================================================ */
+
+/* ── Images ──────────────────────────────────────────────── */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ── Anchor click zones: shrink-wrap to content ───────────── */
+/* Prevents flex/block containers from stretching <a> tags    */
+/* beyond their actual image/content size.                     */
+a:has(> img) {
+    display: inline-block;
+    line-height: 0;
+    align-self: flex-start;
+    width: fit-content;
+}
+
+/* ── Contact form feedback messages ─────────────────────── */
+#success_message,
+#error_message {
+    display: none;
+    margin-top: 16px;
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+#success_message.success {
+    display: block;
+    background: rgba(40, 167, 69, 0.12);
+    color: #28a745;
+    border: 1px solid rgba(40, 167, 69, 0.3);
+}
+#error_message.error {
+    display: block;
+    background: rgba(220, 53, 69, 0.12);
+    color: #dc3545;
+    border: 1px solid rgba(220, 53, 69, 0.3);
+}
+
+/* ── Extra-wrap panel ────────────────────────────────────── */
+#extra-content img.w-150px_da49fcab2829243a {
+    max-width: 150px;
+    height: auto;
+}
+
+/* ── Article images: always block + full width ───────────── */
+figure.gf-article-img_01ccfc0dd92a4fa7 {
+    display: block;
+    margin: 28px 0;
+    line-height: 0;
+}
+figure.gf-article-img_01ccfc0dd92a4fa7 img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+/* ── TOC shortcode (de-toc) ──────────────────────────────── */
+/* JS-driven toggle — avoids native <details> mobile layout quirk where
+   the open content doesn't reflow the document on some Chromium builds */
+.de-toc {
+    background: #f8f8f8;
+    border-left: 3px solid var(--color-2, #e6b800);
+    padding: 16px 20px;
+    margin-bottom: 28px;
+    border-radius: 4px;
+}
+.de-toc-toggle {
+    /* reset <button> chrome */
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    text-align: left;
+    cursor: pointer;
+    user-select: none;
+    /* layout */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+/* Chevron: CSS border-triangle, rotates 180° when open */
+.de-toc-toggle::after {
+    content: "";
+    display: inline-block;
+    flex-shrink: 0;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 6px solid currentColor;
+    transition: transform 0.2s ease;
+}
+.de-toc.is-open .de-toc-toggle::after {
+    transform: rotate(180deg);
+}
+/* Content: collapsed by max-height so element stays in normal block flow.
+   display:none → display:block can fail to reflow on mobile Chromium;
+   max-height keeps the element in the document flow at all times. */
+.de-toc-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.25s ease;
+    margin-top: 0;
+}
+.de-toc.is-open .de-toc-body {
+    max-height: 3000px;
+    margin-top: 10px;
+}
+/* List: unstyled — nested levels get a small indent to show hierarchy */
+.de-toc-body ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+.de-toc-body ul ul {
+    padding-left: 14px;
+    margin-top: 4px;
+}
+.de-toc-body li {
+    margin-bottom: 4px;
+    font-size: 14px;
+}
+/* Links: match body text colour */
+.de-toc-body a {
+    color: var(--body-font-color, #404040);
+    text-decoration: none;
+}
+.de-toc-body a:hover {
+    text-decoration: underline;
+}
+
+/* ── Contacts page desktop: nav right-aligned, black text ───────────────── */
+/* Menu pushed right so it sits over the lighter half of the split layout.   */
+.page-contacts_52ce69712de20919 header .header-col-mid_e63b6a9a5e5646fc {
+    margin-left: auto;
+}
+/* Transparent state: black links over the lighter right half */
+.page-contacts_52ce69712de20919 header.transparent #mainmenu a.menu-item_2f7723a7ee732da6 {
+    color: #000;
+}
+/* Active item keeps the accent colour */
+.page-contacts_52ce69712de20919 header.transparent #mainmenu a.menu-item_2f7723a7ee732da6.active {
+    color: var(--secondary-color) !important;
+}
+/* Hover bg turns secondary-color; keep text white */
+.page-contacts_52ce69712de20919 header.transparent #mainmenu ul li:hover > a.menu-item_2f7723a7ee732da6 {
+    color: #fff;
+}
+/* Scrolled state: white text on dark header */
+.page-contacts_52ce69712de20919 header.smaller #mainmenu a.menu-item_2f7723a7ee732da6 {
+    color: #fff;
+}
+/* Mobile menu open: white text (dark header bg is shown) */
+.page-contacts_52ce69712de20919 header.header-mobile.menu-open #mainmenu a.menu-item_2f7723a7ee732da6 {
+    color: #fff;
+}
+
+/* ── Active menu item = secondary-color (same as footer .widget_125a69ddee6c1a4e a:hover) ─── */
+#mainmenu a.menu-item_2f7723a7ee732da6.active {
+    color: var(--secondary-color) !important;
+}
+
+/* ── Menu hover: text stays white when secondary-color bg kicks in ───────── */
+#mainmenu ul li:hover > a.menu-item_2f7723a7ee732da6,
+#mainmenu li li a.menu-item_2f7723a7ee732da6:hover {
+    color: #fff;
+}
+
+/* ── Footer top padding ──────────────────────────────────── */
+/* Default in style.css: padding: 100px 0 0 0               */
+footer {
+    padding-top: 60px;
+}
+
+/* ── Footer col 3: contact info — top-aligned, padded to match map iframe top ── */
+/* h5 "Us on the map" ≈ 18px × 1.2 line-height + 8px margin-bottom + 8px map margin-top ≈ 38px */
+.gf-footer-col-contact_802c96cf37e3f7b6 {
+    padding-top: 38px;
+}
+@media (max-width: 1399px) {
+    .gf-footer-col-contact_802c96cf37e3f7b6 {
+        padding-top: 0;
+    }
+}
+@media (min-width: 768px) and (max-width: 1399px) {
+    .gf-footer-col-contact_802c96cf37e3f7b6 {
+        align-items: flex-end;
+    }
+}
+
+/* ── Footer col 1: brand / logo column ──────────────────── */
+/* Flex column so margin-top:auto on logos pins them to bottom */
+.gf-footer-col-brand_95022c15c9c49d4f {
+    display: flex;
+    flex-direction: column;
+}
+/* Site logo: click zone handled by the global a:has(>img) rule above */
+/* Logos at bottom of col — margin-top:auto pushes them down;
+   margin-bottom: 30px matches the widget padding-bottom so logos
+   bottom-edge aligns with the map iframe bottom edge */
+.gf-footer-col-brand_95022c15c9c49d4f .gf-footer-casino-logos_9f0375fd9b646a8b {
+    margin-top: auto;
+    padding-top: 16px;
+    margin-bottom: 30px;
+}
+/* 768px–1399px: left-align (logos start from container left) */
+@media (min-width: 768px) and (max-width: 1399px) {
+    .gf-footer-col-brand_95022c15c9c49d4f {
+        align-items: flex-start;
+    }
+    .gf-footer-col-brand_95022c15c9c49d4f .gf-footer-casino-logos_9f0375fd9b646a8b {
+        justify-content: flex-start;
+        margin-top: 20px;
+        margin-bottom: 0;
+        padding-top: 0;
+    }
+}
+/* ≤767px mobile: centre logos, copyright and subfooter links */
+@media (max-width: 767px) {
+    .gf-footer-col-brand_95022c15c9c49d4f {
+        align-items: center;
+    }
+    .gf-footer-col-brand_95022c15c9c49d4f .gf-footer-casino-logos_9f0375fd9b646a8b {
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 24px;   /* gap between logos and "Us on the map" heading */
+        padding-top: 0;
+    }
+    .gf-footer-site-logo_f3502cc81f39c000 {
+        align-self: center;
+    }
+    .subfooter_cd171886d240c1a6 .de-flex-col_9427860e0e7d8b4e,
+    .subfooter_cd171886d240c1a6 .menu-simple_f60e1592d0d218a4 {
+        text-align: center;
+    }
+}
+/* Footer links smaller from ≤1199px */
+@media (max-width: 1199px) {
+    .subfooter_cd171886d240c1a6 .menu-simple_f60e1592d0d218a4 {
+        font-size: 12px;
+    }
+    .subfooter_cd171886d240c1a6 .menu-simple_f60e1592d0d218a4 li {
+        margin: 0 8px;
+    }
+}
+
+/* ── Footer disclaimer blocks ────────────────────────────── */
+.gf-footer-disclaimers_3bb4aa7778ac5e06 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px 40px;
+    padding: 28px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 28px;
+}
+@media (max-width: 767px) {
+    .gf-footer-disclaimers_3bb4aa7778ac5e06 {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+}
+.gf-footer-disclaimer-label_ad0eb58d310d92c5 {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: none;
+    color: #fff;
+    margin-bottom: 6px;
+}
+.gf-footer-disclaimer-text_b6203f0fb1695736 {
+    font-size: 13px;
+    line-height: 1.65;
+    color: rgba(255, 255, 255, 0.35);
+    margin-bottom: 0;
+}
+.gf-footer-disclaimer-text_b6203f0fb1695736 strong {
+    color: #fff;
+    font-weight: 600;
+}
+
+/* ── Casino trust logos in subfooter ─────────────────────── */
+.gf-footer-casino-logos_9f0375fd9b646a8b {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;  /* wrap on mobile */
+}
+/* Logos stay in one line from md upward — Bootstrap container is 720px+ so they fit;
+   below md they wrap naturally in the single-column stacked layout */
+@media (min-width: 768px) {
+    .gf-footer-casino-logos_9f0375fd9b646a8b {
+        flex-wrap: nowrap;
+    }
+}
+.gf-footer-casino-logos_9f0375fd9b646a8b img {
+    height: 24px;
+    width: auto;
+    object-fit: contain;
+    opacity: 0.7;
+    transition: opacity 0.25s ease;
+    max-width: none;
+}
+.gf-footer-casino-logos_9f0375fd9b646a8b img:hover {
+    opacity: 1;
+}
+
+/* ── Footer map embed ────────────────────────────────────── */
+.gf-footer-map_0bb6d53823e4052d {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56%;   /* 16:9 */
+    height: 0;
+    overflow: hidden;
+    border-radius: 6px;
+    margin-top: 8px;
+}
+.gf-footer-map_0bb6d53823e4052d iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    filter: grayscale(30%) brightness(0.9);
+}
+
+/* ── Article tables ──────────────────────────────────────── */
+.gf-table-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-bottom: 1.5em;
+    border-radius: 4px;
+}
+/* Let the table expand to its natural column width so the scroll wrapper
+   actually triggers rather than the browser compressing cells to fit */
+.gf-table-scroll table {
+    min-width: max-content;
+}
+article table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 0;
+}
+article table th {
+    background: var(--color-2, #c5a24e);
+    color: #fff;
+    padding: 11px 16px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+article table td {
+    padding: 10px 16px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    vertical-align: top;
+    white-space: nowrap;
+}
+article table tbody tr:nth-child(even) td {
+    background: rgba(0, 0, 0, 0.025);
+}
+article table tbody tr:hover td {
+    background: rgba(0, 0, 0, 0.045);
+}
+@media (max-width: 767px) {
+    article table th,
+    article table td {
+        padding: 8px 12px;
+    }
+}
+
+/* ── Hero height (all pages) ─────────────────────────────── */
+/* Default in style.css: padding: 160px 0 120px 0             */
+#subheader {
+    padding: 130px 0 60px 0;
+}
+/* Homepage hero: tighter bottom gap into article content */
+#subheader.gf-hero-home {
+    padding-bottom: 30px;
+}
+
+/* ── Section vertical padding — all pages except contacts ─── */
+/* Default in style.css: padding: 100px 0                      */
+/* .no-top_8994c8402af165b5 / .no-bottom_5c3be365676ca6cf still win because they use !important  */
+body:not(.page-contacts_52ce69712de20919) section {
+    padding: 60px 0;
+}
+@media (max-width: 767px) {
+    body:not(.page-contacts_52ce69712de20919) section {
+        padding: 40px 0; /* restore theme's mobile value */
+    }
+}
+
+/* ── Swiper — ensure hero fills viewport ────────────────── */
+.swiper-inner_80718769104a6d76 {
+    background-size: cover;
+    background-position: center;
+}
+
+/* ── Mobile header ───────────────────────────────────────── */
+
+/* 1. Menu: completely hidden when closed — prevents the ~10px of
+   #mainmenu (position:absolute; top:90px) peeking below the bar */
+header.header-mobile:not(.menu-open) .header-col-mid_e63b6a9a5e5646fc {
+    display: none;
+}
+header.header-mobile.menu-open .header-col-mid_e63b6a9a5e5646fc {
+    display: block;
+    overflow-y: auto;
+    max-height: calc(100vh - 80px);
+}
+
+/* 2. Transparent at page top (overrides the theme's solid
+   header.header-mobile background: var(--heading-font-color)).
+   When menu-open or when .smaller is active (scrolled) the solid
+   background shows via header.header-mobile; the !important here
+   only fires when the header is genuinely at the top and closed. */
+header.header-mobile.transparent:not(.menu-open):not(.smaller) {
+    background: transparent !important;
+}
+
+/* 2b. Mobile burger — white icon with black drop-shadow for readability on
+   any background. #menu-btn is a FontAwesome text icon (color, not bg bars). */
+header.header-mobile #menu-btn {
+    color: #fff !important;
+    filter: drop-shadow(0px 0px 7px black);
+}
+
+/* 3. Play button: restore flex alignment on mobile so the button
+   and hamburger sit side-by-side; the theme switches .menu_side_area_c4f3a7813329d51b
+   to display:block at ≤767px which can break the layout */
+header.header-mobile .menu_side_area_c4f3a7813329d51b {
+    display: flex;
+    align-items: center;
+    width: auto;
+}
+/* Ensure button is visible and compact on small screens */
+header.header-mobile .btn-topbar_b5cb06420ddf2112.av-play-btn {
+    display: inline-block !important;
+    font-size: 12px;
+    padding: 5px 12px;
+}
+
+/* ── Contacts page: cancel the 50px top push on mobile ─────── */
+@media only screen and (max-width: 992px) {
+    .page-contacts_52ce69712de20919 #content { margin-top: 0 !important; }
+}
+
+/* ── Mobile logo size ───────────────────────────────────────── */
+@media only screen and (max-width: 767px) {
+    header .logo-mobile_0ed013cd1f75ff21 { max-width: 110px!important; }
+}
+
+/* ── Play button: full label desktop, short label mobile ────── */
+.gf-btn-short_6aaa3dcdc2cef4b6 { display: none; }
+@media only screen and (max-width: 767px) {
+    .gf-btn-full_e15c0c0c4d22e0a2  { display: none; }
+    .gf-btn-short_6aaa3dcdc2cef4b6 { display: inline; }
+}
+
+/* ── Prevent layout shift on page load ──────────────────── */
+#de-loader {
+    position: fixed;
+    inset: 0;
+    z-index: 99999;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

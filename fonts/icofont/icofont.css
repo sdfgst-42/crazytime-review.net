@@ -1,0 +1,10757 @@
+/*! 
+* @package IcoFont 
+* @version 1.0.1 
+* @author IcoFont https://icofont.com 
+* @copyright Copyright (c) 2015 - 2018 IcoFont 
+* @license - https://icofont.com/license/
+*/
+
+@font-face
+{
+ 
+  font-family: "IcoFont";
+font-weight: normal;
+font-style: "Regular";
+src: url("./fonts/icofont.woff2") format("woff2"),
+url("./fonts/icofont.woff") format("woff");
+}
+
+[class^="icofont-"], [class*=" icofont-"]
+{
+  font-family: 'IcoFont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  line-height: 1;
+/* Better Font Rendering =========== */
+  -webkit-font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+}
+
+.icofont-angry-monster_c59eea1af3c86d86:before
+{
+  content: "\e800";
+}
+
+.icofont-bathtub_f6fced1e55a6d266:before
+{
+  content: "\e801";
+}
+
+.icofont-bird-wings_a3584fc8f9079ac6:before
+{
+  content: "\e802";
+}
+
+.icofont-bow_40af87674db7eb45:before
+{
+  content: "\e803";
+}
+
+.icofont-castle_b093b300401e2a20:before
+{
+  content: "\e804";
+}
+
+.icofont-circuit_a65e2a34db11971f:before
+{
+  content: "\e805";
+}
+
+.icofont-crown-king_1dd742324cddc7c2:before
+{
+  content: "\e806";
+}
+
+.icofont-crown-queen_504076cdb970a03f:before
+{
+  content: "\e807";
+}
+
+.icofont-dart_e4c222d15584221c:before
+{
+  content: "\e808";
+}
+
+.icofont-disability-race_be588403ab3034f1:before
+{
+  content: "\e809";
+}
+
+.icofont-diving-goggle_a53a02627b20e84e:before
+{
+  content: "\e80a";
+}
+
+.icofont-eye-open_2ce48a65e1240cf2:before
+{
+  content: "\e80b";
+}
+
+.icofont-flora-flower_cb18fc02cef885b6:before
+{
+  content: "\e80c";
+}
+
+.icofont-flora_b0d275f41df63bed:before
+{
+  content: "\e80d";
+}
+
+.icofont-gift-box_5b64a010782825b0:before
+{
+  content: "\e80e";
+}
+
+.icofont-halloween-pumpkin_442ce08541e210ae:before
+{
+  content: "\e80f";
+}
+
+.icofont-hand-power_277011c6d0e24adb:before
+{
+  content: "\e810";
+}
+
+.icofont-hand-thunder_a403bed817bd2b2b:before
+{
+  content: "\e811";
+}
+
+.icofont-king-monster_1362670ffb88acea:before
+{
+  content: "\e812";
+}
+
+.icofont-love_405106ed93436230:before
+{
+  content: "\e813";
+}
+
+.icofont-magician-hat_b37aa868bd1248df:before
+{
+  content: "\e814";
+}
+
+.icofont-native-american_a6f5783b17cd9c2c:before
+{
+  content: "\e815";
+}
+
+.icofont-owl-look_597cdb3f1a3a26a7:before
+{
+  content: "\e816";
+}
+
+.icofont-phoenix_0380ccbd6087f1d7:before
+{
+  content: "\e817";
+}
+
+.icofont-robot-face_8cf5702d0f5dcfd3:before
+{
+  content: "\e818";
+}
+
+.icofont-sand-clock_9ae40c07e3d90d10:before
+{
+  content: "\e819";
+}
+
+.icofont-shield-alt_1180173f13d0c305:before
+{
+  content: "\e81a";
+}
+
+.icofont-ship-wheel_5ad753c7b139d105:before
+{
+  content: "\e81b";
+}
+
+.icofont-skull-danger_d78376b3918c6c7a:before
+{
+  content: "\e81c";
+}
+
+.icofont-skull-face_d8ffc095acb7c62c:before
+{
+  content: "\e81d";
+}
+
+.icofont-snowmobile_36ea307b4ebdf5da:before
+{
+  content: "\e81e";
+}
+
+.icofont-space-shuttle_561fa5df995fb053:before
+{
+  content: "\e81f";
+}
+
+.icofont-star-shape_0f025bf88753b2cb:before
+{
+  content: "\e820";
+}
+
+.icofont-swirl_c00176b427b554d2:before
+{
+  content: "\e821";
+}
+
+.icofont-tattoo-wing_aebc97b6423c3ee5:before
+{
+  content: "\e822";
+}
+
+.icofont-throne_c243ecab43846cd0:before
+{
+  content: "\e823";
+}
+
+.icofont-tree-alt_a66ea796b52f16ce:before
+{
+  content: "\e824";
+}
+
+.icofont-triangle_00073f3cd7dc1673:before
+{
+  content: "\e825";
+}
+
+.icofont-unity-hand_b2a5e4f50d05e2f5:before
+{
+  content: "\e826";
+}
+
+.icofont-weed_0a98bb4fbfcaa014:before
+{
+  content: "\e827";
+}
+
+.icofont-woman-bird_6a603a1704dc06db:before
+{
+  content: "\e828";
+}
+
+.icofont-bat_89eef2d44ed3fd64:before
+{
+  content: "\e829";
+}
+
+.icofont-bear-face_029289f7850b034f:before
+{
+  content: "\e82a";
+}
+
+.icofont-bear-tracks_d6e2497154aabf62:before
+{
+  content: "\e82b";
+}
+
+.icofont-bear_8e0920230cb20b6d:before
+{
+  content: "\e82c";
+}
+
+.icofont-bird-alt_70140370205a9af6:before
+{
+  content: "\e82d";
+}
+
+.icofont-bird-flying_756db2f674b2fd6b:before
+{
+  content: "\e82e";
+}
+
+.icofont-bird_a7e6c076a0cc93ec:before
+{
+  content: "\e82f";
+}
+
+.icofont-birds_7a9739136ee6a35b:before
+{
+  content: "\e830";
+}
+
+.icofont-bone_d41b608d35c0809a:before
+{
+  content: "\e831";
+}
+
+.icofont-bull_f6735684fd505275:before
+{
+  content: "\e832";
+}
+
+.icofont-butterfly-alt_d6fd84b8a7cc12c1:before
+{
+  content: "\e833";
+}
+
+.icofont-butterfly_c4040f2387134e03:before
+{
+  content: "\e834";
+}
+
+.icofont-camel-alt_677717f0129c9695:before
+{
+  content: "\e835";
+}
+
+.icofont-camel-head_7ffe8ce12be1b590:before
+{
+  content: "\e836";
+}
+
+.icofont-camel_5165f5e2604a5e04:before
+{
+  content: "\e837";
+}
+
+.icofont-cat-alt-1_bc9b6b8526f9a9a1:before
+{
+  content: "\e838";
+}
+
+.icofont-cat-alt-2_fe71344b83649299:before
+{
+  content: "\e839";
+}
+
+.icofont-cat-alt-3_0690e922379a130b:before
+{
+  content: "\e83a";
+}
+
+.icofont-cat-dog_2815912fa4d5f4eb:before
+{
+  content: "\e83b";
+}
+
+.icofont-cat-face_6249a47340c0fb2a:before
+{
+  content: "\e83c";
+}
+
+.icofont-cat_0f71826436c21598:before
+{
+  content: "\e83d";
+}
+
+.icofont-cow-head_4f3d8e190143f8e0:before
+{
+  content: "\e83e";
+}
+
+.icofont-cow_fde55125cb368956:before
+{
+  content: "\e83f";
+}
+
+.icofont-crab_c4fb79dbcb5bb451:before
+{
+  content: "\e840";
+}
+
+.icofont-crocodile_aeec07cd1884a920:before
+{
+  content: "\e841";
+}
+
+.icofont-deer-head_9a7ab4f00a05ce88:before
+{
+  content: "\e842";
+}
+
+.icofont-dog-alt_5ab0f2f2b11343ee:before
+{
+  content: "\e843";
+}
+
+.icofont-dog-barking_dd074518012288bc:before
+{
+  content: "\e844";
+}
+
+.icofont-dog_0611b51e3e7a4aab:before
+{
+  content: "\e845";
+}
+
+.icofont-dolphin_ff30f787da65ce25:before
+{
+  content: "\e846";
+}
+
+.icofont-duck-tracks_9607023a85ef6da0:before
+{
+  content: "\e847";
+}
+
+.icofont-eagle-head_07a2ff2fcc5e6bf6:before
+{
+  content: "\e848";
+}
+
+.icofont-eaten-fish_1a0e1366d0cfce61:before
+{
+  content: "\e849";
+}
+
+.icofont-elephant-alt_46acbd37e9a9c46e:before
+{
+  content: "\e84a";
+}
+
+.icofont-elephant-head-alt_dacda23eb2837579:before
+{
+  content: "\e84b";
+}
+
+.icofont-elephant-head_2bef38cc71e2fe4f:before
+{
+  content: "\e84c";
+}
+
+.icofont-elephant_dbd864f2e56ef241:before
+{
+  content: "\e84d";
+}
+
+.icofont-elk_7465980c44c53db1:before
+{
+  content: "\e84e";
+}
+
+.icofont-fish-1_66b3ac9c27dbcd13:before
+{
+  content: "\e84f";
+}
+
+.icofont-fish-2_0bea5b27df78771e:before
+{
+  content: "\e850";
+}
+
+.icofont-fish-3_886bc0990c7e6368:before
+{
+  content: "\e851";
+}
+
+.icofont-fish-4_68aa8d9cfd5677ae:before
+{
+  content: "\e852";
+}
+
+.icofont-fish-5_9c5136f13918680a:before
+{
+  content: "\e853";
+}
+
+.icofont-fish_b6c5793e49610113:before
+{
+  content: "\e854";
+}
+
+.icofont-fox-alt_1e6d2b5fba95d208:before
+{
+  content: "\e855";
+}
+
+.icofont-fox_89a3533adc0f9399:before
+{
+  content: "\e856";
+}
+
+.icofont-frog-tracks_d1a2fea0652c61ca:before
+{
+  content: "\e857";
+}
+
+.icofont-frog_336a410177140054:before
+{
+  content: "\e858";
+}
+
+.icofont-froggy_4458d37b2ff6cf6b:before
+{
+  content: "\e859";
+}
+
+.icofont-giraffe-head-1_74b6ca7aa87239ea:before
+{
+  content: "\e85a";
+}
+
+.icofont-giraffe-head-2_3bb950f39cc7a608:before
+{
+  content: "\e85b";
+}
+
+.icofont-giraffe-head_cbdaf7558a0fc650:before
+{
+  content: "\e85c";
+}
+
+.icofont-giraffe_159e85169611bbf5:before
+{
+  content: "\e85d";
+}
+
+.icofont-goat-head_a01a2f7bb25a2dc6:before
+{
+  content: "\e85e";
+}
+
+.icofont-gorilla_8b1bc55fef88f0a3:before
+{
+  content: "\e85f";
+}
+
+.icofont-hen-tracks_1895121c2015822a:before
+{
+  content: "\e860";
+}
+
+.icofont-horse-head-1_e88d015cd16d5752:before
+{
+  content: "\e861";
+}
+
+.icofont-horse-head-2_13c11a39163a3ed6:before
+{
+  content: "\e862";
+}
+
+.icofont-horse-head_1129ec336f96ddb1:before
+{
+  content: "\e863";
+}
+
+.icofont-horse-tracks_ff4b628b1b9d9e22:before
+{
+  content: "\e864";
+}
+
+.icofont-jellyfish_9fc2c31f5b04ca1c:before
+{
+  content: "\e865";
+}
+
+.icofont-kangaroo_b6c481c4388836ac:before
+{
+  content: "\e866";
+}
+
+.icofont-lemur_acc3a1e31e025869:before
+{
+  content: "\e867";
+}
+
+.icofont-lion-head-1_f17d2f1bdef0c479:before
+{
+  content: "\e868";
+}
+
+.icofont-lion-head-2_ca5da4be084d2107:before
+{
+  content: "\e869";
+}
+
+.icofont-lion-head_af6e85047f35473e:before
+{
+  content: "\e86a";
+}
+
+.icofont-lion_0678f8458265c5b9:before
+{
+  content: "\e86b";
+}
+
+.icofont-monkey-2_39fc587d89f7cf65:before
+{
+  content: "\e86c";
+}
+
+.icofont-monkey-3_88af42ffa2d33a72:before
+{
+  content: "\e86d";
+}
+
+.icofont-monkey-face_97fbb3e1f8176027:before
+{
+  content: "\e86e";
+}
+
+.icofont-monkey_aed3227577b037ec:before
+{
+  content: "\e86f";
+}
+
+.icofont-octopus-alt_c18d3f59037bb175:before
+{
+  content: "\e870";
+}
+
+.icofont-octopus_6e64d1e2678a1cbb:before
+{
+  content: "\e871";
+}
+
+.icofont-owl_1a21d9f3a2e7982a:before
+{
+  content: "\e872";
+}
+
+.icofont-panda-face_9624d98a97b69d1a:before
+{
+  content: "\e873";
+}
+
+.icofont-panda_dd0ff36d31eb053a:before
+{
+  content: "\e874";
+}
+
+.icofont-panther_66ffa87bdc6a5dc8:before
+{
+  content: "\e875";
+}
+
+.icofont-parrot-lip_0a6ffe263244fdc8:before
+{
+  content: "\e876";
+}
+
+.icofont-parrot_82ee0f34960d1f51:before
+{
+  content: "\e877";
+}
+
+.icofont-paw_a8454e80951a96f5:before
+{
+  content: "\e878";
+}
+
+.icofont-pelican_23837528511382fb:before
+{
+  content: "\e879";
+}
+
+.icofont-penguin_7f07fbabd59f043a:before
+{
+  content: "\e87a";
+}
+
+.icofont-pig-face_c3a6bd381fc548f4:before
+{
+  content: "\e87b";
+}
+
+.icofont-pig_9f7e6366ee9b453c:before
+{
+  content: "\e87c";
+}
+
+.icofont-pigeon-1_43af6d628f68d59d:before
+{
+  content: "\e87d";
+}
+
+.icofont-pigeon-2_b50305953b58ccdc:before
+{
+  content: "\e87e";
+}
+
+.icofont-pigeon_421435dd2114d519:before
+{
+  content: "\e87f";
+}
+
+.icofont-rabbit_bae118532b35c5b3:before
+{
+  content: "\e880";
+}
+
+.icofont-rat_7c27e352a1da92df:before
+{
+  content: "\e881";
+}
+
+.icofont-rhino-head_d71e256a54017e17:before
+{
+  content: "\e882";
+}
+
+.icofont-rhino_dc6466fdcc0bf8ae:before
+{
+  content: "\e883";
+}
+
+.icofont-rooster_863d7a23ecce139a:before
+{
+  content: "\e884";
+}
+
+.icofont-seahorse_5079cb41105ef85e:before
+{
+  content: "\e885";
+}
+
+.icofont-seal_f063b0afadb4cf48:before
+{
+  content: "\e886";
+}
+
+.icofont-shrimp-alt_947c43816b292e95:before
+{
+  content: "\e887";
+}
+
+.icofont-shrimp_a9fc1715453e9983:before
+{
+  content: "\e888";
+}
+
+.icofont-snail-1_eff57c1304d90a4c:before
+{
+  content: "\e889";
+}
+
+.icofont-snail-2_47b33cd68e52df3f:before
+{
+  content: "\e88a";
+}
+
+.icofont-snail-3_e57e011533e72f0a:before
+{
+  content: "\e88b";
+}
+
+.icofont-snail_add16a1144af0812:before
+{
+  content: "\e88c";
+}
+
+.icofont-snake_833dc2987d7ab5f4:before
+{
+  content: "\e88d";
+}
+
+.icofont-squid_77156b6b343e41be:before
+{
+  content: "\e88e";
+}
+
+.icofont-squirrel_4b6bdba90a01b0aa:before
+{
+  content: "\e88f";
+}
+
+.icofont-tiger-face_595480398ded3840:before
+{
+  content: "\e890";
+}
+
+.icofont-tiger_a9f4a978ba80829e:before
+{
+  content: "\e891";
+}
+
+.icofont-turtle_31ac6297f6129c36:before
+{
+  content: "\e892";
+}
+
+.icofont-whale_643ebb47069283df:before
+{
+  content: "\e893";
+}
+
+.icofont-woodpecker_eb6bf0d943ddc4b1:before
+{
+  content: "\e894";
+}
+
+.icofont-zebra_2bf128b3ac839670:before
+{
+  content: "\e895";
+}
+
+.icofont-brand-acer_51e9cee187ad517a:before
+{
+  content: "\e896";
+}
+
+.icofont-brand-adidas_8bfb4e39a2ee5af6:before
+{
+  content: "\e897";
+}
+
+.icofont-brand-adobe_290392208f057ce3:before
+{
+  content: "\e898";
+}
+
+.icofont-brand-air-new-zealand_4e41189172b36e6f:before
+{
+  content: "\e899";
+}
+
+.icofont-brand-airbnb_17ca154b74167bc1:before
+{
+  content: "\e89a";
+}
+
+.icofont-brand-aircell_086c476b13932a33:before
+{
+  content: "\e89b";
+}
+
+.icofont-brand-airtel_5e41c62940610243:before
+{
+  content: "\e89c";
+}
+
+.icofont-brand-alcatel_4be3515994c3e226:before
+{
+  content: "\e89d";
+}
+
+.icofont-brand-alibaba_a17cd43f16a8f131:before
+{
+  content: "\e89e";
+}
+
+.icofont-brand-aliexpress_0f5adab14bd7a94f:before
+{
+  content: "\e89f";
+}
+
+.icofont-brand-alipay_72eb52e3c76beebb:before
+{
+  content: "\e8a0";
+}
+
+.icofont-brand-amazon_0a8c359c781ce620:before
+{
+  content: "\e8a1";
+}
+
+.icofont-brand-amd_a29c92ffd878656d:before
+{
+  content: "\e8a2";
+}
+
+.icofont-brand-american-airlines_35b371b72d07723d:before
+{
+  content: "\e8a3";
+}
+
+.icofont-brand-android-robot_9cb28ddb960a643d:before
+{
+  content: "\e8a4";
+}
+
+.icofont-brand-android_b8844139ee30f2f0:before
+{
+  content: "\e8a5";
+}
+
+.icofont-brand-aol_fee170d6eea7573a:before
+{
+  content: "\e8a6";
+}
+
+.icofont-brand-apple_ed7395942ab96a62:before
+{
+  content: "\e8a7";
+}
+
+.icofont-brand-appstore_4a01b74a237b3483:before
+{
+  content: "\e8a8";
+}
+
+.icofont-brand-asus_1bc4f85f6e16aa3c:before
+{
+  content: "\e8a9";
+}
+
+.icofont-brand-ati_c33675c543d0e349:before
+{
+  content: "\e8aa";
+}
+
+.icofont-brand-att_a4322b67e4a916ac:before
+{
+  content: "\e8ab";
+}
+
+.icofont-brand-audi_2e76cd8272542893:before
+{
+  content: "\e8ac";
+}
+
+.icofont-brand-axiata_faf3b0bbc4b7c059:before
+{
+  content: "\e8ad";
+}
+
+.icofont-brand-bada_ec2abfdb5ab922df:before
+{
+  content: "\e8ae";
+}
+
+.icofont-brand-bbc_5ded47140a8fd00d:before
+{
+  content: "\e8af";
+}
+
+.icofont-brand-bing_2b707bd8511fcb05:before
+{
+  content: "\e8b0";
+}
+
+.icofont-brand-blackberry_3dd4646c2aedfaff:before
+{
+  content: "\e8b1";
+}
+
+.icofont-brand-bmw_d2364ae660063873:before
+{
+  content: "\e8b2";
+}
+
+.icofont-brand-box_b898aa63d3ff0073:before
+{
+  content: "\e8b3";
+}
+
+.icofont-brand-burger-king_ca33c855feb2574b:before
+{
+  content: "\e8b4";
+}
+
+.icofont-brand-business-insider_878855727539d363:before
+{
+  content: "\e8b5";
+}
+
+.icofont-brand-buzzfeed_6662b8c8a5e4c61f:before
+{
+  content: "\e8b6";
+}
+
+.icofont-brand-cannon_5ac8e68abbaf540d:before
+{
+  content: "\e8b7";
+}
+
+.icofont-brand-casio_473c20fb56d8f5c3:before
+{
+  content: "\e8b8";
+}
+
+.icofont-brand-china-mobile_6de63b5ff352e01a:before
+{
+  content: "\e8b9";
+}
+
+.icofont-brand-china-telecom_597f3df38b403539:before
+{
+  content: "\e8ba";
+}
+
+.icofont-brand-china-unicom_d59be95ec72ffa85:before
+{
+  content: "\e8bb";
+}
+
+.icofont-brand-cisco_e6ee2070d58af182:before
+{
+  content: "\e8bc";
+}
+
+.icofont-brand-citibank_03e30c74a9c714c0:before
+{
+  content: "\e8bd";
+}
+
+.icofont-brand-cnet_fa14c37ea060e400:before
+{
+  content: "\e8be";
+}
+
+.icofont-brand-cnn_98c670f536179fad:before
+{
+  content: "\e8bf";
+}
+
+.icofont-brand-cocal-cola_972ccb486e118ad2:before
+{
+  content: "\e8c0";
+}
+
+.icofont-brand-compaq_2de8c378612ae435:before
+{
+  content: "\e8c1";
+}
+
+.icofont-brand-debian_e193002cf85640f8:before
+{
+  content: "\e8c2";
+}
+
+.icofont-brand-delicious_b105ebc5d4062d35:before
+{
+  content: "\e8c3";
+}
+
+.icofont-brand-dell_5f66a7af54f239e2:before
+{
+  content: "\e8c4";
+}
+
+.icofont-brand-designbump_aa2ec6eaecc4f2ef:before
+{
+  content: "\e8c5";
+}
+
+.icofont-brand-designfloat_70f6088ce81cae6b:before
+{
+  content: "\e8c6";
+}
+
+.icofont-brand-disney_6c2c16d56066a685:before
+{
+  content: "\e8c7";
+}
+
+.icofont-brand-dodge_a9dd6af6eacfc933:before
+{
+  content: "\e8c8";
+}
+
+.icofont-brand-dove_73a86a2cc59dfefd:before
+{
+  content: "\e8c9";
+}
+
+.icofont-brand-drupal_4ff6e4644a745e78:before
+{
+  content: "\e8ca";
+}
+
+.icofont-brand-ebay_927c1a3b969f6976:before
+{
+  content: "\e8cb";
+}
+
+.icofont-brand-eleven_97e04f444c595464:before
+{
+  content: "\e8cc";
+}
+
+.icofont-brand-emirates_b83cca4e6926b514:before
+{
+  content: "\e8cd";
+}
+
+.icofont-brand-espn_69b15b23a49aa9b1:before
+{
+  content: "\e8ce";
+}
+
+.icofont-brand-etihad-airways_4edff5d76c38345c:before
+{
+  content: "\e8cf";
+}
+
+.icofont-brand-etisalat_5d8ce2835e2c42ab:before
+{
+  content: "\e8d0";
+}
+
+.icofont-brand-etsy_3a564c645e95e274:before
+{
+  content: "\e8d1";
+}
+
+.icofont-brand-fastrack_14865bc29ec06b71:before
+{
+  content: "\e8d2";
+}
+
+.icofont-brand-fedex_758ad313dec7d770:before
+{
+  content: "\e8d3";
+}
+
+.icofont-brand-ferrari_eb4ce0ab79719619:before
+{
+  content: "\e8d4";
+}
+
+.icofont-brand-fitbit_f9065c7cfaacae52:before
+{
+  content: "\e8d5";
+}
+
+.icofont-brand-flikr_26567d200bb6b3e3:before
+{
+  content: "\e8d6";
+}
+
+.icofont-brand-forbes_20d7a9366e4e08d9:before
+{
+  content: "\e8d7";
+}
+
+.icofont-brand-foursquare_1d5d1f2c115d188c:before
+{
+  content: "\e8d8";
+}
+
+.icofont-brand-foxconn_9ebfc1b160aa3ba9:before
+{
+  content: "\e8d9";
+}
+
+.icofont-brand-fujitsu_5025dc100df17c0b:before
+{
+  content: "\e8da";
+}
+
+.icofont-brand-general-electric_83fe9f0274b9cd1a:before
+{
+  content: "\e8db";
+}
+
+.icofont-brand-gillette_ea4a684e5fd332a7:before
+{
+  content: "\e8dc";
+}
+
+.icofont-brand-gizmodo_7d5a98b1f78a272c:before
+{
+  content: "\e8dd";
+}
+
+.icofont-brand-gnome_14415ff1c34a9cd6:before
+{
+  content: "\e8de";
+}
+
+.icofont-brand-google_7e7fb39b8c17c3cc:before
+{
+  content: "\e8df";
+}
+
+.icofont-brand-gopro_b9518c1e160a6fb1:before
+{
+  content: "\e8e0";
+}
+
+.icofont-brand-gucci_3c60f0de1f65bf98:before
+{
+  content: "\e8e1";
+}
+
+.icofont-brand-hallmark_df08412bff0e9155:before
+{
+  content: "\e8e2";
+}
+
+.icofont-brand-hi5_742c8e75f6547b42:before
+{
+  content: "\e8e3";
+}
+
+.icofont-brand-honda_933e1d25a3d73dec:before
+{
+  content: "\e8e4";
+}
+
+.icofont-brand-hp_6f07d49c33d25cdc:before
+{
+  content: "\e8e5";
+}
+
+.icofont-brand-hsbc_20f41c3c53d1d757:before
+{
+  content: "\e8e6";
+}
+
+.icofont-brand-htc_01a1df23bfb26547:before
+{
+  content: "\e8e7";
+}
+
+.icofont-brand-huawei_e496d37844f9dca2:before
+{
+  content: "\e8e8";
+}
+
+.icofont-brand-hulu_59918690056ea260:before
+{
+  content: "\e8e9";
+}
+
+.icofont-brand-hyundai_04d12c0983b2c2a9:before
+{
+  content: "\e8ea";
+}
+
+.icofont-brand-ibm_e79180ee0916cb58:before
+{
+  content: "\e8eb";
+}
+
+.icofont-brand-icofont_232d0697d4b0297d:before
+{
+  content: "\e8ec";
+}
+
+.icofont-brand-icq_138ef946a24c1cef:before
+{
+  content: "\e8ed";
+}
+
+.icofont-brand-ikea_689fec960705f533:before
+{
+  content: "\e8ee";
+}
+
+.icofont-brand-imdb_9b80547383f7853e:before
+{
+  content: "\e8ef";
+}
+
+.icofont-brand-indiegogo_7fb5463af4417d31:before
+{
+  content: "\e8f0";
+}
+
+.icofont-brand-intel_f66fb0f2820c7cb5:before
+{
+  content: "\e8f1";
+}
+
+.icofont-brand-ipair_e5eb977a2d5eb664:before
+{
+  content: "\e8f2";
+}
+
+.icofont-brand-jaguar_a34c33e6b18c7fec:before
+{
+  content: "\e8f3";
+}
+
+.icofont-brand-java_974f3b97a47ad467:before
+{
+  content: "\e8f4";
+}
+
+.icofont-brand-joomla_b6c67fbfddee218b:before
+{
+  content: "\e8f5";
+}
+
+.icofont-brand-kickstarter_eae5ddc1c35c77a0:before
+{
+  content: "\e8f6";
+}
+
+.icofont-brand-kik_789b4ef166809a98:before
+{
+  content: "\e8f7";
+}
+
+.icofont-brand-lastfm_e2435803d25cde3f:before
+{
+  content: "\e8f8";
+}
+
+.icofont-brand-lego_debc820ae41ab635:before
+{
+  content: "\e8f9";
+}
+
+.icofont-brand-lenovo_c837fb45aaf750e5:before
+{
+  content: "\e8fa";
+}
+
+.icofont-brand-levis_61efda1721516c30:before
+{
+  content: "\e8fb";
+}
+
+.icofont-brand-lexus_aacb2733e60ecf16:before
+{
+  content: "\e8fc";
+}
+
+.icofont-brand-lg_f13777266551f492:before
+{
+  content: "\e8fd";
+}
+
+.icofont-brand-life-hacker_60a0ebe9e3ccdce5:before
+{
+  content: "\e8fe";
+}
+
+.icofont-brand-linux-mint_2c926f3eb916eaa2:before
+{
+  content: "\e8ff";
+}
+
+.icofont-brand-linux_40ef05119128e4f1:before
+{
+  content: "\e900";
+}
+
+.icofont-brand-lionix_bb9eac4b20e83d02:before
+{
+  content: "\e901";
+}
+
+.icofont-brand-loreal_e203040735dba7cf:before
+{
+  content: "\e902";
+}
+
+.icofont-brand-louis-vuitton_0064914de2817559:before
+{
+  content: "\e903";
+}
+
+.icofont-brand-mac-os_05acd723630ddaf1:before
+{
+  content: "\e904";
+}
+
+.icofont-brand-marvel-app_d55668addb25320d:before
+{
+  content: "\e905";
+}
+
+.icofont-brand-mashable_52b76845b76916c5:before
+{
+  content: "\e906";
+}
+
+.icofont-brand-mazda_fa2bf4ceab916c50:before
+{
+  content: "\e907";
+}
+
+.icofont-brand-mcdonals_2b9662b3f1e6a3a0:before
+{
+  content: "\e908";
+}
+
+.icofont-brand-mercedes_badb0087f4ce657a:before
+{
+  content: "\e909";
+}
+
+.icofont-brand-micromax_c46541439f6112c2:before
+{
+  content: "\e90a";
+}
+
+.icofont-brand-microsoft_eea51d023ba71163:before
+{
+  content: "\e90b";
+}
+
+.icofont-brand-mobileme_5490d41dd726990c:before
+{
+  content: "\e90c";
+}
+
+.icofont-brand-mobily_79024d9442e3e07a:before
+{
+  content: "\e90d";
+}
+
+.icofont-brand-motorola_57dca05c81943b94:before
+{
+  content: "\e90e";
+}
+
+.icofont-brand-msi_7fb65089f2111765:before
+{
+  content: "\e90f";
+}
+
+.icofont-brand-mts_a6d1c04513236a38:before
+{
+  content: "\e910";
+}
+
+.icofont-brand-myspace_d59f45b9de69940d:before
+{
+  content: "\e911";
+}
+
+.icofont-brand-mytv_fbb6f9d23c54fc42:before
+{
+  content: "\e912";
+}
+
+.icofont-brand-nasa_10d597acc42c704d:before
+{
+  content: "\e913";
+}
+
+.icofont-brand-natgeo_eadf4b16704ef5c3:before
+{
+  content: "\e914";
+}
+
+.icofont-brand-nbc_0c10b3572ed73e3e:before
+{
+  content: "\e915";
+}
+
+.icofont-brand-nescafe_8f1466a2731d468c:before
+{
+  content: "\e916";
+}
+
+.icofont-brand-nestle_4713044feca63199:before
+{
+  content: "\e917";
+}
+
+.icofont-brand-netflix_dfa8b45f7af75d18:before
+{
+  content: "\e918";
+}
+
+.icofont-brand-nexus_e551d51eb917e71d:before
+{
+  content: "\e919";
+}
+
+.icofont-brand-nike_7ddf263fbeb788a6:before
+{
+  content: "\e91a";
+}
+
+.icofont-brand-nokia_66f5e66237e99440:before
+{
+  content: "\e91b";
+}
+
+.icofont-brand-nvidia_0f5693ee0b9ed5b6:before
+{
+  content: "\e91c";
+}
+
+.icofont-brand-omega_d4cf1f47258c2974:before
+{
+  content: "\e91d";
+}
+
+.icofont-brand-opensuse_89f1d94562388ed3:before
+{
+  content: "\e91e";
+}
+
+.icofont-brand-oracle_b8fb7214681657e0:before
+{
+  content: "\e91f";
+}
+
+.icofont-brand-panasonic_a87acd0e2b3cf737:before
+{
+  content: "\e920";
+}
+
+.icofont-brand-paypal_f25e7053a31f9846:before
+{
+  content: "\e921";
+}
+
+.icofont-brand-pepsi_8f14a9be4c0f0c4c:before
+{
+  content: "\e922";
+}
+
+.icofont-brand-philips_0108a30954b6b799:before
+{
+  content: "\e923";
+}
+
+.icofont-brand-pizza-hut_dcfbe0cc089a8f57:before
+{
+  content: "\e924";
+}
+
+.icofont-brand-playstation_f81911067f33bc7c:before
+{
+  content: "\e925";
+}
+
+.icofont-brand-puma_ee2913edd2d843aa:before
+{
+  content: "\e926";
+}
+
+.icofont-brand-qatar-air_dbaf5b3d9607e42d:before
+{
+  content: "\e927";
+}
+
+.icofont-brand-qvc_926ba1d27cfa5b21:before
+{
+  content: "\e928";
+}
+
+.icofont-brand-readernaut_3da9e310a256af79:before
+{
+  content: "\e929";
+}
+
+.icofont-brand-redbull_93edeb1b60c09ae5:before
+{
+  content: "\e92a";
+}
+
+.icofont-brand-reebok_4d6af4ef0012e753:before
+{
+  content: "\e92b";
+}
+
+.icofont-brand-reuters_b47ae9b2959ad767:before
+{
+  content: "\e92c";
+}
+
+.icofont-brand-samsung_24088f82da1e4876:before
+{
+  content: "\e92d";
+}
+
+.icofont-brand-sap_78761d3e16af2d9a:before
+{
+  content: "\e92e";
+}
+
+.icofont-brand-saudia-airlines_1b09c64c0ed14e50:before
+{
+  content: "\e92f";
+}
+
+.icofont-brand-scribd_571b895a0cd3f141:before
+{
+  content: "\e930";
+}
+
+.icofont-brand-shell_fa8098220ba957de:before
+{
+  content: "\e931";
+}
+
+.icofont-brand-siemens_b20cbdf02e3d212c:before
+{
+  content: "\e932";
+}
+
+.icofont-brand-sk-telecom_9f6a23206a5ce9ee:before
+{
+  content: "\e933";
+}
+
+.icofont-brand-slideshare_ae1d00d373074126:before
+{
+  content: "\e934";
+}
+
+.icofont-brand-smashing-magazine_c65338ce56388ae5:before
+{
+  content: "\e935";
+}
+
+.icofont-brand-snapchat_57551edf3e2ff878:before
+{
+  content: "\e936";
+}
+
+.icofont-brand-sony-ericsson_ffe0e9f8a7efe658:before
+{
+  content: "\e937";
+}
+
+.icofont-brand-sony_29245e72f1b93423:before
+{
+  content: "\e938";
+}
+
+.icofont-brand-soundcloud_1c0ce7e10171be85:before
+{
+  content: "\e939";
+}
+
+.icofont-brand-sprint_e133e015b3f41544:before
+{
+  content: "\e93a";
+}
+
+.icofont-brand-squidoo_b96127c675640970:before
+{
+  content: "\e93b";
+}
+
+.icofont-brand-starbucks_b1a5a78c890b3b6a:before
+{
+  content: "\e93c";
+}
+
+.icofont-brand-stc_9b4246a880f287b7:before
+{
+  content: "\e93d";
+}
+
+.icofont-brand-steam_66f6eb4b83007cc9:before
+{
+  content: "\e93e";
+}
+
+.icofont-brand-suzuki_95477c1eda4370f3:before
+{
+  content: "\e93f";
+}
+
+.icofont-brand-symbian_6f0e49dd3055183b:before
+{
+  content: "\e940";
+}
+
+.icofont-brand-t-mobile_871c5eefcbebc6bf:before
+{
+  content: "\e941";
+}
+
+.icofont-brand-tango_7fe501c2a62bb35d:before
+{
+  content: "\e942";
+}
+
+.icofont-brand-target_179310c5dc2e36c5:before
+{
+  content: "\e943";
+}
+
+.icofont-brand-tata-indicom_9326ce7108783ca4:before
+{
+  content: "\e944";
+}
+
+.icofont-brand-techcrunch_15bd60045b0b5833:before
+{
+  content: "\e945";
+}
+
+.icofont-brand-telenor_dfef7e35581728fd:before
+{
+  content: "\e946";
+}
+
+.icofont-brand-teliasonera_3beae5c70cae9fcc:before
+{
+  content: "\e947";
+}
+
+.icofont-brand-tesla_7c5a08cf7522133a:before
+{
+  content: "\e948";
+}
+
+.icofont-brand-the-verge_196b7e9152f43771:before
+{
+  content: "\e949";
+}
+
+.icofont-brand-thenextweb_31997b39f2232e46:before
+{
+  content: "\e94a";
+}
+
+.icofont-brand-toshiba_83b98c8dc2e2805a:before
+{
+  content: "\e94b";
+}
+
+.icofont-brand-toyota_69cad9edd8246c34:before
+{
+  content: "\e94c";
+}
+
+.icofont-brand-tribenet_157fdc4c31d09252:before
+{
+  content: "\e94d";
+}
+
+.icofont-brand-ubuntu_dde6efc38eb9ea2c:before
+{
+  content: "\e94e";
+}
+
+.icofont-brand-unilever_78c74675b202e2c1:before
+{
+  content: "\e94f";
+}
+
+.icofont-brand-vaio_906c8842fedaa423:before
+{
+  content: "\e950";
+}
+
+.icofont-brand-verizon_a6795b1154a18163:before
+{
+  content: "\e951";
+}
+
+.icofont-brand-viber_0bf7a8f1a2a6e48d:before
+{
+  content: "\e952";
+}
+
+.icofont-brand-vodafone_5c7309dc5f60fa8d:before
+{
+  content: "\e953";
+}
+
+.icofont-brand-volkswagen_72331d616f4a828d:before
+{
+  content: "\e954";
+}
+
+.icofont-brand-walmart_5af57d7a2a554e44:before
+{
+  content: "\e955";
+}
+
+.icofont-brand-warnerbros_cc0189c933fb21eb:before
+{
+  content: "\e956";
+}
+
+.icofont-brand-whatsapp_59e3b9029f808711:before
+{
+  content: "\e957";
+}
+
+.icofont-brand-wikipedia_b158744058d867ba:before
+{
+  content: "\e958";
+}
+
+.icofont-brand-windows_1063664dfcdfa9d6:before
+{
+  content: "\e959";
+}
+
+.icofont-brand-wire_725ed66654db0e72:before
+{
+  content: "\e95a";
+}
+
+.icofont-brand-wordpress_43a7a2b7e07ff960:before
+{
+  content: "\e95b";
+}
+
+.icofont-brand-xiaomi_e5b020291b1ea625:before
+{
+  content: "\e95c";
+}
+
+.icofont-brand-yahoobuzz_a3e4aca9f7fb180a:before
+{
+  content: "\e95d";
+}
+
+.icofont-brand-yamaha_835c4f4e1253cc6d:before
+{
+  content: "\e95e";
+}
+
+.icofont-brand-youtube_26143f805a15a480:before
+{
+  content: "\e95f";
+}
+
+.icofont-brand-zain_5403af94c9b53ed3:before
+{
+  content: "\e960";
+}
+
+.icofont-bank-alt_4c4853b38debb4d7:before
+{
+  content: "\e961";
+}
+
+.icofont-bank_162d33dc458f53a5:before
+{
+  content: "\e962";
+}
+
+.icofont-barcode_a423c6c6b42525d9:before
+{
+  content: "\e963";
+}
+
+.icofont-bill-alt_f91affc8a48d66e1:before
+{
+  content: "\e964";
+}
+
+.icofont-billboard_f5ca00ab3dc1b219:before
+{
+  content: "\e965";
+}
+
+.icofont-briefcase-1_0d91debf31ce82e7:before
+{
+  content: "\e966";
+}
+
+.icofont-briefcase-2_5957a2a65d40d86a:before
+{
+  content: "\e967";
+}
+
+.icofont-businessman_cc9b6be9ddf550c9:before
+{
+  content: "\e968";
+}
+
+.icofont-businesswoman_15efd94f48f4b537:before
+{
+  content: "\e969";
+}
+
+.icofont-chair_8e5897bcdd9e9b42:before
+{
+  content: "\e96a";
+}
+
+.icofont-coins_2337bc3ed7b329b2:before
+{
+  content: "\e96b";
+}
+
+.icofont-company_83b9300d07f1db51:before
+{
+  content: "\e96c";
+}
+
+.icofont-contact-add_7bef38057809f3cd:before
+{
+  content: "\e96d";
+}
+
+.icofont-files-stack_2b86ab9f8a913964:before
+{
+  content: "\e96e";
+}
+
+.icofont-handshake-deal_6e00dce41f7f9b8b:before
+{
+  content: "\e96f";
+}
+
+.icofont-id-card_ced622e21ae754c3:before
+{
+  content: "\e970";
+}
+
+.icofont-meeting-add_4a4f9a4cee577e7f:before
+{
+  content: "\e971";
+}
+
+.icofont-money-bag_aed8b1023c174863:before
+{
+  content: "\e972";
+}
+
+.icofont-pie-chart_17e95d8fff173a1a:before
+{
+  content: "\e973";
+}
+
+.icofont-presentation-alt_918c528955600f19:before
+{
+  content: "\e974";
+}
+
+.icofont-presentation_f6bb6e10ca88cddc:before
+{
+  content: "\e975";
+}
+
+.icofont-stamp_1749eabfd572dbc9:before
+{
+  content: "\e976";
+}
+
+.icofont-stock-mobile_765fbe5c0dfb86ee:before
+{
+  content: "\e977";
+}
+
+.icofont-chart-arrows-axis_2ee1ed1006854b0a:before
+{
+  content: "\e978";
+}
+
+.icofont-chart-bar-graph_4eda78e8825bffa4:before
+{
+  content: "\e979";
+}
+
+.icofont-chart-flow-1_5866508c00bb2a74:before
+{
+  content: "\e97a";
+}
+
+.icofont-chart-flow-2_95aa070e0962333d:before
+{
+  content: "\e97b";
+}
+
+.icofont-chart-flow_4eb87a3d0fa73f47:before
+{
+  content: "\e97c";
+}
+
+.icofont-chart-growth_35e02662cd5799a8:before
+{
+  content: "\e97d";
+}
+
+.icofont-chart-histogram-alt_4135fa17d0b42434:before
+{
+  content: "\e97e";
+}
+
+.icofont-chart-histogram_2006ab27117fa18d:before
+{
+  content: "\e97f";
+}
+
+.icofont-chart-line-alt_3fa21328a40d13c1:before
+{
+  content: "\e980";
+}
+
+.icofont-chart-line_a38c928818244232:before
+{
+  content: "\e981";
+}
+
+.icofont-chart-pie-alt_3167932fd5277efb:before
+{
+  content: "\e982";
+}
+
+.icofont-chart-pie_f1353e9284fa1ab7:before
+{
+  content: "\e983";
+}
+
+.icofont-chart-radar-graph_d114f69c159f365e:before
+{
+  content: "\e984";
+}
+
+.icofont-architecture-alt_8b380e67812e5de2:before
+{
+  content: "\e985";
+}
+
+.icofont-architecture_9e79358f4e23ba5d:before
+{
+  content: "\e986";
+}
+
+.icofont-barricade_44223a0d3d8e5595:before
+{
+  content: "\e987";
+}
+
+.icofont-bolt_fcad326299f9125f:before
+{
+  content: "\e988";
+}
+
+.icofont-bricks_2536e737f98c9ce2:before
+{
+  content: "\e989";
+}
+
+.icofont-building-alt_c479b68623b1e0d0:before
+{
+  content: "\e98a";
+}
+
+.icofont-bull-dozer_774a3257964f4262:before
+{
+  content: "\e98b";
+}
+
+.icofont-calculations_430932cf52fe5ea3:before
+{
+  content: "\e98c";
+}
+
+.icofont-cement-mix_cbbbd5af70dd5c4f:before
+{
+  content: "\e98d";
+}
+
+.icofont-cement-mixer_bb7f95e4680678ba:before
+{
+  content: "\e98e";
+}
+
+.icofont-concrete-mixer_3b361369f4aa63ec:before
+{
+  content: "\e98f";
+}
+
+.icofont-danger-zone_962dc46491056f95:before
+{
+  content: "\e990";
+}
+
+.icofont-drill_b11db308417dc0a8:before
+{
+  content: "\e991";
+}
+
+.icofont-eco-energy_60840fa38a358f42:before
+{
+  content: "\e992";
+}
+
+.icofont-eco-environmen_d8b84b3a9d14f48a:before
+{
+  content: "\e993";
+}
+
+.icofont-energy-air_be277b6bc4c1ecaa:before
+{
+  content: "\e994";
+}
+
+.icofont-energy-oil_95c3a5249e11c51c:before
+{
+  content: "\e995";
+}
+
+.icofont-energy-savings_e3445002f1e6fd5b:before
+{
+  content: "\e996";
+}
+
+.icofont-energy-solar_781ff25d844ead06:before
+{
+  content: "\e997";
+}
+
+.icofont-energy-water_7daaf309df0dca3d:before
+{
+  content: "\e998";
+}
+
+.icofont-engineer_12c87262c23aba89:before
+{
+  content: "\e999";
+}
+
+.icofont-fire-extinguisher-alt_ae0f269f43cd7509:before
+{
+  content: "\e99a";
+}
+
+.icofont-fire-extinguisher_3170dc59ad781b8c:before
+{
+  content: "\e99b";
+}
+
+.icofont-fix-tools_3833dffd1fa1c007:before
+{
+  content: "\e99c";
+}
+
+.icofont-fork-lift_0cd876fc42a5b3ee:before
+{
+  content: "\e99d";
+}
+
+.icofont-glue-oil_50e09724ab79af03:before
+{
+  content: "\e99e";
+}
+
+.icofont-hammer-alt_ce9f20f54a48d408:before
+{
+  content: "\e99f";
+}
+
+.icofont-hammer_9be58d2521f1b2b7:before
+{
+  content: "\e9a0";
+}
+
+.icofont-help-robot_cf74372dbb9b5d08:before
+{
+  content: "\e9a1";
+}
+
+.icofont-industries-1_834f2069efa40fd3:before
+{
+  content: "\e9a2";
+}
+
+.icofont-industries-2_83d99f83612358e2:before
+{
+  content: "\e9a3";
+}
+
+.icofont-industries-3_43b1aa4647e3a5ca:before
+{
+  content: "\e9a4";
+}
+
+.icofont-industries-4_4184836e869a3362:before
+{
+  content: "\e9a5";
+}
+
+.icofont-industries-5_a90c14ff9f7be1d1:before
+{
+  content: "\e9a6";
+}
+
+.icofont-industries_3f19368a82caef65:before
+{
+  content: "\e9a7";
+}
+
+.icofont-labour_031ea6d538bdba49:before
+{
+  content: "\e9a8";
+}
+
+.icofont-mining_64a5777d3948f1d1:before
+{
+  content: "\e9a9";
+}
+
+.icofont-paint-brush_af33671e36901820:before
+{
+  content: "\e9aa";
+}
+
+.icofont-pollution_35d6171fa5f8d4f7:before
+{
+  content: "\e9ab";
+}
+
+.icofont-power-zone_5e1bb666a2d6fb2c:before
+{
+  content: "\e9ac";
+}
+
+.icofont-radio-active_b0725f90bdb8c998:before
+{
+  content: "\e9ad";
+}
+
+.icofont-recycle-alt_e1c267c86772317c:before
+{
+  content: "\e9ae";
+}
+
+.icofont-recycling-man_43da48755216cca9:before
+{
+  content: "\e9af";
+}
+
+.icofont-safety-hat-light_85feb9ee458e989e:before
+{
+  content: "\e9b0";
+}
+
+.icofont-safety-hat_a5caa35263efc2a9:before
+{
+  content: "\e9b1";
+}
+
+.icofont-saw_0f9edbeb2517bcaf:before
+{
+  content: "\e9b2";
+}
+
+.icofont-screw-driver_6c7e14fdca74e155:before
+{
+  content: "\e9b3";
+}
+
+.icofont-tools-1_45b0096b5b3d15d9:before
+{
+  content: "\e9b4";
+}
+
+.icofont-tools-bag_5f3d7217104924cd:before
+{
+  content: "\e9b5";
+}
+
+.icofont-tow-truck_484cc59bcd777286:before
+{
+  content: "\e9b6";
+}
+
+.icofont-trolley_b8b26fa4b5da3baf:before
+{
+  content: "\e9b7";
+}
+
+.icofont-trowel_0d25611d6906a1b7:before
+{
+  content: "\e9b8";
+}
+
+.icofont-under-construction-alt_dd55d0d19eae7998:before
+{
+  content: "\e9b9";
+}
+
+.icofont-under-construction_63fbfcb4a91705f5:before
+{
+  content: "\e9ba";
+}
+
+.icofont-vehicle-cement_767aa546d0e33ca8:before
+{
+  content: "\e9bb";
+}
+
+.icofont-vehicle-crane_84abefb3265c6bda:before
+{
+  content: "\e9bc";
+}
+
+.icofont-vehicle-delivery-van_73a39085ae9c253c:before
+{
+  content: "\e9bd";
+}
+
+.icofont-vehicle-dozer_00ea891a4690485d:before
+{
+  content: "\e9be";
+}
+
+.icofont-vehicle-excavator_e66b7e2cd4529859:before
+{
+  content: "\e9bf";
+}
+
+.icofont-vehicle-trucktor_c8ca9c12aaabefa7:before
+{
+  content: "\e9c0";
+}
+
+.icofont-vehicle-wrecking_7c7a05e20c19162f:before
+{
+  content: "\e9c1";
+}
+
+.icofont-worker_eb59a4ca4409a645:before
+{
+  content: "\e9c2";
+}
+
+.icofont-workers-group_92a6d1c6b1d20c77:before
+{
+  content: "\e9c3";
+}
+
+.icofont-wrench_e2b8aeecc998c2a4:before
+{
+  content: "\e9c4";
+}
+
+.icofont-afghani-false_141e71f320ca16d9:before
+{
+  content: "\e9c5";
+}
+
+.icofont-afghani-minus_8cf2ee6113d38295:before
+{
+  content: "\e9c6";
+}
+
+.icofont-afghani-plus_47805824bd214f17:before
+{
+  content: "\e9c7";
+}
+
+.icofont-afghani-true_49c2e650a06c9687:before
+{
+  content: "\e9c8";
+}
+
+.icofont-afghani_fbbf52ae10e1454d:before
+{
+  content: "\e9c9";
+}
+
+.icofont-baht-false_9c2777ad7561c0a1:before
+{
+  content: "\e9ca";
+}
+
+.icofont-baht-minus_cb0ccb2b0b61bd95:before
+{
+  content: "\e9cb";
+}
+
+.icofont-baht-plus_f04567da832b360d:before
+{
+  content: "\e9cc";
+}
+
+.icofont-baht-true_04ba759f56e52387:before
+{
+  content: "\e9cd";
+}
+
+.icofont-baht_5f8d7371e62999c2:before
+{
+  content: "\e9ce";
+}
+
+.icofont-bitcoin-false_c1af5cf25d81d207:before
+{
+  content: "\e9cf";
+}
+
+.icofont-bitcoin-minus_66dab82fbe110cfb:before
+{
+  content: "\e9d0";
+}
+
+.icofont-bitcoin-plus_d95693a851016099:before
+{
+  content: "\e9d1";
+}
+
+.icofont-bitcoin-true_c3d55ebe330e96ac:before
+{
+  content: "\e9d2";
+}
+
+.icofont-bitcoin_8c4c86e886652510:before
+{
+  content: "\e9d3";
+}
+
+.icofont-dollar-flase_e9016bd23cd2fff6:before
+{
+  content: "\e9d4";
+}
+
+.icofont-dollar-minus_a554a0de1dc125ed:before
+{
+  content: "\e9d5";
+}
+
+.icofont-dollar-plus_9292846ce5fd45ce:before
+{
+  content: "\e9d6";
+}
+
+.icofont-dollar-true_f77fccd0bce61bbd:before
+{
+  content: "\e9d7";
+}
+
+.icofont-dollar_68e87d781289611a:before
+{
+  content: "\e9d8";
+}
+
+.icofont-dong-false_664c51ce916da40b:before
+{
+  content: "\e9d9";
+}
+
+.icofont-dong-minus_0d3487fc3ea8dc83:before
+{
+  content: "\e9da";
+}
+
+.icofont-dong-plus_1b963883515bf4e9:before
+{
+  content: "\e9db";
+}
+
+.icofont-dong-true_929f433cf84e4fc3:before
+{
+  content: "\e9dc";
+}
+
+.icofont-dong_3909c27bf13303cc:before
+{
+  content: "\e9dd";
+}
+
+.icofont-euro-false_9825394b688c03e9:before
+{
+  content: "\e9de";
+}
+
+.icofont-euro-minus_bada965fa329bc40:before
+{
+  content: "\e9df";
+}
+
+.icofont-euro-plus_d4e4a520e8639058:before
+{
+  content: "\e9e0";
+}
+
+.icofont-euro-true_1157b2e5be39aaee:before
+{
+  content: "\e9e1";
+}
+
+.icofont-euro_f6043a4460d70105:before
+{
+  content: "\e9e2";
+}
+
+.icofont-frank-false_cea8323734c0e8cf:before
+{
+  content: "\e9e3";
+}
+
+.icofont-frank-minus_aa41ee3222d8b9ef:before
+{
+  content: "\e9e4";
+}
+
+.icofont-frank-plus_865a630f41f54fff:before
+{
+  content: "\e9e5";
+}
+
+.icofont-frank-true_c1b49960530dc089:before
+{
+  content: "\e9e6";
+}
+
+.icofont-frank_457da13e9eaa8ed4:before
+{
+  content: "\e9e7";
+}
+
+.icofont-hryvnia-false_9d327019bf0d4981:before
+{
+  content: "\e9e8";
+}
+
+.icofont-hryvnia-minus_f0b3bce2eb0c9ada:before
+{
+  content: "\e9e9";
+}
+
+.icofont-hryvnia-plus_1260cb6795a38587:before
+{
+  content: "\e9ea";
+}
+
+.icofont-hryvnia-true_f664b001759848f4:before
+{
+  content: "\e9eb";
+}
+
+.icofont-hryvnia_2b332cfabc0c0ff2:before
+{
+  content: "\e9ec";
+}
+
+.icofont-lira-false_8780c1752188e753:before
+{
+  content: "\e9ed";
+}
+
+.icofont-lira-minus_4a94f8ecb40f84af:before
+{
+  content: "\e9ee";
+}
+
+.icofont-lira-plus_2cc16e756231b898:before
+{
+  content: "\e9ef";
+}
+
+.icofont-lira-true_d404db0b742e9dd6:before
+{
+  content: "\e9f0";
+}
+
+.icofont-lira_e969dec1faef293f:before
+{
+  content: "\e9f1";
+}
+
+.icofont-peseta-false_0211b2a3de58a1a5:before
+{
+  content: "\e9f2";
+}
+
+.icofont-peseta-minus_5aa9e522d5a550a4:before
+{
+  content: "\e9f3";
+}
+
+.icofont-peseta-plus_b47568e4f91c80e4:before
+{
+  content: "\e9f4";
+}
+
+.icofont-peseta-true_caf188e971232892:before
+{
+  content: "\e9f5";
+}
+
+.icofont-peseta_a93f4146d0d4467a:before
+{
+  content: "\e9f6";
+}
+
+.icofont-peso-false_125f935eabf28def:before
+{
+  content: "\e9f7";
+}
+
+.icofont-peso-minus_dd12a3edd39a15c4:before
+{
+  content: "\e9f8";
+}
+
+.icofont-peso-plus_fc7780dc03a6d599:before
+{
+  content: "\e9f9";
+}
+
+.icofont-peso-true_2b60acf9c8a978d9:before
+{
+  content: "\e9fa";
+}
+
+.icofont-peso_10b62753ad516fa7:before
+{
+  content: "\e9fb";
+}
+
+.icofont-pound-false_ae8243a470dad247:before
+{
+  content: "\e9fc";
+}
+
+.icofont-pound-minus_653e35983551ba5e:before
+{
+  content: "\e9fd";
+}
+
+.icofont-pound-plus_7b257bb86db5c5e1:before
+{
+  content: "\e9fe";
+}
+
+.icofont-pound-true_08dd60a559e69dd0:before
+{
+  content: "\e9ff";
+}
+
+.icofont-pound_3ca2d022578f3cae:before
+{
+  content: "\ea00";
+}
+
+.icofont-renminbi-false_1b0a9e9334e7301d:before
+{
+  content: "\ea01";
+}
+
+.icofont-renminbi-minus_b9ed818d6f0aae3a:before
+{
+  content: "\ea02";
+}
+
+.icofont-renminbi-plus_89baf1b51cfe81b9:before
+{
+  content: "\ea03";
+}
+
+.icofont-renminbi-true_19b92e35606d9c11:before
+{
+  content: "\ea04";
+}
+
+.icofont-renminbi_e48e3a6e565dd329:before
+{
+  content: "\ea05";
+}
+
+.icofont-riyal-false_81a4913ecc928aca:before
+{
+  content: "\ea06";
+}
+
+.icofont-riyal-minus_d172f0c737b8fb89:before
+{
+  content: "\ea07";
+}
+
+.icofont-riyal-plus_3f52bec9889f9b53:before
+{
+  content: "\ea08";
+}
+
+.icofont-riyal-true_f7e0aa4715715b1d:before
+{
+  content: "\ea09";
+}
+
+.icofont-riyal_66a8d9e7f55af82c:before
+{
+  content: "\ea0a";
+}
+
+.icofont-rouble-false_29c81a123c94e92e:before
+{
+  content: "\ea0b";
+}
+
+.icofont-rouble-minus_8616ba0eff38d2f7:before
+{
+  content: "\ea0c";
+}
+
+.icofont-rouble-plus_480d1e498ce2ed54:before
+{
+  content: "\ea0d";
+}
+
+.icofont-rouble-true_843057984bea5a7f:before
+{
+  content: "\ea0e";
+}
+
+.icofont-rouble_d85ef8743ff1cb4e:before
+{
+  content: "\ea0f";
+}
+
+.icofont-rupee-false_e8356fd02b41c618:before
+{
+  content: "\ea10";
+}
+
+.icofont-rupee-minus_06962260e3b1d9b1:before
+{
+  content: "\ea11";
+}
+
+.icofont-rupee-plus_1823a159a4ba3433:before
+{
+  content: "\ea12";
+}
+
+.icofont-rupee-true_5102c8f1c63c9f95:before
+{
+  content: "\ea13";
+}
+
+.icofont-rupee_44427582eaa516a0:before
+{
+  content: "\ea14";
+}
+
+.icofont-taka-false_cb1f57e099b3e0ad:before
+{
+  content: "\ea15";
+}
+
+.icofont-taka-minus_e17dbf496a3025b2:before
+{
+  content: "\ea16";
+}
+
+.icofont-taka-plus_a76847833eb373bd:before
+{
+  content: "\ea17";
+}
+
+.icofont-taka-true_16045c6621603d59:before
+{
+  content: "\ea18";
+}
+
+.icofont-taka_b6db970d317c3289:before
+{
+  content: "\ea19";
+}
+
+.icofont-turkish-lira-false_9cde740c95ad2a33:before
+{
+  content: "\ea1a";
+}
+
+.icofont-turkish-lira-minus_445bdd99d70017b9:before
+{
+  content: "\ea1b";
+}
+
+.icofont-turkish-lira-plus_612334b1088c9c09:before
+{
+  content: "\ea1c";
+}
+
+.icofont-turkish-lira-true_fae01b4afb9d8eed:before
+{
+  content: "\ea1d";
+}
+
+.icofont-turkish-lira_09d8aeefc479090b:before
+{
+  content: "\ea1e";
+}
+
+.icofont-won-false_19b58c143aff51df:before
+{
+  content: "\ea1f";
+}
+
+.icofont-won-minus_9dfa3b2e545f5b6d:before
+{
+  content: "\ea20";
+}
+
+.icofont-won-plus_6505123198ce79b9:before
+{
+  content: "\ea21";
+}
+
+.icofont-won-true_bd5081eb11568cf8:before
+{
+  content: "\ea22";
+}
+
+.icofont-won_aae2d2a53232c30b:before
+{
+  content: "\ea23";
+}
+
+.icofont-yen-false_5a2357dd75b876ae:before
+{
+  content: "\ea24";
+}
+
+.icofont-yen-minus_8bdffe0fbd3c2fdb:before
+{
+  content: "\ea25";
+}
+
+.icofont-yen-plus_58e7297501af592b:before
+{
+  content: "\ea26";
+}
+
+.icofont-yen-true_bdb85c1ccffafce0:before
+{
+  content: "\ea27";
+}
+
+.icofont-yen_0dc2217fa552b2a7:before
+{
+  content: "\ea28";
+}
+
+.icofont-android-nexus_2a799185dc8b1eb0:before
+{
+  content: "\ea29";
+}
+
+.icofont-android-tablet_03f1cc9e9c1195b3:before
+{
+  content: "\ea2a";
+}
+
+.icofont-apple-watch_d076e95652ca1766:before
+{
+  content: "\ea2b";
+}
+
+.icofont-drawing-tablet_ea6af413891d91ba:before
+{
+  content: "\ea2c";
+}
+
+.icofont-earphone_6b9f5a97dd06aea7:before
+{
+  content: "\ea2d";
+}
+
+.icofont-flash-drive_504bca1df8090a77:before
+{
+  content: "\ea2e";
+}
+
+.icofont-game-console_f0ca96c02735ef6c:before
+{
+  content: "\ea2f";
+}
+
+.icofont-game-controller_567e8cded70df742:before
+{
+  content: "\ea30";
+}
+
+.icofont-game-pad_62bf126dfd62702a:before
+{
+  content: "\ea31";
+}
+
+.icofont-game_4ff2f5585c43e360:before
+{
+  content: "\ea32";
+}
+
+.icofont-headphone-alt-1_ad0682a7ebf51436:before
+{
+  content: "\ea33";
+}
+
+.icofont-headphone-alt-2_6a03186025ae14b3:before
+{
+  content: "\ea34";
+}
+
+.icofont-headphone-alt-3_bbe323b39cabd3c2:before
+{
+  content: "\ea35";
+}
+
+.icofont-headphone-alt_320d516be49a3ca2:before
+{
+  content: "\ea36";
+}
+
+.icofont-headphone_05f6d7a124860e83:before
+{
+  content: "\ea37";
+}
+
+.icofont-htc-one_7b6d2e3ea457684b:before
+{
+  content: "\ea38";
+}
+
+.icofont-imac_170ed6e942d23331:before
+{
+  content: "\ea39";
+}
+
+.icofont-ipad_bb90ee91688fc1e1:before
+{
+  content: "\ea3a";
+}
+
+.icofont-iphone_d6a4b6ca49beab0c:before
+{
+  content: "\ea3b";
+}
+
+.icofont-ipod-nano_0aae72fe7d74bd52:before
+{
+  content: "\ea3c";
+}
+
+.icofont-ipod-touch_b2fa0ed17669d2ce:before
+{
+  content: "\ea3d";
+}
+
+.icofont-keyboard-alt_2fa86c0cd6c9e9a7:before
+{
+  content: "\ea3e";
+}
+
+.icofont-keyboard-wireless_c6f0ca74f7a479ed:before
+{
+  content: "\ea3f";
+}
+
+.icofont-keyboard_b03332201a00cfe8:before
+{
+  content: "\ea40";
+}
+
+.icofont-laptop-alt_c278a6b0862b2a04:before
+{
+  content: "\ea41";
+}
+
+.icofont-laptop_4ca05fd8d68e49c1:before
+{
+  content: "\ea42";
+}
+
+.icofont-macbook_c7275ad5269d4225:before
+{
+  content: "\ea43";
+}
+
+.icofont-magic-mouse_365c289437fefe1b:before
+{
+  content: "\ea44";
+}
+
+.icofont-micro-chip_57da241c20cfcb6b:before
+{
+  content: "\ea45";
+}
+
+.icofont-microphone-alt_fdcc5ed1d6f5c109:before
+{
+  content: "\ea46";
+}
+
+.icofont-microphone_0a4d1eb775d643b1:before
+{
+  content: "\ea47";
+}
+
+.icofont-monitor_192e532400e591c6:before
+{
+  content: "\ea48";
+}
+
+.icofont-mouse_9e2d34077a6f6035:before
+{
+  content: "\ea49";
+}
+
+.icofont-mp3-player_e4f9a3d882a22ac6:before
+{
+  content: "\ea4a";
+}
+
+.icofont-nintendo_0a78f98c020d575c:before
+{
+  content: "\ea4b";
+}
+
+.icofont-playstation-alt_6cec3ff24199b53f:before
+{
+  content: "\ea4c";
+}
+
+.icofont-psvita_501d12ef681fb459:before
+{
+  content: "\ea4d";
+}
+
+.icofont-radio-mic_9dd788e58427397a:before
+{
+  content: "\ea4e";
+}
+
+.icofont-radio_568368b0d7e989c1:before
+{
+  content: "\ea4f";
+}
+
+.icofont-refrigerator_d2db629e4cb780dc:before
+{
+  content: "\ea50";
+}
+
+.icofont-samsung-galaxy_7be7a679768320c4:before
+{
+  content: "\ea51";
+}
+
+.icofont-surface-tablet_ec39af193f05cd0f:before
+{
+  content: "\ea52";
+}
+
+.icofont-ui-head-phone_dd37d32203a3981e:before
+{
+  content: "\ea53";
+}
+
+.icofont-ui-keyboard_37589660fde30f12:before
+{
+  content: "\ea54";
+}
+
+.icofont-washing-machine_5d1492aa3fdbce9b:before
+{
+  content: "\ea55";
+}
+
+.icofont-wifi-router_fc16b4eae413f56a:before
+{
+  content: "\ea56";
+}
+
+.icofont-wii-u_6cd89a89f585434b:before
+{
+  content: "\ea57";
+}
+
+.icofont-windows-lumia_fe07f565b85d2feb:before
+{
+  content: "\ea58";
+}
+
+.icofont-wireless-mouse_3df06cd0e82cab3a:before
+{
+  content: "\ea59";
+}
+
+.icofont-xbox-360_e41274bfe21f41f1:before
+{
+  content: "\ea5a";
+}
+
+.icofont-arrow-down_472b67acfcf0ce7e:before
+{
+  content: "\ea5b";
+}
+
+.icofont-arrow-left_c59fa5362c0fcf99:before
+{
+  content: "\ea5c";
+}
+
+.icofont-arrow-right_a62242d1b5d64da8:before
+{
+  content: "\ea5d";
+}
+
+.icofont-arrow-up_0090dc2bdf8832e1:before
+{
+  content: "\ea5e";
+}
+
+.icofont-block-down_1cd2e0bd2d53657d:before
+{
+  content: "\ea5f";
+}
+
+.icofont-block-left_af457468cbe78aab:before
+{
+  content: "\ea60";
+}
+
+.icofont-block-right_31b5f687c72b21db:before
+{
+  content: "\ea61";
+}
+
+.icofont-block-up_001685b54a5c28de:before
+{
+  content: "\ea62";
+}
+
+.icofont-bubble-down_0f3f73f3268c9cbe:before
+{
+  content: "\ea63";
+}
+
+.icofont-bubble-left_223e4271f9aedfd0:before
+{
+  content: "\ea64";
+}
+
+.icofont-bubble-right_7db3d9fdc8b888e3:before
+{
+  content: "\ea65";
+}
+
+.icofont-bubble-up_7e705a4cf1da3330:before
+{
+  content: "\ea66";
+}
+
+.icofont-caret-down_cfadcfa390dadd96:before
+{
+  content: "\ea67";
+}
+
+.icofont-caret-left_fdbbc96d9af93959:before
+{
+  content: "\ea68";
+}
+
+.icofont-caret-right_f85476e8989b915a:before
+{
+  content: "\ea69";
+}
+
+.icofont-caret-up_4bb63986079acc3a:before
+{
+  content: "\ea6a";
+}
+
+.icofont-circled-down_f49809c1a9c7ac34:before
+{
+  content: "\ea6b";
+}
+
+.icofont-circled-left_d1473ec5268826b1:before
+{
+  content: "\ea6c";
+}
+
+.icofont-circled-right_8db38286a944540a:before
+{
+  content: "\ea6d";
+}
+
+.icofont-circled-up_ae9e099c1868e4e6:before
+{
+  content: "\ea6e";
+}
+
+.icofont-collapse_9d544e6f6da695b6:before
+{
+  content: "\ea6f";
+}
+
+.icofont-cursor-drag_8ba3d76c3057275f:before
+{
+  content: "\ea70";
+}
+
+.icofont-curved-double-left_e7eda13e744a13f9:before
+{
+  content: "\ea71";
+}
+
+.icofont-curved-double-right_f973f25b76bd5a1a:before
+{
+  content: "\ea72";
+}
+
+.icofont-curved-down_cb77e6ff1df17922:before
+{
+  content: "\ea73";
+}
+
+.icofont-curved-left_2003d6be4a09a87e:before
+{
+  content: "\ea74";
+}
+
+.icofont-curved-right_0eb2880db9cac417:before
+{
+  content: "\ea75";
+}
+
+.icofont-curved-up_c2113e5e1b856e97:before
+{
+  content: "\ea76";
+}
+
+.icofont-dotted-down_28a4f2fa8d4b2254:before
+{
+  content: "\ea77";
+}
+
+.icofont-dotted-left_735a88cd0d616d3f:before
+{
+  content: "\ea78";
+}
+
+.icofont-dotted-right_d4bf6f26129f873d:before
+{
+  content: "\ea79";
+}
+
+.icofont-dotted-up_d85af6b467eb0841:before
+{
+  content: "\ea7a";
+}
+
+.icofont-double-left_5de0a3d7b4d32fc6:before
+{
+  content: "\ea7b";
+}
+
+.icofont-double-right_011ddeaa6b3b27dd:before
+{
+  content: "\ea7c";
+}
+
+.icofont-expand-alt_e9bbff9cb2a83eb2:before
+{
+  content: "\ea7d";
+}
+
+.icofont-hand-down_24ecfd932b486784:before
+{
+  content: "\ea7e";
+}
+
+.icofont-hand-drag_be11ce2cdefa018c:before
+{
+  content: "\ea7f";
+}
+
+.icofont-hand-drag1_6b95b33de23223c1:before
+{
+  content: "\ea80";
+}
+
+.icofont-hand-drag2_02261c91bf700dd6:before
+{
+  content: "\ea81";
+}
+
+.icofont-hand-drawn-alt-down_d3b7828b069ad4c4:before
+{
+  content: "\ea82";
+}
+
+.icofont-hand-drawn-alt-left_c4ca3d18de566d5d:before
+{
+  content: "\ea83";
+}
+
+.icofont-hand-drawn-alt-right_da4a4516ac388439:before
+{
+  content: "\ea84";
+}
+
+.icofont-hand-drawn-alt-up_b2339dd3f4109034:before
+{
+  content: "\ea85";
+}
+
+.icofont-hand-drawn-down_2c0693e06b193762:before
+{
+  content: "\ea86";
+}
+
+.icofont-hand-drawn-left_974687059eaa0f89:before
+{
+  content: "\ea87";
+}
+
+.icofont-hand-drawn-right_287a1a5fc77e5fac:before
+{
+  content: "\ea88";
+}
+
+.icofont-hand-drawn-up_628f54b2af0fb980:before
+{
+  content: "\ea89";
+}
+
+.icofont-hand-grippers_2bd9e739aba8413d:before
+{
+  content: "\ea8a";
+}
+
+.icofont-hand-left_2b887e0ffa2d899e:before
+{
+  content: "\ea8b";
+}
+
+.icofont-hand-right_f19148140d038b20:before
+{
+  content: "\ea8c";
+}
+
+.icofont-hand-up_997cb1a341bd771c:before
+{
+  content: "\ea8d";
+}
+
+.icofont-line-block-down_f4fdfb84a0a92fbf:before
+{
+  content: "\ea8e";
+}
+
+.icofont-line-block-left_7dce4e1764cea651:before
+{
+  content: "\ea8f";
+}
+
+.icofont-line-block-right_48d62f406a879fec:before
+{
+  content: "\ea90";
+}
+
+.icofont-line-block-up_d83cab99bba2fccf:before
+{
+  content: "\ea91";
+}
+
+.icofont-long-arrow-down_eb748cec83a040f5:before
+{
+  content: "\ea92";
+}
+
+.icofont-long-arrow-left_f12c7401532e381b:before
+{
+  content: "\ea93";
+}
+
+.icofont-long-arrow-right_833d659fdb73322d:before
+{
+  content: "\ea94";
+}
+
+.icofont-long-arrow-up_67244a2021775bf6:before
+{
+  content: "\ea95";
+}
+
+.icofont-rounded-collapse_cbe11a57e1628db3:before
+{
+  content: "\ea96";
+}
+
+.icofont-rounded-double-left_b3e95a55eee82b61:before
+{
+  content: "\ea97";
+}
+
+.icofont-rounded-double-right_c00d43c1205de913:before
+{
+  content: "\ea98";
+}
+
+.icofont-rounded-down_cbfa981cf1a34c54:before
+{
+  content: "\ea99";
+}
+
+.icofont-rounded-expand_37fe2071c629759d:before
+{
+  content: "\ea9a";
+}
+
+.icofont-rounded-left-down_3efd0fabfeeed0f7:before
+{
+  content: "\ea9b";
+}
+
+.icofont-rounded-left-up_7a6a4de09513ca16:before
+{
+  content: "\ea9c";
+}
+
+.icofont-rounded-left_07651e765f89b849:before
+{
+  content: "\ea9d";
+}
+
+.icofont-rounded-right-down_c91679f22958790f:before
+{
+  content: "\ea9e";
+}
+
+.icofont-rounded-right-up_8cf7cfca4f06c2dd:before
+{
+  content: "\ea9f";
+}
+
+.icofont-rounded-right_e53f3b038fb8c988:before
+{
+  content: "\eaa0";
+}
+
+.icofont-rounded-up_d4671610e7b2f0d7:before
+{
+  content: "\eaa1";
+}
+
+.icofont-scroll-bubble-down_0e82fff6635ae9e2:before
+{
+  content: "\eaa2";
+}
+
+.icofont-scroll-bubble-left_ccb373a74d710b9f:before
+{
+  content: "\eaa3";
+}
+
+.icofont-scroll-bubble-right_3dfab56006fcbf32:before
+{
+  content: "\eaa4";
+}
+
+.icofont-scroll-bubble-up_a0294d8965c85513:before
+{
+  content: "\eaa5";
+}
+
+.icofont-scroll-double-down_52f67e254b424c31:before
+{
+  content: "\eaa6";
+}
+
+.icofont-scroll-double-left_1208cf2a4f4deb9a:before
+{
+  content: "\eaa7";
+}
+
+.icofont-scroll-double-right_aa33368aeb49f2c4:before
+{
+  content: "\eaa8";
+}
+
+.icofont-scroll-double-up_e33e20ab9c2b83c7:before
+{
+  content: "\eaa9";
+}
+
+.icofont-scroll-down_2006b8f756c13a85:before
+{
+  content: "\eaaa";
+}
+
+.icofont-scroll-left_ea7706f25df50f60:before
+{
+  content: "\eaab";
+}
+
+.icofont-scroll-long-down_8020241f8cdc77b4:before
+{
+  content: "\eaac";
+}
+
+.icofont-scroll-long-left_9edeaa70ca1250f0:before
+{
+  content: "\eaad";
+}
+
+.icofont-scroll-long-right_b24c68329b8fe74c:before
+{
+  content: "\eaae";
+}
+
+.icofont-scroll-long-up_e20b7939d7ccbcaa:before
+{
+  content: "\eaaf";
+}
+
+.icofont-scroll-right_3f3f9c5319c93558:before
+{
+  content: "\eab0";
+}
+
+.icofont-scroll-up_c0a1a175a549a8e0:before
+{
+  content: "\eab1";
+}
+
+.icofont-simple-down_07149e270d0e8d75:before
+{
+  content: "\eab2";
+}
+
+.icofont-simple-left-down_ec40deb4b44b2d6d:before
+{
+  content: "\eab3";
+}
+
+.icofont-simple-left-up_59f615612465fdf0:before
+{
+  content: "\eab4";
+}
+
+.icofont-simple-left_7f7abcb2e1488d95:before
+{
+  content: "\eab5";
+}
+
+.icofont-simple-right-down_f05f30a2fd030dc2:before
+{
+  content: "\eab6";
+}
+
+.icofont-simple-right-up_e0a12a5bc3a78525:before
+{
+  content: "\eab7";
+}
+
+.icofont-simple-right_e2046bd4812fe52c:before
+{
+  content: "\eab8";
+}
+
+.icofont-simple-up_7b6e24684881db92:before
+{
+  content: "\eab9";
+}
+
+.icofont-square-down_ca4f87b8a133acd6:before
+{
+  content: "\eaba";
+}
+
+.icofont-square-left_6a3b384365fc53e4:before
+{
+  content: "\eabb";
+}
+
+.icofont-square-right_2ccea186c5c3c5f0:before
+{
+  content: "\eabc";
+}
+
+.icofont-square-up_921e81b6474db799:before
+{
+  content: "\eabd";
+}
+
+.icofont-stylish-down_f8e2d768620266aa:before
+{
+  content: "\eabe";
+}
+
+.icofont-stylish-left_2ec953fb75c96f72:before
+{
+  content: "\eabf";
+}
+
+.icofont-stylish-right_b76166618c912d13:before
+{
+  content: "\eac0";
+}
+
+.icofont-stylish-up_c166aebdd566d33f:before
+{
+  content: "\eac1";
+}
+
+.icofont-swoosh-down_4f862764b6ffddfe:before
+{
+  content: "\eac2";
+}
+
+.icofont-swoosh-left_2b5abf6c132f5ff8:before
+{
+  content: "\eac3";
+}
+
+.icofont-swoosh-right_a0fcf036d02875a7:before
+{
+  content: "\eac4";
+}
+
+.icofont-swoosh-up_c1119bd98ce3526d:before
+{
+  content: "\eac5";
+}
+
+.icofont-thin-double-left_a9c93de41c20b9dc:before
+{
+  content: "\eac6";
+}
+
+.icofont-thin-double-right_2eda6cba2b72781c:before
+{
+  content: "\eac7";
+}
+
+.icofont-thin-down_6501e8dccbe7e233:before
+{
+  content: "\eac8";
+}
+
+.icofont-thin-left_f565689b77cd88ab:before
+{
+  content: "\eac9";
+}
+
+.icofont-thin-right_ddf4dfb0a376aaec:before
+{
+  content: "\eaca";
+}
+
+.icofont-thin-up_4e41058f256476c7:before
+{
+  content: "\eacb";
+}
+
+.icofont-abc_d3fc769c352f0798:before
+{
+  content: "\eacc";
+}
+
+.icofont-atom_65933d8d908a0d46:before
+{
+  content: "\eacd";
+}
+
+.icofont-award_7812d5bd71fdb46a:before
+{
+  content: "\eace";
+}
+
+.icofont-bell-alt_3fa93be7988f76df:before
+{
+  content: "\eacf";
+}
+
+.icofont-black-board_03d47927a484003b:before
+{
+  content: "\ead0";
+}
+
+.icofont-book-alt_e88ddb1fa7e96be6:before
+{
+  content: "\ead1";
+}
+
+.icofont-book_13c0f81ba5e30c56:before
+{
+  content: "\ead2";
+}
+
+.icofont-brainstorming_f333934cc0bdc27f:before
+{
+  content: "\ead3";
+}
+
+.icofont-certificate-alt-1_d14c81ee0a50ab56:before
+{
+  content: "\ead4";
+}
+
+.icofont-certificate-alt-2_048e4cd887aa1018:before
+{
+  content: "\ead5";
+}
+
+.icofont-certificate_331d9b851b021799:before
+{
+  content: "\ead6";
+}
+
+.icofont-education_e98ac4f050c15ccf:before
+{
+  content: "\ead7";
+}
+
+.icofont-electron_78295caf20c972cb:before
+{
+  content: "\ead8";
+}
+
+.icofont-fountain-pen_84311e5748cb5a56:before
+{
+  content: "\ead9";
+}
+
+.icofont-globe-alt_d4a224ab5b9d761e:before
+{
+  content: "\eada";
+}
+
+.icofont-graduate-alt_f3e28bc5644a7296:before
+{
+  content: "\eadb";
+}
+
+.icofont-graduate_3837657a33fc6aa6:before
+{
+  content: "\eadc";
+}
+
+.icofont-group-students_ad01bbe38b59620e:before
+{
+  content: "\eadd";
+}
+
+.icofont-hat-alt_f4f0ced7ba546104:before
+{
+  content: "\eade";
+}
+
+.icofont-hat_e3ad4718a36e0c4f:before
+{
+  content: "\eadf";
+}
+
+.icofont-instrument_bf5ac0e846ece219:before
+{
+  content: "\eae0";
+}
+
+.icofont-lamp-light_fe1c4ecad9933ef2:before
+{
+  content: "\eae1";
+}
+
+.icofont-medal_c02650ec8624c9c4:before
+{
+  content: "\eae2";
+}
+
+.icofont-microscope-alt_2bbda442e6fb4b4c:before
+{
+  content: "\eae3";
+}
+
+.icofont-microscope_c934611978a6b8a3:before
+{
+  content: "\eae4";
+}
+
+.icofont-paper_53ed299f4691b3cf:before
+{
+  content: "\eae5";
+}
+
+.icofont-pen-alt-4_3564fbff3e93731d:before
+{
+  content: "\eae6";
+}
+
+.icofont-pen-nib_d6ee0aeb4e3a16a1:before
+{
+  content: "\eae7";
+}
+
+.icofont-pencil-alt-5_906b769db139224d:before
+{
+  content: "\eae8";
+}
+
+.icofont-quill-pen_2abc01f704237811:before
+{
+  content: "\eae9";
+}
+
+.icofont-read-book-alt_929e598fe5bc0729:before
+{
+  content: "\eaea";
+}
+
+.icofont-read-book_26fc2162acf9fdaa:before
+{
+  content: "\eaeb";
+}
+
+.icofont-school-bag_41e1f43bff1484f3:before
+{
+  content: "\eaec";
+}
+
+.icofont-school-bus_5246a0ff0c0e1eee:before
+{
+  content: "\eaed";
+}
+
+.icofont-student-alt_d71fbb73f9ffeb92:before
+{
+  content: "\eaee";
+}
+
+.icofont-student_71cec8ba3dc8d7ed:before
+{
+  content: "\eaef";
+}
+
+.icofont-teacher_66b3d3ef1caceacf:before
+{
+  content: "\eaf0";
+}
+
+.icofont-test-bulb_4f0d836118a19121:before
+{
+  content: "\eaf1";
+}
+
+.icofont-test-tube-alt_b20954842b9a438d:before
+{
+  content: "\eaf2";
+}
+
+.icofont-university_b5dca50b84bdcc95:before
+{
+  content: "\eaf3";
+}
+
+.icofont-angry_9c7c16cd89ed1d22:before
+{
+  content: "\eaf4";
+}
+
+.icofont-astonished_c65b2192959c8274:before
+{
+  content: "\eaf5";
+}
+
+.icofont-confounded_2023e5dc035509c7:before
+{
+  content: "\eaf6";
+}
+
+.icofont-confused_da10ac70e47f8196:before
+{
+  content: "\eaf7";
+}
+
+.icofont-crying_3ac84e720c4b2c35:before
+{
+  content: "\eaf8";
+}
+
+.icofont-dizzy_07d2996ab47ec70b:before
+{
+  content: "\eaf9";
+}
+
+.icofont-expressionless_fa76a60ba11761a7:before
+{
+  content: "\eafa";
+}
+
+.icofont-heart-eyes_7ead7b8244a2ca74:before
+{
+  content: "\eafb";
+}
+
+.icofont-laughing_c4b84740abc66487:before
+{
+  content: "\eafc";
+}
+
+.icofont-nerd-smile_f58d9c42edb1ed94:before
+{
+  content: "\eafd";
+}
+
+.icofont-open-mouth_451e864e9b1f4800:before
+{
+  content: "\eafe";
+}
+
+.icofont-rage_4bf4af0e06f1c12d:before
+{
+  content: "\eaff";
+}
+
+.icofont-rolling-eyes_19f6641cfb138c62:before
+{
+  content: "\eb00";
+}
+
+.icofont-sad_20ba57f22506b907:before
+{
+  content: "\eb01";
+}
+
+.icofont-simple-smile_25ae37a52a6c0bd1:before
+{
+  content: "\eb02";
+}
+
+.icofont-slightly-smile_73f6d817429d13ce:before
+{
+  content: "\eb03";
+}
+
+.icofont-smirk_39bd3357ea28c7c1:before
+{
+  content: "\eb04";
+}
+
+.icofont-stuck-out-tongue_584e4a0690cc88c9:before
+{
+  content: "\eb05";
+}
+
+.icofont-wink-smile_6f0ea6168449170e:before
+{
+  content: "\eb06";
+}
+
+.icofont-worried_f695b905950cce3b:before
+{
+  content: "\eb07";
+}
+
+.icofont-file-alt_09e17d3535bb93c1:before
+{
+  content: "\eb08";
+}
+
+.icofont-file-audio_bf10638f9d57aca1:before
+{
+  content: "\eb09";
+}
+
+.icofont-file-avi-mp4_abbfe66fdc66c4ae:before
+{
+  content: "\eb0a";
+}
+
+.icofont-file-bmp_b266aa715197e88e:before
+{
+  content: "\eb0b";
+}
+
+.icofont-file-code_5709b56385042a0d:before
+{
+  content: "\eb0c";
+}
+
+.icofont-file-css_f41a7f9099380f96:before
+{
+  content: "\eb0d";
+}
+
+.icofont-file-document_c64ae08420e432b0:before
+{
+  content: "\eb0e";
+}
+
+.icofont-file-eps_ac55bcbe299044a4:before
+{
+  content: "\eb0f";
+}
+
+.icofont-file-excel_eaea893aecdacd03:before
+{
+  content: "\eb10";
+}
+
+.icofont-file-exe_d3255326b05b917d:before
+{
+  content: "\eb11";
+}
+
+.icofont-file-file_a385279b2530156d:before
+{
+  content: "\eb12";
+}
+
+.icofont-file-flv_f04279955539a209:before
+{
+  content: "\eb13";
+}
+
+.icofont-file-gif_2d0c88f70993d7c6:before
+{
+  content: "\eb14";
+}
+
+.icofont-file-html5_98a21b68565fc233:before
+{
+  content: "\eb15";
+}
+
+.icofont-file-image_7297f8cd0eb7a489:before
+{
+  content: "\eb16";
+}
+
+.icofont-file-iso_ffd126121f68e428:before
+{
+  content: "\eb17";
+}
+
+.icofont-file-java_15d03f3ae501bdc1:before
+{
+  content: "\eb18";
+}
+
+.icofont-file-javascript_a894c74e89fb1163:before
+{
+  content: "\eb19";
+}
+
+.icofont-file-jpg_64c6da82d2050cac:before
+{
+  content: "\eb1a";
+}
+
+.icofont-file-midi_d2cfcf2d80bd52d3:before
+{
+  content: "\eb1b";
+}
+
+.icofont-file-mov_b134ab40b2f7507b:before
+{
+  content: "\eb1c";
+}
+
+.icofont-file-mp3_2751cccb5a9e41f5:before
+{
+  content: "\eb1d";
+}
+
+.icofont-file-pdf_dddb0071043cce70:before
+{
+  content: "\eb1e";
+}
+
+.icofont-file-php_3babd51d8defa86e:before
+{
+  content: "\eb1f";
+}
+
+.icofont-file-png_7ff31cee8c42c65b:before
+{
+  content: "\eb20";
+}
+
+.icofont-file-powerpoint_c90a98ee1f0a347d:before
+{
+  content: "\eb21";
+}
+
+.icofont-file-presentation_c4bb9abdeaa8bae3:before
+{
+  content: "\eb22";
+}
+
+.icofont-file-psb_fa5330b77a5161b9:before
+{
+  content: "\eb23";
+}
+
+.icofont-file-psd_706777a9a0507023:before
+{
+  content: "\eb24";
+}
+
+.icofont-file-python_6d80881a1f36f570:before
+{
+  content: "\eb25";
+}
+
+.icofont-file-ruby_c64224087df240bf:before
+{
+  content: "\eb26";
+}
+
+.icofont-file-spreadsheet_e30480e17bc5430a:before
+{
+  content: "\eb27";
+}
+
+.icofont-file-sql_6d06ef9fe7d23399:before
+{
+  content: "\eb28";
+}
+
+.icofont-file-svg_7c28334b887aaaac:before
+{
+  content: "\eb29";
+}
+
+.icofont-file-text_c5cafab1dc609744:before
+{
+  content: "\eb2a";
+}
+
+.icofont-file-tiff_e5eda34148c18831:before
+{
+  content: "\eb2b";
+}
+
+.icofont-file-video_08606d911f646330:before
+{
+  content: "\eb2c";
+}
+
+.icofont-file-wave_51c35792e7bda0b6:before
+{
+  content: "\eb2d";
+}
+
+.icofont-file-wmv_da9d52bd0ce76fc2:before
+{
+  content: "\eb2e";
+}
+
+.icofont-file-word_5d713a2614bcb0d3:before
+{
+  content: "\eb2f";
+}
+
+.icofont-file-zip_a40e15af413fff15:before
+{
+  content: "\eb30";
+}
+
+.icofont-cycling-alt_d5727fcae8ad9cff:before
+{
+  content: "\eb31";
+}
+
+.icofont-cycling_29b63fae3bfc7b2b:before
+{
+  content: "\eb32";
+}
+
+.icofont-dumbbell_12a1d7e7eff4a0aa:before
+{
+  content: "\eb33";
+}
+
+.icofont-dumbbells_8f733eb3eae3a637:before
+{
+  content: "\eb34";
+}
+
+.icofont-gym-alt-1_a3a4bfa540b38cf5:before
+{
+  content: "\eb35";
+}
+
+.icofont-gym-alt-2_00f551755aa4c20d:before
+{
+  content: "\eb36";
+}
+
+.icofont-gym-alt-3_ddd603f3be65abb8:before
+{
+  content: "\eb37";
+}
+
+.icofont-gym_b0aa25bbeed89942:before
+{
+  content: "\eb38";
+}
+
+.icofont-muscle-weight_88d7033bf7934d69:before
+{
+  content: "\eb39";
+}
+
+.icofont-muscle_39e79518ed916d2b:before
+{
+  content: "\eb3a";
+}
+
+.icofont-apple_795f2406d152a119:before
+{
+  content: "\eb3b";
+}
+
+.icofont-arabian-coffee_d4db482c18aa9000:before
+{
+  content: "\eb3c";
+}
+
+.icofont-artichoke_4c2e59973b3df9de:before
+{
+  content: "\eb3d";
+}
+
+.icofont-asparagus_6186f7f7ec743f1e:before
+{
+  content: "\eb3e";
+}
+
+.icofont-avocado_2a209d59bb75976a:before
+{
+  content: "\eb3f";
+}
+
+.icofont-baby-food_bc06e8edc61843e5:before
+{
+  content: "\eb40";
+}
+
+.icofont-banana_29277bd644b52624:before
+{
+  content: "\eb41";
+}
+
+.icofont-bbq_c599c8c1557e6601:before
+{
+  content: "\eb42";
+}
+
+.icofont-beans_162ddf889f286ba0:before
+{
+  content: "\eb43";
+}
+
+.icofont-beer_109b54a3b197739b:before
+{
+  content: "\eb44";
+}
+
+.icofont-bell-pepper-capsicum_aa4828e84397dc48:before
+{
+  content: "\eb45";
+}
+
+.icofont-birthday-cake_606db3d5fea74980:before
+{
+  content: "\eb46";
+}
+
+.icofont-bread_c0c11b131cece271:before
+{
+  content: "\eb47";
+}
+
+.icofont-broccoli_7ac976e1e28ffea8:before
+{
+  content: "\eb48";
+}
+
+.icofont-burger_8b4ddb3cb0059773:before
+{
+  content: "\eb49";
+}
+
+.icofont-cabbage_0faf641b9b9e6d4f:before
+{
+  content: "\eb4a";
+}
+
+.icofont-carrot_2c33feec6a198e6c:before
+{
+  content: "\eb4b";
+}
+
+.icofont-cauli-flower_a30ad3f969928985:before
+{
+  content: "\eb4c";
+}
+
+.icofont-cheese_0f723621b14c4f08:before
+{
+  content: "\eb4d";
+}
+
+.icofont-chef_cb8ab9498339ea01:before
+{
+  content: "\eb4e";
+}
+
+.icofont-cherry_14142530bcf756bd:before
+{
+  content: "\eb4f";
+}
+
+.icofont-chicken-fry_5a589b32dcd0c42f:before
+{
+  content: "\eb50";
+}
+
+.icofont-chicken_72e2c0255fcddaeb:before
+{
+  content: "\eb51";
+}
+
+.icofont-cocktail_c4b83b33460c1509:before
+{
+  content: "\eb52";
+}
+
+.icofont-coconut-water_50fb829afe96bb5a:before
+{
+  content: "\eb53";
+}
+
+.icofont-coconut_37b21c285d4c5d6c:before
+{
+  content: "\eb54";
+}
+
+.icofont-coffee-alt_8aed07163e1baf34:before
+{
+  content: "\eb55";
+}
+
+.icofont-coffee-cup_2f8910c5db2a9a51:before
+{
+  content: "\eb56";
+}
+
+.icofont-coffee-mug_81935a16cfb707b2:before
+{
+  content: "\eb57";
+}
+
+.icofont-coffee-pot_16080e9a752fb947:before
+{
+  content: "\eb58";
+}
+
+.icofont-cola_167ff5272ddbb901:before
+{
+  content: "\eb59";
+}
+
+.icofont-corn_198b7b0c41f59246:before
+{
+  content: "\eb5a";
+}
+
+.icofont-croissant_044be5d799a7579f:before
+{
+  content: "\eb5b";
+}
+
+.icofont-crop-plant_50dcc2ec9671dbfe:before
+{
+  content: "\eb5c";
+}
+
+.icofont-cucumber_99032da00999624c:before
+{
+  content: "\eb5d";
+}
+
+.icofont-culinary_a5514cd080bd6628:before
+{
+  content: "\eb5e";
+}
+
+.icofont-cup-cake_c1ba7e3538517ca0:before
+{
+  content: "\eb5f";
+}
+
+.icofont-dining-table_2b2ffb525a80b698:before
+{
+  content: "\eb60";
+}
+
+.icofont-donut_4ffb5771efc22f82:before
+{
+  content: "\eb61";
+}
+
+.icofont-egg-plant_c3788d4b8d6929ae:before
+{
+  content: "\eb62";
+}
+
+.icofont-egg-poached_0a7503ccd01435f2:before
+{
+  content: "\eb63";
+}
+
+.icofont-farmer-alt_9041a79453c4db94:before
+{
+  content: "\eb64";
+}
+
+.icofont-farmer_b1b786c3e07ec430:before
+{
+  content: "\eb65";
+}
+
+.icofont-fast-food_0c85961095070289:before
+{
+  content: "\eb66";
+}
+
+.icofont-food-basket_5c4e39990b2dbc8d:before
+{
+  content: "\eb67";
+}
+
+.icofont-food-cart_b616c6f7f41902f0:before
+{
+  content: "\eb68";
+}
+
+.icofont-fork-and-knife_3bc5ac4bf7c15b80:before
+{
+  content: "\eb69";
+}
+
+.icofont-french-fries_1d0e80877bfc0768:before
+{
+  content: "\eb6a";
+}
+
+.icofont-fruits_f7eff0dfbb25fedf:before
+{
+  content: "\eb6b";
+}
+
+.icofont-grapes_ab344a1a420c307e:before
+{
+  content: "\eb6c";
+}
+
+.icofont-honey_4c96c6c6fe050b11:before
+{
+  content: "\eb6d";
+}
+
+.icofont-hot-dog_13774d97350b1564:before
+{
+  content: "\eb6e";
+}
+
+.icofont-ice-cream-alt_5f183596ddf180e2:before
+{
+  content: "\eb6f";
+}
+
+.icofont-ice-cream_8d9e8ed2c8a99f04:before
+{
+  content: "\eb70";
+}
+
+.icofont-juice_3e14c20b02069729:before
+{
+  content: "\eb71";
+}
+
+.icofont-ketchup_4a94cf4800ecba8e:before
+{
+  content: "\eb72";
+}
+
+.icofont-kiwi_3072678607056057:before
+{
+  content: "\eb73";
+}
+
+.icofont-layered-cake_84caa706a8a2d0a0:before
+{
+  content: "\eb74";
+}
+
+.icofont-lemon-alt_4353ecf1f552498e:before
+{
+  content: "\eb75";
+}
+
+.icofont-lemon_48315ee8524a8367:before
+{
+  content: "\eb76";
+}
+
+.icofont-lobster_f94bfb0c55c58589:before
+{
+  content: "\eb77";
+}
+
+.icofont-mango_54e350bd4bc1a023:before
+{
+  content: "\eb78";
+}
+
+.icofont-milk_a67057a547570d68:before
+{
+  content: "\eb79";
+}
+
+.icofont-mushroom_86df132a39733026:before
+{
+  content: "\eb7a";
+}
+
+.icofont-noodles_7fd64c7c182c6219:before
+{
+  content: "\eb7b";
+}
+
+.icofont-onion_810bab2f3566d6b0:before
+{
+  content: "\eb7c";
+}
+
+.icofont-orange_f81eb857d26b3141:before
+{
+  content: "\eb7d";
+}
+
+.icofont-pear_f439d6d1d9e621bf:before
+{
+  content: "\eb7e";
+}
+
+.icofont-peas_193c54cb70325f16:before
+{
+  content: "\eb7f";
+}
+
+.icofont-pepper_bedceb64cb10ab4a:before
+{
+  content: "\eb80";
+}
+
+.icofont-pie-alt_bac658bb1728db77:before
+{
+  content: "\eb81";
+}
+
+.icofont-pie_5d780d9ab9fdaeea:before
+{
+  content: "\eb82";
+}
+
+.icofont-pineapple_fc35f7bce22b7147:before
+{
+  content: "\eb83";
+}
+
+.icofont-pizza-slice_c45402c1764c1846:before
+{
+  content: "\eb84";
+}
+
+.icofont-pizza_5db80fe9d1ba3902:before
+{
+  content: "\eb85";
+}
+
+.icofont-plant_d9459b885eabacb6:before
+{
+  content: "\eb86";
+}
+
+.icofont-popcorn_8dc935545b84f537:before
+{
+  content: "\eb87";
+}
+
+.icofont-potato_19b9054100ba4252:before
+{
+  content: "\eb88";
+}
+
+.icofont-pumpkin_f9ebc2e1075a8ee2:before
+{
+  content: "\eb89";
+}
+
+.icofont-raddish_14411995c4a47e65:before
+{
+  content: "\eb8a";
+}
+
+.icofont-restaurant-menu_33883588be8f5741:before
+{
+  content: "\eb8b";
+}
+
+.icofont-restaurant_bf662e8f5cf94c72:before
+{
+  content: "\eb8c";
+}
+
+.icofont-salt-and-pepper_a542c6d69c30ce4b:before
+{
+  content: "\eb8d";
+}
+
+.icofont-sandwich_27a16c77e691d71d:before
+{
+  content: "\eb8e";
+}
+
+.icofont-sausage_9d6957bdcff155c6:before
+{
+  content: "\eb8f";
+}
+
+.icofont-soft-drinks_93c4d4310020771f:before
+{
+  content: "\eb90";
+}
+
+.icofont-soup-bowl_a4d931afc04ca38a:before
+{
+  content: "\eb91";
+}
+
+.icofont-spoon-and-fork_49a9f4f023b67796:before
+{
+  content: "\eb92";
+}
+
+.icofont-steak_2f14222ac2e6198b:before
+{
+  content: "\eb93";
+}
+
+.icofont-strawberry_1a2f3a8605a44ee2:before
+{
+  content: "\eb94";
+}
+
+.icofont-sub-sandwich_e902ea0d65591d66:before
+{
+  content: "\eb95";
+}
+
+.icofont-sushi_c9b0538ef91492bb:before
+{
+  content: "\eb96";
+}
+
+.icofont-taco_0a264d4b4a1e51c7:before
+{
+  content: "\eb97";
+}
+
+.icofont-tea-pot_bc147667abaf058b:before
+{
+  content: "\eb98";
+}
+
+.icofont-tea_982a466e14655cb5:before
+{
+  content: "\eb99";
+}
+
+.icofont-tomato_21518c65cc953fcd:before
+{
+  content: "\eb9a";
+}
+
+.icofont-watermelon_effe3863c1f94bbf:before
+{
+  content: "\eb9b";
+}
+
+.icofont-wheat_d1bbb88de9dc2e2d:before
+{
+  content: "\eb9c";
+}
+
+.icofont-baby-backpack_6b906357585c85d5:before
+{
+  content: "\eb9d";
+}
+
+.icofont-baby-cloth_3c15422664b3984c:before
+{
+  content: "\eb9e";
+}
+
+.icofont-baby-milk-bottle_ac4470c5dd813a2d:before
+{
+  content: "\eb9f";
+}
+
+.icofont-baby-trolley_ff622da5c9619042:before
+{
+  content: "\eba0";
+}
+
+.icofont-baby_b2f374ee5a35dc8c:before
+{
+  content: "\eba1";
+}
+
+.icofont-candy_f0941a1025b8d592:before
+{
+  content: "\eba2";
+}
+
+.icofont-holding-hands_38eed4f74fef7b61:before
+{
+  content: "\eba3";
+}
+
+.icofont-infant-nipple_9d57d4cea5bcd35a:before
+{
+  content: "\eba4";
+}
+
+.icofont-kids-scooter_d9f1e3e5ca7e6215:before
+{
+  content: "\eba5";
+}
+
+.icofont-safety-pin_e2c01f0f910a8269:before
+{
+  content: "\eba6";
+}
+
+.icofont-teddy-bear_ccdbc4b4163a0c3d:before
+{
+  content: "\eba7";
+}
+
+.icofont-toy-ball_2e7fb112ac3ebeb2:before
+{
+  content: "\eba8";
+}
+
+.icofont-toy-cat_fade096741746ad7:before
+{
+  content: "\eba9";
+}
+
+.icofont-toy-duck_173e315953b46ff6:before
+{
+  content: "\ebaa";
+}
+
+.icofont-toy-elephant_0d767f6200a27376:before
+{
+  content: "\ebab";
+}
+
+.icofont-toy-hand_d817db3b923c9ed6:before
+{
+  content: "\ebac";
+}
+
+.icofont-toy-horse_bad59aa2090f84c0:before
+{
+  content: "\ebad";
+}
+
+.icofont-toy-lattu_753ec438035c9f76:before
+{
+  content: "\ebae";
+}
+
+.icofont-toy-train_883fef087318c68d:before
+{
+  content: "\ebaf";
+}
+
+.icofont-burglar_d36a6b6581795ef1:before
+{
+  content: "\ebb0";
+}
+
+.icofont-cannon-firing_f894a6138482a030:before
+{
+  content: "\ebb1";
+}
+
+.icofont-cc-camera_220ebaee6193f175:before
+{
+  content: "\ebb2";
+}
+
+.icofont-cop-badge_b1af2a684d737974:before
+{
+  content: "\ebb3";
+}
+
+.icofont-cop_fa60d0837dd46d06:before
+{
+  content: "\ebb4";
+}
+
+.icofont-court-hammer_eea1d2f38d26cf11:before
+{
+  content: "\ebb5";
+}
+
+.icofont-court_38a8a99a07caf770:before
+{
+  content: "\ebb6";
+}
+
+.icofont-finger-print_b152360dbd5b3c9d:before
+{
+  content: "\ebb7";
+}
+
+.icofont-gavel_51b604699cd0d543:before
+{
+  content: "\ebb8";
+}
+
+.icofont-handcuff-alt_b84fc73ad51faf5d:before
+{
+  content: "\ebb9";
+}
+
+.icofont-handcuff_2204db5ab455f73e:before
+{
+  content: "\ebba";
+}
+
+.icofont-investigation_46493e9cd42f5638:before
+{
+  content: "\ebbb";
+}
+
+.icofont-investigator_ad7993dc12864969:before
+{
+  content: "\ebbc";
+}
+
+.icofont-jail_f7c326255c2526ee:before
+{
+  content: "\ebbd";
+}
+
+.icofont-judge_8aa028f5dac21aeb:before
+{
+  content: "\ebbe";
+}
+
+.icofont-law-alt-1_f0eeae00f2081c6b:before
+{
+  content: "\ebbf";
+}
+
+.icofont-law-alt-2_9de244b1bc67dfce:before
+{
+  content: "\ebc0";
+}
+
+.icofont-law-alt-3_f43e0a7d566cd6b4:before
+{
+  content: "\ebc1";
+}
+
+.icofont-law-book_6027aa14b689db8a:before
+{
+  content: "\ebc2";
+}
+
+.icofont-law-document_4d5efd0156c2eb91:before
+{
+  content: "\ebc3";
+}
+
+.icofont-law-order_c7ea11ee4d14e1f9:before
+{
+  content: "\ebc4";
+}
+
+.icofont-law-protect_01a1b3d8bf93a60d:before
+{
+  content: "\ebc5";
+}
+
+.icofont-law-scales_6a17766710a964f0:before
+{
+  content: "\ebc6";
+}
+
+.icofont-law_9519ecdb39896af6:before
+{
+  content: "\ebc7";
+}
+
+.icofont-lawyer-alt-1_a929871c1531aed1:before
+{
+  content: "\ebc8";
+}
+
+.icofont-lawyer-alt-2_115f3afec9fcf960:before
+{
+  content: "\ebc9";
+}
+
+.icofont-lawyer_4cea6c38f32881e8:before
+{
+  content: "\ebca";
+}
+
+.icofont-legal_4926d5bc01193778:before
+{
+  content: "\ebcb";
+}
+
+.icofont-pistol_3c540d0a8d0a3253:before
+{
+  content: "\ebcc";
+}
+
+.icofont-police-badge_64b107898b5ca8e1:before
+{
+  content: "\ebcd";
+}
+
+.icofont-police-cap_ae3b859be256e1b1:before
+{
+  content: "\ebce";
+}
+
+.icofont-police-car-alt-1_59dfc2dc3ac69ea5:before
+{
+  content: "\ebcf";
+}
+
+.icofont-police-car-alt-2_4e8ac0c2f68ee99a:before
+{
+  content: "\ebd0";
+}
+
+.icofont-police-car_c09c02bc8064beae:before
+{
+  content: "\ebd1";
+}
+
+.icofont-police-hat_e9ca0f47373515fe:before
+{
+  content: "\ebd2";
+}
+
+.icofont-police-van_129571091f5acea3:before
+{
+  content: "\ebd3";
+}
+
+.icofont-police_d143376cc429aa27:before
+{
+  content: "\ebd4";
+}
+
+.icofont-thief-alt_f3bb0ddfaa0ba40c:before
+{
+  content: "\ebd5";
+}
+
+.icofont-thief_7e97f8978bab7aa1:before
+{
+  content: "\ebd6";
+}
+
+.icofont-abacus-alt_0f2e10bd58f27529:before
+{
+  content: "\ebd7";
+}
+
+.icofont-abacus_3ae9358b8877de60:before
+{
+  content: "\ebd8";
+}
+
+.icofont-angle-180_0ad0f6ee8514e40d:before
+{
+  content: "\ebd9";
+}
+
+.icofont-angle-45_e446509eb300504b:before
+{
+  content: "\ebda";
+}
+
+.icofont-angle-90_52f0ad502671216b:before
+{
+  content: "\ebdb";
+}
+
+.icofont-angle_96e2d89fbd324be8:before
+{
+  content: "\ebdc";
+}
+
+.icofont-calculator-alt-1_637cbfe2452d4e93:before
+{
+  content: "\ebdd";
+}
+
+.icofont-calculator-alt-2_cc094086d43075a3:before
+{
+  content: "\ebde";
+}
+
+.icofont-calculator_e35d4cdfc95f5f13:before
+{
+  content: "\ebdf";
+}
+
+.icofont-circle-ruler-alt_a91210f7e22818c6:before
+{
+  content: "\ebe0";
+}
+
+.icofont-circle-ruler_1899fa9d6dd14433:before
+{
+  content: "\ebe1";
+}
+
+.icofont-compass-alt-1_22a9c7c49761baa1:before
+{
+  content: "\ebe2";
+}
+
+.icofont-compass-alt-2_d1f4223b508ffacc:before
+{
+  content: "\ebe3";
+}
+
+.icofont-compass-alt-3_7eaf2eba8e488b81:before
+{
+  content: "\ebe4";
+}
+
+.icofont-compass-alt-4_58e80b43ca0a656e:before
+{
+  content: "\ebe5";
+}
+
+.icofont-golden-ratio_aec60432be7991cf:before
+{
+  content: "\ebe6";
+}
+
+.icofont-marker-alt-1_59d43ba5ae87619f:before
+{
+  content: "\ebe7";
+}
+
+.icofont-marker-alt-2_d227e7d7fc0180d3:before
+{
+  content: "\ebe8";
+}
+
+.icofont-marker-alt-3_b7e40fd9bb6b7d0b:before
+{
+  content: "\ebe9";
+}
+
+.icofont-marker_a9abb3b6de5f4cda:before
+{
+  content: "\ebea";
+}
+
+.icofont-math_8dda18eea518fc8f:before
+{
+  content: "\ebeb";
+}
+
+.icofont-mathematical-alt-1_431895e1afbec3fb:before
+{
+  content: "\ebec";
+}
+
+.icofont-mathematical-alt-2_48b01676de419c6b:before
+{
+  content: "\ebed";
+}
+
+.icofont-mathematical_f2c84cf293770753:before
+{
+  content: "\ebee";
+}
+
+.icofont-pen-alt-1_d7e3425551f0758b:before
+{
+  content: "\ebef";
+}
+
+.icofont-pen-alt-2_951ef0c5774ac623:before
+{
+  content: "\ebf0";
+}
+
+.icofont-pen-alt-3_afe0a261b2f135d0:before
+{
+  content: "\ebf1";
+}
+
+.icofont-pen-holder-alt-1_cc2550e1bdbc1481:before
+{
+  content: "\ebf2";
+}
+
+.icofont-pen-holder_347f4a644c735aa9:before
+{
+  content: "\ebf3";
+}
+
+.icofont-pen_4660e32907c779c6:before
+{
+  content: "\ebf4";
+}
+
+.icofont-pencil-alt-1_4da4cf9709ce796b:before
+{
+  content: "\ebf5";
+}
+
+.icofont-pencil-alt-2_d48d878e2b71f6d6:before
+{
+  content: "\ebf6";
+}
+
+.icofont-pencil-alt-3_a42e4d9d628134fd:before
+{
+  content: "\ebf7";
+}
+
+.icofont-pencil-alt-4_542f01e55155f2a6:before
+{
+  content: "\ebf8";
+}
+
+.icofont-pencil_39080a632cb394db:before
+{
+  content: "\ebf9";
+}
+
+.icofont-ruler-alt-1_3edae22fb739a60a:before
+{
+  content: "\ebfa";
+}
+
+.icofont-ruler-alt-2_cb7b876e46b866d5:before
+{
+  content: "\ebfb";
+}
+
+.icofont-ruler-compass-alt_35b0a967ea9cf3e9:before
+{
+  content: "\ebfc";
+}
+
+.icofont-ruler-compass_6809a334641d746c:before
+{
+  content: "\ebfd";
+}
+
+.icofont-ruler-pencil-alt-1_7b70515345089f60:before
+{
+  content: "\ebfe";
+}
+
+.icofont-ruler-pencil-alt-2_eefac8f4f348507b:before
+{
+  content: "\ebff";
+}
+
+.icofont-ruler-pencil_f961d168c9bb49b0:before
+{
+  content: "\ec00";
+}
+
+.icofont-ruler_c61142cec320bd5c:before
+{
+  content: "\ec01";
+}
+
+.icofont-rulers-alt_67324f70b76cd206:before
+{
+  content: "\ec02";
+}
+
+.icofont-rulers_728dfa2bb5846511:before
+{
+  content: "\ec03";
+}
+
+.icofont-square-root_d76cfbe875018df6:before
+{
+  content: "\ec04";
+}
+
+.icofont-ui-calculator_2f0fd1e76bef143e:before
+{
+  content: "\ec05";
+}
+
+.icofont-aids_78ea8b0a7073f3c0:before
+{
+  content: "\ec06";
+}
+
+.icofont-ambulance-crescent_e3d7c82a548bca09:before
+{
+  content: "\ec07";
+}
+
+.icofont-ambulance-cross_9d2d34d843cb2b31:before
+{
+  content: "\ec08";
+}
+
+.icofont-ambulance_3b59d642a38fb57f:before
+{
+  content: "\ec09";
+}
+
+.icofont-autism_be3b544239575eba:before
+{
+  content: "\ec0a";
+}
+
+.icofont-bandage_0f4027e748ad77ea:before
+{
+  content: "\ec0b";
+}
+
+.icofont-blind_8f62d365eac0600f:before
+{
+  content: "\ec0c";
+}
+
+.icofont-blood-drop_7233882eec4e18ba:before
+{
+  content: "\ec0d";
+}
+
+.icofont-blood-test_26dedb63c484b5b5:before
+{
+  content: "\ec0e";
+}
+
+.icofont-blood_0d788f28c13663a9:before
+{
+  content: "\ec0f";
+}
+
+.icofont-brain-alt_191f0dea6bd00856:before
+{
+  content: "\ec10";
+}
+
+.icofont-brain_863629b11a161762:before
+{
+  content: "\ec11";
+}
+
+.icofont-capsule_9185f353e9f81204:before
+{
+  content: "\ec12";
+}
+
+.icofont-crutch_3a3766cd9a84b2f4:before
+{
+  content: "\ec13";
+}
+
+.icofont-disabled_bd2c37ab9690e9da:before
+{
+  content: "\ec14";
+}
+
+.icofont-dna-alt-1_0bdfe5c6edf17608:before
+{
+  content: "\ec15";
+}
+
+.icofont-dna-alt-2_4e7d09fbc8e9b75b:before
+{
+  content: "\ec16";
+}
+
+.icofont-dna_6d0364f3ef280f7d:before
+{
+  content: "\ec17";
+}
+
+.icofont-doctor-alt_db783c254b1c9658:before
+{
+  content: "\ec18";
+}
+
+.icofont-doctor_c38abf25a6bee5cd:before
+{
+  content: "\ec19";
+}
+
+.icofont-drug-pack_fad2f8ad31419780:before
+{
+  content: "\ec1a";
+}
+
+.icofont-drug_b91d8a4ce9569b2a:before
+{
+  content: "\ec1b";
+}
+
+.icofont-first-aid-alt_33cc77e43339caec:before
+{
+  content: "\ec1c";
+}
+
+.icofont-first-aid_8a59229f62964d98:before
+{
+  content: "\ec1d";
+}
+
+.icofont-heart-beat-alt_dc38087efc016d7e:before
+{
+  content: "\ec1e";
+}
+
+.icofont-heart-beat_beadedf852b67c1e:before
+{
+  content: "\ec1f";
+}
+
+.icofont-heartbeat_c5b987cf1d041873:before
+{
+  content: "\ec20";
+}
+
+.icofont-herbal_13d09e6747f1498f:before
+{
+  content: "\ec21";
+}
+
+.icofont-hospital_6394b4f88dd287b0:before
+{
+  content: "\ec22";
+}
+
+.icofont-icu_7c2575de559a3159:before
+{
+  content: "\ec23";
+}
+
+.icofont-injection-syringe_bbd0fd11927cf2b4:before
+{
+  content: "\ec24";
+}
+
+.icofont-laboratory_3e20ebfe3ae27393:before
+{
+  content: "\ec25";
+}
+
+.icofont-medical-sign-alt_0f4104442c4c7991:before
+{
+  content: "\ec26";
+}
+
+.icofont-medical-sign_2b8b62d3afc9029f:before
+{
+  content: "\ec27";
+}
+
+.icofont-nurse-alt_3e22633d5c5233b0:before
+{
+  content: "\ec28";
+}
+
+.icofont-nurse_7add8bfafeaf3623:before
+{
+  content: "\ec29";
+}
+
+.icofont-nursing-home_cad024f5fafe7ea2:before
+{
+  content: "\ec2a";
+}
+
+.icofont-operation-theater_b36ff9dd185c4c0b:before
+{
+  content: "\ec2b";
+}
+
+.icofont-paralysis-disability_08ecf6c5d313761a:before
+{
+  content: "\ec2c";
+}
+
+.icofont-patient-bed_612cc590f2db2965:before
+{
+  content: "\ec2d";
+}
+
+.icofont-patient-file_825fc027e46a3187:before
+{
+  content: "\ec2e";
+}
+
+.icofont-pills_107e9f151a5b1767:before
+{
+  content: "\ec2f";
+}
+
+.icofont-prescription_eeaf33b30bd9063f:before
+{
+  content: "\ec30";
+}
+
+.icofont-pulse_d7f92b07d5f108dd:before
+{
+  content: "\ec31";
+}
+
+.icofont-stethoscope-alt_6cf80d2a950d9812:before
+{
+  content: "\ec32";
+}
+
+.icofont-stethoscope_1f0a576df30b612e:before
+{
+  content: "\ec33";
+}
+
+.icofont-stretcher_a2bb89d03a19330c:before
+{
+  content: "\ec34";
+}
+
+.icofont-surgeon-alt_cd64e12bfa97aaec:before
+{
+  content: "\ec35";
+}
+
+.icofont-surgeon_e249d191cd9f1394:before
+{
+  content: "\ec36";
+}
+
+.icofont-tablets_00fb0a47013bf328:before
+{
+  content: "\ec37";
+}
+
+.icofont-test-bottle_12f02e489eb195af:before
+{
+  content: "\ec38";
+}
+
+.icofont-test-tube_292d2cbfaf3149c0:before
+{
+  content: "\ec39";
+}
+
+.icofont-thermometer-alt_df608b1693926224:before
+{
+  content: "\ec3a";
+}
+
+.icofont-thermometer_21eb1f3eb96f651f:before
+{
+  content: "\ec3b";
+}
+
+.icofont-tooth_e9d37774dae4e066:before
+{
+  content: "\ec3c";
+}
+
+.icofont-xray_675d48b02aa309e4:before
+{
+  content: "\ec3d";
+}
+
+.icofont-ui-add_92b155fe209a4f82:before
+{
+  content: "\ec3e";
+}
+
+.icofont-ui-alarm_bd1a79ea2a29a992:before
+{
+  content: "\ec3f";
+}
+
+.icofont-ui-battery_2a40e5b7130d13a9:before
+{
+  content: "\ec40";
+}
+
+.icofont-ui-block_cb8276c0ca919428:before
+{
+  content: "\ec41";
+}
+
+.icofont-ui-bluetooth_b380ff04320e86a8:before
+{
+  content: "\ec42";
+}
+
+.icofont-ui-brightness_596780d89c1d296a:before
+{
+  content: "\ec43";
+}
+
+.icofont-ui-browser_9d2de83a567c6e4f:before
+{
+  content: "\ec44";
+}
+
+.icofont-ui-calendar_a8579fd95fcc71fb:before
+{
+  content: "\ec45";
+}
+
+.icofont-ui-call_2dbee3d29e08af19:before
+{
+  content: "\ec46";
+}
+
+.icofont-ui-camera_eeef44f222913502:before
+{
+  content: "\ec47";
+}
+
+.icofont-ui-cart_bbfd3d0715740a7b:before
+{
+  content: "\ec48";
+}
+
+.icofont-ui-cell-phone_7a2ec7b0ea7b4c8a:before
+{
+  content: "\ec49";
+}
+
+.icofont-ui-chat_020e630b04823f43:before
+{
+  content: "\ec4a";
+}
+
+.icofont-ui-check_b96816f37ddc35e7:before
+{
+  content: "\ec4b";
+}
+
+.icofont-ui-clip-board_d30fa1b083519448:before
+{
+  content: "\ec4c";
+}
+
+.icofont-ui-clip_0d35867a6ee39e2c:before
+{
+  content: "\ec4d";
+}
+
+.icofont-ui-clock_9389a1378f7e42fa:before
+{
+  content: "\ec4e";
+}
+
+.icofont-ui-close_e54a8fd2bd4a9170:before
+{
+  content: "\ec4f";
+}
+
+.icofont-ui-contact-list_85c276947225c7b5:before
+{
+  content: "\ec50";
+}
+
+.icofont-ui-copy_d229b9d2ca398929:before
+{
+  content: "\ec51";
+}
+
+.icofont-ui-cut_74d37640ac869870:before
+{
+  content: "\ec52";
+}
+
+.icofont-ui-delete_5224ea72df0a5c39:before
+{
+  content: "\ec53";
+}
+
+.icofont-ui-dial-phone_8c6bc5833783e9f3:before
+{
+  content: "\ec54";
+}
+
+.icofont-ui-edit_ed63cd1be7808a2b:before
+{
+  content: "\ec55";
+}
+
+.icofont-ui-email_cc40ce0760fca8a4:before
+{
+  content: "\ec56";
+}
+
+.icofont-ui-file_3d6b6517cf343fb2:before
+{
+  content: "\ec57";
+}
+
+.icofont-ui-fire-wall_04948f462ccd3c96:before
+{
+  content: "\ec58";
+}
+
+.icofont-ui-flash-light_0ccb01925caf14c9:before
+{
+  content: "\ec59";
+}
+
+.icofont-ui-flight_71d240c6706bcefe:before
+{
+  content: "\ec5a";
+}
+
+.icofont-ui-folder_b425eee148c69c81:before
+{
+  content: "\ec5b";
+}
+
+.icofont-ui-game_817beebc9417387d:before
+{
+  content: "\ec5c";
+}
+
+.icofont-ui-handicapped_86f6b932cd1d5198:before
+{
+  content: "\ec5d";
+}
+
+.icofont-ui-home_a7bb07c8b6681f2b:before
+{
+  content: "\ec5e";
+}
+
+.icofont-ui-image_09a4be3660f7f496:before
+{
+  content: "\ec5f";
+}
+
+.icofont-ui-laoding_cb4ab120146f63c8:before
+{
+  content: "\ec60";
+}
+
+.icofont-ui-lock_09e3c39c1a19c91e:before
+{
+  content: "\ec61";
+}
+
+.icofont-ui-love-add_55e101e18f2099d6:before
+{
+  content: "\ec62";
+}
+
+.icofont-ui-love-broken_3390327c30e57db1:before
+{
+  content: "\ec63";
+}
+
+.icofont-ui-love-remove_41553fda23867b7d:before
+{
+  content: "\ec64";
+}
+
+.icofont-ui-love_fd300cd5d4210fd8:before
+{
+  content: "\ec65";
+}
+
+.icofont-ui-map_c57c4f5571a10203:before
+{
+  content: "\ec66";
+}
+
+.icofont-ui-message_364d13a9756c36e9:before
+{
+  content: "\ec67";
+}
+
+.icofont-ui-messaging_da6bf3699833d6a1:before
+{
+  content: "\ec68";
+}
+
+.icofont-ui-movie_5ede3fbd9b46ecaf:before
+{
+  content: "\ec69";
+}
+
+.icofont-ui-music-player_134561a9f8baf156:before
+{
+  content: "\ec6a";
+}
+
+.icofont-ui-music_bb9ffca46146a3e9:before
+{
+  content: "\ec6b";
+}
+
+.icofont-ui-mute_2c93e0c242678301:before
+{
+  content: "\ec6c";
+}
+
+.icofont-ui-network_4a86423d1b16b437:before
+{
+  content: "\ec6d";
+}
+
+.icofont-ui-next_ca4b9311a2ee6af5:before
+{
+  content: "\ec6e";
+}
+
+.icofont-ui-note_5ecefad426e7ca61:before
+{
+  content: "\ec6f";
+}
+
+.icofont-ui-office_99e4d208d64bc11e:before
+{
+  content: "\ec70";
+}
+
+.icofont-ui-password_fc1863f44d0197d2:before
+{
+  content: "\ec71";
+}
+
+.icofont-ui-pause_e76def509a366f54:before
+{
+  content: "\ec72";
+}
+
+.icofont-ui-play-stop_a908e582f2c7a67d:before
+{
+  content: "\ec73";
+}
+
+.icofont-ui-play_319f64ffbe41bb4c:before
+{
+  content: "\ec74";
+}
+
+.icofont-ui-pointer_3a2e788e056f098b:before
+{
+  content: "\ec75";
+}
+
+.icofont-ui-power_3b3be6c13078ec7f:before
+{
+  content: "\ec76";
+}
+
+.icofont-ui-press_35096e50475ad617:before
+{
+  content: "\ec77";
+}
+
+.icofont-ui-previous_b8264a6868346335:before
+{
+  content: "\ec78";
+}
+
+.icofont-ui-rate-add_137978ef26bd0eda:before
+{
+  content: "\ec79";
+}
+
+.icofont-ui-rate-blank_0821213ecfc3d4c1:before
+{
+  content: "\ec7a";
+}
+
+.icofont-ui-rate-remove_b95acd7cef4fb342:before
+{
+  content: "\ec7b";
+}
+
+.icofont-ui-rating_9f565fdcde38c280:before
+{
+  content: "\ec7c";
+}
+
+.icofont-ui-record_d49b6c9895efb0d5:before
+{
+  content: "\ec7d";
+}
+
+.icofont-ui-remove_d201e6b30249214a:before
+{
+  content: "\ec7e";
+}
+
+.icofont-ui-reply_9e07a07d40b48483:before
+{
+  content: "\ec7f";
+}
+
+.icofont-ui-rotation_ece9c2d2bade367d:before
+{
+  content: "\ec80";
+}
+
+.icofont-ui-rss_eb11dbc0c94c8c98:before
+{
+  content: "\ec81";
+}
+
+.icofont-ui-search_e41247b8a195f2a0:before
+{
+  content: "\ec82";
+}
+
+.icofont-ui-settings_df33f6e312afe394:before
+{
+  content: "\ec83";
+}
+
+.icofont-ui-social-link_28b7b2cb853b0ed3:before
+{
+  content: "\ec84";
+}
+
+.icofont-ui-tag_9b2cf8e664697899:before
+{
+  content: "\ec85";
+}
+
+.icofont-ui-text-chat_817be8dff1cf791b:before
+{
+  content: "\ec86";
+}
+
+.icofont-ui-text-loading_b8756f95a763c8aa:before
+{
+  content: "\ec87";
+}
+
+.icofont-ui-theme_73a6e973aa5444a8:before
+{
+  content: "\ec88";
+}
+
+.icofont-ui-timer_1cf2bb647bc9a667:before
+{
+  content: "\ec89";
+}
+
+.icofont-ui-touch-phone_b83dcce69fbed810:before
+{
+  content: "\ec8a";
+}
+
+.icofont-ui-travel_eeacdf37186824fe:before
+{
+  content: "\ec8b";
+}
+
+.icofont-ui-unlock_a36ef936a281c814:before
+{
+  content: "\ec8c";
+}
+
+.icofont-ui-user-group_dd2ab8e8d938f9d9:before
+{
+  content: "\ec8d";
+}
+
+.icofont-ui-user_c53c272bd81bda3b:before
+{
+  content: "\ec8e";
+}
+
+.icofont-ui-v-card_8d1e9798b23e2aa7:before
+{
+  content: "\ec8f";
+}
+
+.icofont-ui-video-chat_56681ee29a17799c:before
+{
+  content: "\ec90";
+}
+
+.icofont-ui-video-message_1bccfd89db6a66a5:before
+{
+  content: "\ec91";
+}
+
+.icofont-ui-video-play_0129b7ca69bab0c5:before
+{
+  content: "\ec92";
+}
+
+.icofont-ui-video_c670568f537cf739:before
+{
+  content: "\ec93";
+}
+
+.icofont-ui-volume_bc7e63a86ab923aa:before
+{
+  content: "\ec94";
+}
+
+.icofont-ui-weather_5ddfbaee27849099:before
+{
+  content: "\ec95";
+}
+
+.icofont-ui-wifi_f907c7636eedf5f7:before
+{
+  content: "\ec96";
+}
+
+.icofont-ui-zoom-in_be4ff3eeca7f6263:before
+{
+  content: "\ec97";
+}
+
+.icofont-ui-zoom-out_344be9efc1abb557:before
+{
+  content: "\ec98";
+}
+
+.icofont-cassette-player_285d54fec47d2b2f:before
+{
+  content: "\ec99";
+}
+
+.icofont-cassette_a9710b8af69c8a03:before
+{
+  content: "\ec9a";
+}
+
+.icofont-forward_ed178b3523a926c4:before
+{
+  content: "\ec9b";
+}
+
+.icofont-guiter_856e92506d52d953:before
+{
+  content: "\ec9c";
+}
+
+.icofont-movie_6374a789d5530b3f:before
+{
+  content: "\ec9d";
+}
+
+.icofont-multimedia_74a7df1f7a5c1071:before
+{
+  content: "\ec9e";
+}
+
+.icofont-music-alt_95187855dca23f0f:before
+{
+  content: "\ec9f";
+}
+
+.icofont-music-disk_12a45d02e40bae71:before
+{
+  content: "\eca0";
+}
+
+.icofont-music-note_3139e5d135575be5:before
+{
+  content: "\eca1";
+}
+
+.icofont-music-notes_712f18a387c49449:before
+{
+  content: "\eca2";
+}
+
+.icofont-music_a85d50b0336ce415:before
+{
+  content: "\eca3";
+}
+
+.icofont-mute-volume_cad00f9e69f6e729:before
+{
+  content: "\eca4";
+}
+
+.icofont-pause_867ee7f87c08996b:before
+{
+  content: "\eca5";
+}
+
+.icofont-play-alt-1_93f6717338820e42:before
+{
+  content: "\eca6";
+}
+
+.icofont-play-alt-2_bd6bdebcaf4a237e:before
+{
+  content: "\eca7";
+}
+
+.icofont-play-alt-3_1466772ec2db7682:before
+{
+  content: "\eca8";
+}
+
+.icofont-play-pause_64df04009556803a:before
+{
+  content: "\eca9";
+}
+
+.icofont-play_431ff20869eac5df:before
+{
+  content: "\ecaa";
+}
+
+.icofont-record_5f4edf68d3e0cec5:before
+{
+  content: "\ecab";
+}
+
+.icofont-retro-music-disk_f41b622c2b6592e7:before
+{
+  content: "\ecac";
+}
+
+.icofont-rewind_fd017962e4d068ea:before
+{
+  content: "\ecad";
+}
+
+.icofont-song-notes_e26fad7daa5ad00e:before
+{
+  content: "\ecae";
+}
+
+.icofont-sound-wave-alt_4d4f8d30fcb5b17f:before
+{
+  content: "\ecaf";
+}
+
+.icofont-sound-wave_d56f707d0403a32a:before
+{
+  content: "\ecb0";
+}
+
+.icofont-stop_47b4c5fd7179c67b:before
+{
+  content: "\ecb1";
+}
+
+.icofont-video-alt_1876f7b47ee625bc:before
+{
+  content: "\ecb2";
+}
+
+.icofont-video-cam_29bc966a3007eaff:before
+{
+  content: "\ecb3";
+}
+
+.icofont-video-clapper_2eb803608cd7beef:before
+{
+  content: "\ecb4";
+}
+
+.icofont-video_b8c722343dc1bfa4:before
+{
+  content: "\ecb5";
+}
+
+.icofont-volume-bar_9a86fce41a1cc7df:before
+{
+  content: "\ecb6";
+}
+
+.icofont-volume-down_385aea40806a2515:before
+{
+  content: "\ecb7";
+}
+
+.icofont-volume-mute_9ff2fbb9332c2486:before
+{
+  content: "\ecb8";
+}
+
+.icofont-volume-off_ae404cecb2ae86c2:before
+{
+  content: "\ecb9";
+}
+
+.icofont-volume-up_522d4e3e8b9f08b6:before
+{
+  content: "\ecba";
+}
+
+.icofont-youtube-play_ff0c98ac27663a87:before
+{
+  content: "\ecbb";
+}
+
+.icofont-2checkout-alt_e480e0e8d76e173d:before
+{
+  content: "\ecbc";
+}
+
+.icofont-2checkout_936edf39a8f17c7f:before
+{
+  content: "\ecbd";
+}
+
+.icofont-amazon-alt_9a6b9cebb7a70455:before
+{
+  content: "\ecbe";
+}
+
+.icofont-amazon_07c846f98bc5f7eb:before
+{
+  content: "\ecbf";
+}
+
+.icofont-american-express-alt_6c4c380102554d27:before
+{
+  content: "\ecc0";
+}
+
+.icofont-american-express_f6676b00799324e2:before
+{
+  content: "\ecc1";
+}
+
+.icofont-apple-pay-alt_8064943369c49fba:before
+{
+  content: "\ecc2";
+}
+
+.icofont-apple-pay_98ca5779ac274a9c:before
+{
+  content: "\ecc3";
+}
+
+.icofont-bank-transfer-alt_09423f4b8e23079c:before
+{
+  content: "\ecc4";
+}
+
+.icofont-bank-transfer_ea1f5dbdacf2ddc9:before
+{
+  content: "\ecc5";
+}
+
+.icofont-braintree-alt_77e28f07948865e1:before
+{
+  content: "\ecc6";
+}
+
+.icofont-braintree_367d23da4583c868:before
+{
+  content: "\ecc7";
+}
+
+.icofont-cash-on-delivery-alt_650125661cfbb39f:before
+{
+  content: "\ecc8";
+}
+
+.icofont-cash-on-delivery_fe5eb1f546d49514:before
+{
+  content: "\ecc9";
+}
+
+.icofont-diners-club-alt-1_cac6fe5e3a284d00:before
+{
+  content: "\ecca";
+}
+
+.icofont-diners-club-alt-2_f8a1ed3c88918116:before
+{
+  content: "\eccb";
+}
+
+.icofont-diners-club-alt-3_1ece47459a0a16fa:before
+{
+  content: "\eccc";
+}
+
+.icofont-diners-club_4cb151cd469842a3:before
+{
+  content: "\eccd";
+}
+
+.icofont-discover-alt_7080da9c243aab7b:before
+{
+  content: "\ecce";
+}
+
+.icofont-discover_2622988eec9db22d:before
+{
+  content: "\eccf";
+}
+
+.icofont-eway-alt_538bcdf346c0726b:before
+{
+  content: "\ecd0";
+}
+
+.icofont-eway_4dae9d6d8e445653:before
+{
+  content: "\ecd1";
+}
+
+.icofont-google-wallet-alt-1_b25994372b29a513:before
+{
+  content: "\ecd2";
+}
+
+.icofont-google-wallet-alt-2_1bf253fefd89a5fa:before
+{
+  content: "\ecd3";
+}
+
+.icofont-google-wallet-alt-3_64ceca6f5dee5eba:before
+{
+  content: "\ecd4";
+}
+
+.icofont-google-wallet_3491fa1a47fd42a3:before
+{
+  content: "\ecd5";
+}
+
+.icofont-jcb-alt_c993fee9a5d03fce:before
+{
+  content: "\ecd6";
+}
+
+.icofont-jcb_27a39097d184d139:before
+{
+  content: "\ecd7";
+}
+
+.icofont-maestro-alt_20a25a3caf7fd36d:before
+{
+  content: "\ecd8";
+}
+
+.icofont-maestro_2eb1ac67512348e7:before
+{
+  content: "\ecd9";
+}
+
+.icofont-mastercard-alt_9157f704ba00382f:before
+{
+  content: "\ecda";
+}
+
+.icofont-mastercard_c1b9e7d6a9dacb11:before
+{
+  content: "\ecdb";
+}
+
+.icofont-payoneer-alt_423f8484d4376550:before
+{
+  content: "\ecdc";
+}
+
+.icofont-payoneer_43fad15ba30c4b17:before
+{
+  content: "\ecdd";
+}
+
+.icofont-paypal-alt_abf21d09d0624226:before
+{
+  content: "\ecde";
+}
+
+.icofont-paypal_7d7ad71f2fafd9d7:before
+{
+  content: "\ecdf";
+}
+
+.icofont-sage-alt_ad9c7c5a63579859:before
+{
+  content: "\ece0";
+}
+
+.icofont-sage_3e48e47ab2cd154b:before
+{
+  content: "\ece1";
+}
+
+.icofont-skrill-alt_48c29c62c6ee4908:before
+{
+  content: "\ece2";
+}
+
+.icofont-skrill_308f5ef027f45a61:before
+{
+  content: "\ece3";
+}
+
+.icofont-stripe-alt_85cd551d30fc2b6e:before
+{
+  content: "\ece4";
+}
+
+.icofont-stripe_361901527dcf96f6:before
+{
+  content: "\ece5";
+}
+
+.icofont-visa-alt_b6735952af4ebe70:before
+{
+  content: "\ece6";
+}
+
+.icofont-visa-electron_6ab9167a8119615c:before
+{
+  content: "\ece7";
+}
+
+.icofont-visa_0da1e13202c03464:before
+{
+  content: "\ece8";
+}
+
+.icofont-western-union-alt_8c56ff5ecc29290d:before
+{
+  content: "\ece9";
+}
+
+.icofont-western-union_f1a0d09569062e0c:before
+{
+  content: "\ecea";
+}
+
+.icofont-boy_67cafd58144ccb79:before
+{
+  content: "\eceb";
+}
+
+.icofont-business-man-alt-1_227b5f49fd5a0e0b:before
+{
+  content: "\ecec";
+}
+
+.icofont-business-man-alt-2_163efed0ddc00393:before
+{
+  content: "\eced";
+}
+
+.icofont-business-man-alt-3_2c0fcd0f3d7efd58:before
+{
+  content: "\ecee";
+}
+
+.icofont-business-man_3b22c350744b2e27:before
+{
+  content: "\ecef";
+}
+
+.icofont-female_8b79397f3a25379f:before
+{
+  content: "\ecf0";
+}
+
+.icofont-funky-man_5565d5bd7fc9d8bd:before
+{
+  content: "\ecf1";
+}
+
+.icofont-girl-alt_c672609db022895c:before
+{
+  content: "\ecf2";
+}
+
+.icofont-girl_1319fc47ff78290e:before
+{
+  content: "\ecf3";
+}
+
+.icofont-group_2b73e28556770bb3:before
+{
+  content: "\ecf4";
+}
+
+.icofont-hotel-boy-alt_2b78d6be988cd389:before
+{
+  content: "\ecf5";
+}
+
+.icofont-hotel-boy_d875218d68fba8f5:before
+{
+  content: "\ecf6";
+}
+
+.icofont-kid_7159e90ccaef5d69:before
+{
+  content: "\ecf7";
+}
+
+.icofont-man-in-glasses_63bcaf05ad0817c3:before
+{
+  content: "\ecf8";
+}
+
+.icofont-people_f364de5aab7d0831:before
+{
+  content: "\ecf9";
+}
+
+.icofont-support_1c311919ca1ed835:before
+{
+  content: "\ecfa";
+}
+
+.icofont-user-alt-1_d1b1ee2edc7afb34:before
+{
+  content: "\ecfb";
+}
+
+.icofont-user-alt-2_43848d98ed6ea66c:before
+{
+  content: "\ecfc";
+}
+
+.icofont-user-alt-3_d8209bb16dedf9af:before
+{
+  content: "\ecfd";
+}
+
+.icofont-user-alt-4_5414c324af0ca5b9:before
+{
+  content: "\ecfe";
+}
+
+.icofont-user-alt-5_b1b68981fd11cb94:before
+{
+  content: "\ecff";
+}
+
+.icofont-user-alt-6_9c5394f3db25add9:before
+{
+  content: "\ed00";
+}
+
+.icofont-user-alt-7_46a65bd86c703dec:before
+{
+  content: "\ed01";
+}
+
+.icofont-user-female_10e7cebb3434c84a:before
+{
+  content: "\ed02";
+}
+
+.icofont-user-male_3b4a7081874a533d:before
+{
+  content: "\ed03";
+}
+
+.icofont-user-suited_577c6ba4784ad47b:before
+{
+  content: "\ed04";
+}
+
+.icofont-user_0c237b5597be2e55:before
+{
+  content: "\ed05";
+}
+
+.icofont-users-alt-1_e58bec7e9f4b2aee:before
+{
+  content: "\ed06";
+}
+
+.icofont-users-alt-2_2ef64726f82f59c1:before
+{
+  content: "\ed07";
+}
+
+.icofont-users-alt-3_3287583890d6160f:before
+{
+  content: "\ed08";
+}
+
+.icofont-users-alt-4_9ff7443f275dbbb9:before
+{
+  content: "\ed09";
+}
+
+.icofont-users-alt-5_c7b63ff636c7d593:before
+{
+  content: "\ed0a";
+}
+
+.icofont-users-alt-6_17deafcadfaa4e38:before
+{
+  content: "\ed0b";
+}
+
+.icofont-users-social_047a39ca7ff68e74:before
+{
+  content: "\ed0c";
+}
+
+.icofont-users_f90ac8f326d36a7d:before
+{
+  content: "\ed0d";
+}
+
+.icofont-waiter-alt_d5161dac5ebe0599:before
+{
+  content: "\ed0e";
+}
+
+.icofont-waiter_38cd659e7702e015:before
+{
+  content: "\ed0f";
+}
+
+.icofont-woman-in-glasses_b15de49d60624c9c:before
+{
+  content: "\ed10";
+}
+
+.icofont-search-1_476751e25eb6b833:before
+{
+  content: "\ed11";
+}
+
+.icofont-search-2_221b5011a350839a:before
+{
+  content: "\ed12";
+}
+
+.icofont-search-document_a3982dfcae1a2cc8:before
+{
+  content: "\ed13";
+}
+
+.icofont-search-folder_40dd614c7d59a5a9:before
+{
+  content: "\ed14";
+}
+
+.icofont-search-job_eac538bd23c05ec4:before
+{
+  content: "\ed15";
+}
+
+.icofont-search-map_4ef48d818ab283a1:before
+{
+  content: "\ed16";
+}
+
+.icofont-search-property_ce28e15604dd115e:before
+{
+  content: "\ed17";
+}
+
+.icofont-search-restaurant_320ee53515a3f959:before
+{
+  content: "\ed18";
+}
+
+.icofont-search-stock_2c13b4a9a25086a5:before
+{
+  content: "\ed19";
+}
+
+.icofont-search-user_6badc1af65391966:before
+{
+  content: "\ed1a";
+}
+
+.icofont-search_8cb96d53abaec828:before
+{
+  content: "\ed1b";
+}
+
+.icofont-500px_c980f598d216f915:before
+{
+  content: "\ed1c";
+}
+
+.icofont-aim_e1e8b908c6f53efc:before
+{
+  content: "\ed1d";
+}
+
+.icofont-badoo_632a98b89262b660:before
+{
+  content: "\ed1e";
+}
+
+.icofont-baidu-tieba_ad33af18d42ec8f4:before
+{
+  content: "\ed1f";
+}
+
+.icofont-bbm-messenger_3d5065e5a9a1c18c:before
+{
+  content: "\ed20";
+}
+
+.icofont-bebo_d668bca27da3ceb3:before
+{
+  content: "\ed21";
+}
+
+.icofont-behance_8be88a1f5eb0c8a3:before
+{
+  content: "\ed22";
+}
+
+.icofont-blogger_e7ed1589abf7fe2d:before
+{
+  content: "\ed23";
+}
+
+.icofont-bootstrap_839c34c47abdb4c7:before
+{
+  content: "\ed24";
+}
+
+.icofont-brightkite_0c026197d66a27e4:before
+{
+  content: "\ed25";
+}
+
+.icofont-cloudapp_d1453bea2211c9c1:before
+{
+  content: "\ed26";
+}
+
+.icofont-concrete5_0d14974f4fd8c1b6:before
+{
+  content: "\ed27";
+}
+
+.icofont-delicious_907bd43238e9f7fb:before
+{
+  content: "\ed28";
+}
+
+.icofont-designbump_295b7c505f540266:before
+{
+  content: "\ed29";
+}
+
+.icofont-designfloat_476b3f96ee60a1e4:before
+{
+  content: "\ed2a";
+}
+
+.icofont-deviantart_404e095de142f9a2:before
+{
+  content: "\ed2b";
+}
+
+.icofont-digg_5469a659017b088d:before
+{
+  content: "\ed2c";
+}
+
+.icofont-dotcms_216ef331595d5a8c:before
+{
+  content: "\ed2d";
+}
+
+.icofont-dribbble_c00e2e08e3116b54:before
+{
+  content: "\ed2e";
+}
+
+.icofont-dribble_e9ecde7badc3c7e2:before
+{
+  content: "\ed2f";
+}
+
+.icofont-dropbox_4db5a97f9e45a800:before
+{
+  content: "\ed30";
+}
+
+.icofont-ebuddy_8f0a312ba4337ca9:before
+{
+  content: "\ed31";
+}
+
+.icofont-ello_38c633e912b2dbfe:before
+{
+  content: "\ed32";
+}
+
+.icofont-ember_210088de89e3fbc7:before
+{
+  content: "\ed33";
+}
+
+.icofont-envato_dc2f5c1cf6930be6:before
+{
+  content: "\ed34";
+}
+
+.icofont-evernote_a6de10b5c757f415:before
+{
+  content: "\ed35";
+}
+
+.icofont-facebook-messenger_eef5f8761e5fd45c:before
+{
+  content: "\ed36";
+}
+
+.icofont-facebook_f0650ec0147ce8e6:before
+{
+  content: "\ed37";
+}
+
+.icofont-feedburner_72f0a8412265619c:before
+{
+  content: "\ed38";
+}
+
+.icofont-flikr_ab32f90af0759d93:before
+{
+  content: "\ed39";
+}
+
+.icofont-folkd_9c4d06947fe8ee99:before
+{
+  content: "\ed3a";
+}
+
+.icofont-foursquare_851c8601e12f8e3a:before
+{
+  content: "\ed3b";
+}
+
+.icofont-friendfeed_25f584fa6353f9f8:before
+{
+  content: "\ed3c";
+}
+
+.icofont-ghost_a44f6776de3c1f73:before
+{
+  content: "\ed3d";
+}
+
+.icofont-github_950d8503a393323e:before
+{
+  content: "\ed3e";
+}
+
+.icofont-gnome_d1e72dbb63ca0b16:before
+{
+  content: "\ed3f";
+}
+
+.icofont-google-buzz_c899094711e5df0a:before
+{
+  content: "\ed40";
+}
+
+.icofont-google-hangouts_101f26654755270b:before
+{
+  content: "\ed41";
+}
+
+.icofont-google-map_f6d8ef0c8815eec3:before
+{
+  content: "\ed42";
+}
+
+.icofont-google-plus_08197448c61e8956:before
+{
+  content: "\ed43";
+}
+
+.icofont-google-talk_36ed3680e9e6d850:before
+{
+  content: "\ed44";
+}
+
+.icofont-hype-machine_1acd3c51398d2037:before
+{
+  content: "\ed45";
+}
+
+.icofont-instagram_15dfffd3fa57fc55:before
+{
+  content: "\ed46";
+}
+
+.icofont-kakaotalk_675261bfbcdd17d0:before
+{
+  content: "\ed47";
+}
+
+.icofont-kickstarter_f18fadd4f5ab51ce:before
+{
+  content: "\ed48";
+}
+
+.icofont-kik_2dd858d67626822f:before
+{
+  content: "\ed49";
+}
+
+.icofont-kiwibox_98ec03f521f60b5e:before
+{
+  content: "\ed4a";
+}
+
+.icofont-line-messenger_d5ca965075bdad17:before
+{
+  content: "\ed4b";
+}
+
+.icofont-line_486c9f307107622d:before
+{
+  content: "\ed4c";
+}
+
+.icofont-linkedin_9adce247de16fd21:before
+{
+  content: "\ed4d";
+}
+
+.icofont-linux-mint_51fbb23b7b3dc3ce:before
+{
+  content: "\ed4e";
+}
+
+.icofont-live-messenger_26ed73a66b2d78a3:before
+{
+  content: "\ed4f";
+}
+
+.icofont-livejournal_e1eee5e4f7ea21d6:before
+{
+  content: "\ed50";
+}
+
+.icofont-magento_56f6575fce98a587:before
+{
+  content: "\ed51";
+}
+
+.icofont-meetme_76cf8f7c7b7cdf1a:before
+{
+  content: "\ed52";
+}
+
+.icofont-meetup_7c1149937a22001a:before
+{
+  content: "\ed53";
+}
+
+.icofont-mixx_ef247335bc08ba54:before
+{
+  content: "\ed54";
+}
+
+.icofont-newsvine_1cea16bf9c2b7a11:before
+{
+  content: "\ed55";
+}
+
+.icofont-nimbuss_8d4357cc7b135a40:before
+{
+  content: "\ed56";
+}
+
+.icofont-odnoklassniki_f8487ee7f3241809:before
+{
+  content: "\ed57";
+}
+
+.icofont-opencart_b8c15c54dec84b2e:before
+{
+  content: "\ed58";
+}
+
+.icofont-oscommerce_3e238b04a3f4431a:before
+{
+  content: "\ed59";
+}
+
+.icofont-pandora_1162fe239f095a1b:before
+{
+  content: "\ed5a";
+}
+
+.icofont-photobucket_c765049f87e89b60:before
+{
+  content: "\ed5b";
+}
+
+.icofont-picasa_061615d923f5084b:before
+{
+  content: "\ed5c";
+}
+
+.icofont-pinterest_46cd6d4381830665:before
+{
+  content: "\ed5d";
+}
+
+.icofont-prestashop_16a1d585ae6b4f13:before
+{
+  content: "\ed5e";
+}
+
+.icofont-qik_1e44248ac4ad45e9:before
+{
+  content: "\ed5f";
+}
+
+.icofont-qq_4f45c1caf4eaee8d:before
+{
+  content: "\ed60";
+}
+
+.icofont-readernaut_18603669819fac98:before
+{
+  content: "\ed61";
+}
+
+.icofont-reddit_a571c0e3318e9660:before
+{
+  content: "\ed62";
+}
+
+.icofont-renren_d84d0fb2c7a39266:before
+{
+  content: "\ed63";
+}
+
+.icofont-rss_2c985a5035bae908:before
+{
+  content: "\ed64";
+}
+
+.icofont-shopify_8fabb853bdfb6a88:before
+{
+  content: "\ed65";
+}
+
+.icofont-silverstripe_d3e26e79f63eaa1e:before
+{
+  content: "\ed66";
+}
+
+.icofont-skype_d1bd3a2a7fa04073:before
+{
+  content: "\ed67";
+}
+
+.icofont-slack_6fe9e1706d26c0c4:before
+{
+  content: "\ed68";
+}
+
+.icofont-slashdot_2a5add5757435a08:before
+{
+  content: "\ed69";
+}
+
+.icofont-slidshare_167a3afadf821d92:before
+{
+  content: "\ed6a";
+}
+
+.icofont-smugmug_b971edffe9fd65ea:before
+{
+  content: "\ed6b";
+}
+
+.icofont-snapchat_799e61ebe347bf58:before
+{
+  content: "\ed6c";
+}
+
+.icofont-soundcloud_86a9dfbf8857e8cc:before
+{
+  content: "\ed6d";
+}
+
+.icofont-spotify_aace979db5f41482:before
+{
+  content: "\ed6e";
+}
+
+.icofont-stack-exchange_02016e0aeb7a5b70:before
+{
+  content: "\ed6f";
+}
+
+.icofont-stack-overflow_7d4d30bfbae2a40f:before
+{
+  content: "\ed70";
+}
+
+.icofont-steam_9889ce67e8970604:before
+{
+  content: "\ed71";
+}
+
+.icofont-stumbleupon_c88b7e0e3dd687b3:before
+{
+  content: "\ed72";
+}
+
+.icofont-tagged_6565f1ef0a944106:before
+{
+  content: "\ed73";
+}
+
+.icofont-technorati_7def4ea5a7b6092e:before
+{
+  content: "\ed74";
+}
+
+.icofont-telegram_114f1ef25c92669b:before
+{
+  content: "\ed75";
+}
+
+.icofont-tinder_3dace59929f55320:before
+{
+  content: "\ed76";
+}
+
+.icofont-trello_0912dd15ac1e7a2c:before
+{
+  content: "\ed77";
+}
+
+.icofont-tumblr_597fef9a03b530b9:before
+{
+  content: "\ed78";
+}
+
+.icofont-twitch_59e7e530f83bb048:before
+{
+  content: "\ed79";
+}
+
+.icofont-twitter_5210c21c8d85a207:before
+{
+  content: "\ed7a";
+}
+
+.icofont-typo3_68a0e14c73c9f5dc:before
+{
+  content: "\ed7b";
+}
+
+.icofont-ubercart_825cb30d39e3b4e9:before
+{
+  content: "\ed7c";
+}
+
+.icofont-viber_1f3a234b2e99698d:before
+{
+  content: "\ed7d";
+}
+
+.icofont-viddler_5adf50c32b2b1cfb:before
+{
+  content: "\ed7e";
+}
+
+.icofont-vimeo_321743c58e0533f7:before
+{
+  content: "\ed7f";
+}
+
+.icofont-vine_1f4f8c165e28b7e3:before
+{
+  content: "\ed80";
+}
+
+.icofont-virb_2841fd72c29a1657:before
+{
+  content: "\ed81";
+}
+
+.icofont-virtuemart_126d27bff4f91b80:before
+{
+  content: "\ed82";
+}
+
+.icofont-vk_fcdd194a85f69939:before
+{
+  content: "\ed83";
+}
+
+.icofont-wechat_f4a90e7b11afa271:before
+{
+  content: "\ed84";
+}
+
+.icofont-weibo_4bcd92e160bfa295:before
+{
+  content: "\ed85";
+}
+
+.icofont-whatsapp_5cfc66956b71c6c1:before
+{
+  content: "\ed86";
+}
+
+.icofont-xing_6b73cca4a20c3e73:before
+{
+  content: "\ed87";
+}
+
+.icofont-yahoo_1648c6f5c75931ff:before
+{
+  content: "\ed88";
+}
+
+.icofont-yelp_5816fd9ba350bac2:before
+{
+  content: "\ed89";
+}
+
+.icofont-youku_450df83fc5c42123:before
+{
+  content: "\ed8a";
+}
+
+.icofont-youtube_7bf8fd7d1eb3ed34:before
+{
+  content: "\ed8b";
+}
+
+.icofont-zencart_8b6331c83d6c5c7e:before
+{
+  content: "\ed8c";
+}
+
+.icofont-badminton-birdie_ff66dbccf4250ed5:before
+{
+  content: "\ed8d";
+}
+
+.icofont-baseball_d518b0ef5827ed81:before
+{
+  content: "\ed8e";
+}
+
+.icofont-baseballer_abcd7753cae65432:before
+{
+  content: "\ed8f";
+}
+
+.icofont-basketball-hoop_9a914c3f08e343ff:before
+{
+  content: "\ed90";
+}
+
+.icofont-basketball_39788455cfac92a9:before
+{
+  content: "\ed91";
+}
+
+.icofont-billiard-ball_a1707c2eb8b210ae:before
+{
+  content: "\ed92";
+}
+
+.icofont-boot-alt-1_e5bf5552ae669213:before
+{
+  content: "\ed93";
+}
+
+.icofont-boot-alt-2_4da1861dea87e1c3:before
+{
+  content: "\ed94";
+}
+
+.icofont-boot_88176f592533941d:before
+{
+  content: "\ed95";
+}
+
+.icofont-bowling-alt_a59e9c1513f9bf9e:before
+{
+  content: "\ed96";
+}
+
+.icofont-bowling_45214e692bd80262:before
+{
+  content: "\ed97";
+}
+
+.icofont-canoe_adfa111c360a5ffc:before
+{
+  content: "\ed98";
+}
+
+.icofont-cheer-leader_e3cbf5674a71e17a:before
+{
+  content: "\ed99";
+}
+
+.icofont-climbing_675c2a954cda8e14:before
+{
+  content: "\ed9a";
+}
+
+.icofont-corner_118d7151fd126cb5:before
+{
+  content: "\ed9b";
+}
+
+.icofont-field-alt_810d95832ebc333c:before
+{
+  content: "\ed9c";
+}
+
+.icofont-field_f30e6d3ca48e36af:before
+{
+  content: "\ed9d";
+}
+
+.icofont-football-alt_fc844fb40d309541:before
+{
+  content: "\ed9e";
+}
+
+.icofont-football-american_dbfcfb84e83b09a0:before
+{
+  content: "\ed9f";
+}
+
+.icofont-football_36068b355077ac85:before
+{
+  content: "\eda0";
+}
+
+.icofont-foul_510edc269bb39df0:before
+{
+  content: "\eda1";
+}
+
+.icofont-goal-keeper_cff554491c103b74:before
+{
+  content: "\eda2";
+}
+
+.icofont-goal_33fa45f2dc229c9d:before
+{
+  content: "\eda3";
+}
+
+.icofont-golf-alt_10da77da23888fb0:before
+{
+  content: "\eda4";
+}
+
+.icofont-golf-bag_31b749ea14a47e7a:before
+{
+  content: "\eda5";
+}
+
+.icofont-golf-cart_daf57364b48e38bd:before
+{
+  content: "\eda6";
+}
+
+.icofont-golf-field_c4d0a3f608da21bd:before
+{
+  content: "\eda7";
+}
+
+.icofont-golf_1c1a38238409340c:before
+{
+  content: "\eda8";
+}
+
+.icofont-golfer_534bf2b5deeac4fe:before
+{
+  content: "\eda9";
+}
+
+.icofont-helmet_6c0dc5d2b626e411:before
+{
+  content: "\edaa";
+}
+
+.icofont-hockey-alt_c5ff2ebe21fd5c03:before
+{
+  content: "\edab";
+}
+
+.icofont-hockey_53fc562bedf22c6a:before
+{
+  content: "\edac";
+}
+
+.icofont-ice-skate_440dd0cc8d1e94c0:before
+{
+  content: "\edad";
+}
+
+.icofont-jersey-alt_b0779edbb1db5fa7:before
+{
+  content: "\edae";
+}
+
+.icofont-jersey_1d6969230ba6a081:before
+{
+  content: "\edaf";
+}
+
+.icofont-jumping_3b33e44007225787:before
+{
+  content: "\edb0";
+}
+
+.icofont-kick_2024f518710b9d61:before
+{
+  content: "\edb1";
+}
+
+.icofont-leg_c4af5b7096f3d119:before
+{
+  content: "\edb2";
+}
+
+.icofont-match-review_784646ddda3cb0b7:before
+{
+  content: "\edb3";
+}
+
+.icofont-medal-sport_cef8fdbb4bec147a:before
+{
+  content: "\edb4";
+}
+
+.icofont-offside_06a85c5c34e81863:before
+{
+  content: "\edb5";
+}
+
+.icofont-olympic-logo_1b19715b8e1ca479:before
+{
+  content: "\edb6";
+}
+
+.icofont-olympic_eb6c397abf00561a:before
+{
+  content: "\edb7";
+}
+
+.icofont-padding_d1d82370b4e343da:before
+{
+  content: "\edb8";
+}
+
+.icofont-penalty-card_6b87ccf82f41a069:before
+{
+  content: "\edb9";
+}
+
+.icofont-racer_1ff1dfcf4df9633f:before
+{
+  content: "\edba";
+}
+
+.icofont-racing-car_d19f7dcdf9abf358:before
+{
+  content: "\edbb";
+}
+
+.icofont-racing-flag-alt_94a843d1fd3d0819:before
+{
+  content: "\edbc";
+}
+
+.icofont-racing-flag_68bfb5d95bb48a1a:before
+{
+  content: "\edbd";
+}
+
+.icofont-racings-wheel_92f71f95fb1c96a1:before
+{
+  content: "\edbe";
+}
+
+.icofont-referee_c34c3130aee5be61:before
+{
+  content: "\edbf";
+}
+
+.icofont-refree-jersey_6c717c54da48781a:before
+{
+  content: "\edc0";
+}
+
+.icofont-result-sport_660415505732bc18:before
+{
+  content: "\edc1";
+}
+
+.icofont-rugby-ball_5ead088890078b91:before
+{
+  content: "\edc2";
+}
+
+.icofont-rugby-player_dcad4896551781c6:before
+{
+  content: "\edc3";
+}
+
+.icofont-rugby_32f386774af4bc43:before
+{
+  content: "\edc4";
+}
+
+.icofont-runner-alt-1_8877371d2f128e7c:before
+{
+  content: "\edc5";
+}
+
+.icofont-runner-alt-2_1fb2f0583bbd98fd:before
+{
+  content: "\edc6";
+}
+
+.icofont-runner_63416d81194132ed:before
+{
+  content: "\edc7";
+}
+
+.icofont-score-board_5ce92b22142aa8e1:before
+{
+  content: "\edc8";
+}
+
+.icofont-skiing-man_3e6081f22f587603:before
+{
+  content: "\edc9";
+}
+
+.icofont-skydiving-goggles_2882bec2970971a1:before
+{
+  content: "\edca";
+}
+
+.icofont-snow-mobile_519fea5a7aa611df:before
+{
+  content: "\edcb";
+}
+
+.icofont-steering_49629af3f49ea191:before
+{
+  content: "\edcc";
+}
+
+.icofont-stopwatch_2b1fcda287d31e71:before
+{
+  content: "\edcd";
+}
+
+.icofont-substitute_d14c3964018f1fa8:before
+{
+  content: "\edce";
+}
+
+.icofont-swimmer_b3c55de9d1898411:before
+{
+  content: "\edcf";
+}
+
+.icofont-table-tennis_b3a0b49429696855:before
+{
+  content: "\edd0";
+}
+
+.icofont-team-alt_5a719cfed0163b7c:before
+{
+  content: "\edd1";
+}
+
+.icofont-team_c2553db2a5492543:before
+{
+  content: "\edd2";
+}
+
+.icofont-tennis-player_60d7b5e579ec97a2:before
+{
+  content: "\edd3";
+}
+
+.icofont-tennis_2ab45efa22817cc7:before
+{
+  content: "\edd4";
+}
+
+.icofont-tracking_a937fe0f37800bdd:before
+{
+  content: "\edd5";
+}
+
+.icofont-trophy-alt_ba1311c78abad815:before
+{
+  content: "\edd6";
+}
+
+.icofont-trophy_673b4551618e073e:before
+{
+  content: "\edd7";
+}
+
+.icofont-volleyball-alt_a465f6e390356d15:before
+{
+  content: "\edd8";
+}
+
+.icofont-volleyball-fire_714eb9976bf137be:before
+{
+  content: "\edd9";
+}
+
+.icofont-volleyball_b482c00d851b5698:before
+{
+  content: "\edda";
+}
+
+.icofont-water-bottle_67d8c54eb9b9d967:before
+{
+  content: "\eddb";
+}
+
+.icofont-whistle-alt_5b34ce907697fe46:before
+{
+  content: "\eddc";
+}
+
+.icofont-whistle_174f072bc9f6aa44:before
+{
+  content: "\eddd";
+}
+
+.icofont-win-trophy_d6ed015193b78863:before
+{
+  content: "\edde";
+}
+
+.icofont-align-center_456bd44630260abf:before
+{
+  content: "\eddf";
+}
+
+.icofont-align-left_b902901b503f5b56:before
+{
+  content: "\ede0";
+}
+
+.icofont-align-right_c4db3f8559f042d8:before
+{
+  content: "\ede1";
+}
+
+.icofont-all-caps_b5ce954dff8d62e1:before
+{
+  content: "\ede2";
+}
+
+.icofont-bold_76a4162a36c009ab:before
+{
+  content: "\ede3";
+}
+
+.icofont-brush_94f37e4d0a5ef52d:before
+{
+  content: "\ede4";
+}
+
+.icofont-clip-board_a8e331aaefd41eec:before
+{
+  content: "\ede5";
+}
+
+.icofont-code-alt_4cad5f6ebcdd882c:before
+{
+  content: "\ede6";
+}
+
+.icofont-color-bucket_5da008d8241696ae:before
+{
+  content: "\ede7";
+}
+
+.icofont-color-picker_7e702f3d406eec5b:before
+{
+  content: "\ede8";
+}
+
+.icofont-copy-invert_1afd2d7847303ad8:before
+{
+  content: "\ede9";
+}
+
+.icofont-copy_d9ffeb392b6d25ae:before
+{
+  content: "\edea";
+}
+
+.icofont-cut_aac1e4cc01e73832:before
+{
+  content: "\edeb";
+}
+
+.icofont-delete-alt_41696a86e2fcf2fd:before
+{
+  content: "\edec";
+}
+
+.icofont-edit-alt_912a3291261dfdd9:before
+{
+  content: "\eded";
+}
+
+.icofont-eraser-alt_2b81f9c4d1e87b60:before
+{
+  content: "\edee";
+}
+
+.icofont-font_c7cd7dc65d4d9507:before
+{
+  content: "\edef";
+}
+
+.icofont-heading_9c831096831e491a:before
+{
+  content: "\edf0";
+}
+
+.icofont-indent_6591698fbbf22f1a:before
+{
+  content: "\edf1";
+}
+
+.icofont-italic-alt_d965683cafa8752c:before
+{
+  content: "\edf2";
+}
+
+.icofont-italic_36dcbbc55fe3b3ea:before
+{
+  content: "\edf3";
+}
+
+.icofont-justify-all_f81f531e60269e3f:before
+{
+  content: "\edf4";
+}
+
+.icofont-justify-center_a4a876cfc893e106:before
+{
+  content: "\edf5";
+}
+
+.icofont-justify-left_220606b870ba6a72:before
+{
+  content: "\edf6";
+}
+
+.icofont-justify-right_4e2f8a9eca5380b1:before
+{
+  content: "\edf7";
+}
+
+.icofont-link-broken_5cb5a283e9a2950b:before
+{
+  content: "\edf8";
+}
+
+.icofont-outdent_979f874373a82058:before
+{
+  content: "\edf9";
+}
+
+.icofont-paper-clip_93ffad62ec9e04db:before
+{
+  content: "\edfa";
+}
+
+.icofont-paragraph_3f82a30d480d46ba:before
+{
+  content: "\edfb";
+}
+
+.icofont-pin_955289f5f3ec961f:before
+{
+  content: "\edfc";
+}
+
+.icofont-printer_24eeb239de63a63d:before
+{
+  content: "\edfd";
+}
+
+.icofont-redo_af24839ddf14013b:before
+{
+  content: "\edfe";
+}
+
+.icofont-rotation_93a5a7d253dc7492:before
+{
+  content: "\edff";
+}
+
+.icofont-save_e48ce9a41236ff24:before
+{
+  content: "\ee00";
+}
+
+.icofont-small-cap_57ecc535d56b27b9:before
+{
+  content: "\ee01";
+}
+
+.icofont-strike-through_340759e94428e303:before
+{
+  content: "\ee02";
+}
+
+.icofont-sub-listing_fa4b1bff6093ca5b:before
+{
+  content: "\ee03";
+}
+
+.icofont-subscript_e575389a289657f6:before
+{
+  content: "\ee04";
+}
+
+.icofont-superscript_042d64d9e7192979:before
+{
+  content: "\ee05";
+}
+
+.icofont-table_2f02c144b0751820:before
+{
+  content: "\ee06";
+}
+
+.icofont-text-height_24e301d2b78f3ae5:before
+{
+  content: "\ee07";
+}
+
+.icofont-text-width_f3e78ead5822254a:before
+{
+  content: "\ee08";
+}
+
+.icofont-trash_49fafeb1398ed5bf:before
+{
+  content: "\ee09";
+}
+
+.icofont-underline_9d3c581a40a9d30e:before
+{
+  content: "\ee0a";
+}
+
+.icofont-undo_293b4fcaa73c8160:before
+{
+  content: "\ee0b";
+}
+
+.icofont-air-balloon_d79282eedbe4a14d:before
+{
+  content: "\ee0c";
+}
+
+.icofont-airplane-alt_3c143d48efa4b5f7:before
+{
+  content: "\ee0d";
+}
+
+.icofont-airplane_b689b20dcc227a84:before
+{
+  content: "\ee0e";
+}
+
+.icofont-articulated-truck_45ed60a9cadb6f45:before
+{
+  content: "\ee0f";
+}
+
+.icofont-auto-mobile_77dd0e78776e5e00:before
+{
+  content: "\ee10";
+}
+
+.icofont-auto-rickshaw_bd7807a2bf9e6b72:before
+{
+  content: "\ee11";
+}
+
+.icofont-bicycle-alt-1_f713f180b77faa01:before
+{
+  content: "\ee12";
+}
+
+.icofont-bicycle-alt-2_e402de8816239b4e:before
+{
+  content: "\ee13";
+}
+
+.icofont-bicycle_e85e987fe715d863:before
+{
+  content: "\ee14";
+}
+
+.icofont-bus-alt-1_d48707fa41639a2f:before
+{
+  content: "\ee15";
+}
+
+.icofont-bus-alt-2_8b4450055079e1ec:before
+{
+  content: "\ee16";
+}
+
+.icofont-bus-alt-3_4ab4efedd377136f:before
+{
+  content: "\ee17";
+}
+
+.icofont-bus_11ebd5ce2c431a61:before
+{
+  content: "\ee18";
+}
+
+.icofont-cab_78c54ede85f1fbd1:before
+{
+  content: "\ee19";
+}
+
+.icofont-cable-car_882013018fc07400:before
+{
+  content: "\ee1a";
+}
+
+.icofont-car-alt-1_c2ec63cafb141fb8:before
+{
+  content: "\ee1b";
+}
+
+.icofont-car-alt-2_177fc987ce9acc44:before
+{
+  content: "\ee1c";
+}
+
+.icofont-car-alt-3_d1671efb850b40d1:before
+{
+  content: "\ee1d";
+}
+
+.icofont-car-alt-4_2c52ae2b60169677:before
+{
+  content: "\ee1e";
+}
+
+.icofont-car_9c4fa77f7a3ee3d4:before
+{
+  content: "\ee1f";
+}
+
+.icofont-delivery-time_713501e81e3b27c4:before
+{
+  content: "\ee20";
+}
+
+.icofont-fast-delivery_ba3ddf481b88c57a:before
+{
+  content: "\ee21";
+}
+
+.icofont-fire-truck-alt_165632cf6dd7e363:before
+{
+  content: "\ee22";
+}
+
+.icofont-fire-truck_6aae1b1d8b5ccec3:before
+{
+  content: "\ee23";
+}
+
+.icofont-free-delivery_d81f6c7329847b64:before
+{
+  content: "\ee24";
+}
+
+.icofont-helicopter_445a908bb2784365:before
+{
+  content: "\ee25";
+}
+
+.icofont-motor-bike-alt_deee8c364c72e5c0:before
+{
+  content: "\ee26";
+}
+
+.icofont-motor-bike_2d4531f31ea1199a:before
+{
+  content: "\ee27";
+}
+
+.icofont-motor-biker_03cf95692bdcf657:before
+{
+  content: "\ee28";
+}
+
+.icofont-oil-truck_5f6153e5b2ed93c7:before
+{
+  content: "\ee29";
+}
+
+.icofont-rickshaw_5def3712fd8a45a8:before
+{
+  content: "\ee2a";
+}
+
+.icofont-rocket-alt-1_64f05bb61f722a70:before
+{
+  content: "\ee2b";
+}
+
+.icofont-rocket-alt-2_9b88dd1b5192f331:before
+{
+  content: "\ee2c";
+}
+
+.icofont-rocket_caf560ded71db498:before
+{
+  content: "\ee2d";
+}
+
+.icofont-sail-boat-alt-1_a413c7076a98a79c:before
+{
+  content: "\ee2e";
+}
+
+.icofont-sail-boat-alt-2_bf907e881e97ade3:before
+{
+  content: "\ee2f";
+}
+
+.icofont-sail-boat_07a2de2b7bc889c1:before
+{
+  content: "\ee30";
+}
+
+.icofont-scooter_6e92bb194ada935b:before
+{
+  content: "\ee31";
+}
+
+.icofont-sea-plane_b5f7b5faefae5686:before
+{
+  content: "\ee32";
+}
+
+.icofont-ship-alt_f9d853e428451d19:before
+{
+  content: "\ee33";
+}
+
+.icofont-ship_f47063693cbdc2a5:before
+{
+  content: "\ee34";
+}
+
+.icofont-speed-boat_ab5b0b8730d6b585:before
+{
+  content: "\ee35";
+}
+
+.icofont-taxi_4711192b9a9bcb85:before
+{
+  content: "\ee36";
+}
+
+.icofont-tractor_fcf7a79a3de4646f:before
+{
+  content: "\ee37";
+}
+
+.icofont-train-line_3a58d83d74d1479c:before
+{
+  content: "\ee38";
+}
+
+.icofont-train-steam_6391fd64381db6dd:before
+{
+  content: "\ee39";
+}
+
+.icofont-tram_4117d720b9162a42:before
+{
+  content: "\ee3a";
+}
+
+.icofont-truck-alt_4b7ef0e1ee836c34:before
+{
+  content: "\ee3b";
+}
+
+.icofont-truck-loaded_889f2a8d846bd1b1:before
+{
+  content: "\ee3c";
+}
+
+.icofont-truck_3de9fa767ceb9f5d:before
+{
+  content: "\ee3d";
+}
+
+.icofont-van-alt_646d94589d7c1c47:before
+{
+  content: "\ee3e";
+}
+
+.icofont-van_f2bce2dbe345dd7c:before
+{
+  content: "\ee3f";
+}
+
+.icofont-yacht_942f3eaa22c37fdb:before
+{
+  content: "\ee40";
+}
+
+.icofont-5-star-hotel_0656f53f0002e8c4:before
+{
+  content: "\ee41";
+}
+
+.icofont-air-ticket_f30f562c101cd2ca:before
+{
+  content: "\ee42";
+}
+
+.icofont-beach-bed_01c28b3474f3cef9:before
+{
+  content: "\ee43";
+}
+
+.icofont-beach_9dca35bad7abafee:before
+{
+  content: "\ee44";
+}
+
+.icofont-camping-vest_2216342f3900a32e:before
+{
+  content: "\ee45";
+}
+
+.icofont-direction-sign_f868d29cfcf11031:before
+{
+  content: "\ee46";
+}
+
+.icofont-hill-side_dcda7bbc0ee160cb:before
+{
+  content: "\ee47";
+}
+
+.icofont-hill_b156728f55fcfa04:before
+{
+  content: "\ee48";
+}
+
+.icofont-hotel_75da25e60e6e6b74:before
+{
+  content: "\ee49";
+}
+
+.icofont-island-alt_32c96559281a328d:before
+{
+  content: "\ee4a";
+}
+
+.icofont-island_a8707f755ee338d0:before
+{
+  content: "\ee4b";
+}
+
+.icofont-sandals-female_32c16704c1dcead9:before
+{
+  content: "\ee4c";
+}
+
+.icofont-sandals-male_8db47877ad31b0b1:before
+{
+  content: "\ee4d";
+}
+
+.icofont-travelling_a69ddb9028848f17:before
+{
+  content: "\ee4e";
+}
+
+.icofont-breakdown_573b33821ff315f3:before
+{
+  content: "\ee4f";
+}
+
+.icofont-celsius_b6c31955279c8278:before
+{
+  content: "\ee50";
+}
+
+.icofont-clouds_c026610fd6869de8:before
+{
+  content: "\ee51";
+}
+
+.icofont-cloudy_e7fec7b7fb3640dc:before
+{
+  content: "\ee52";
+}
+
+.icofont-dust_6e677bed878eeb36:before
+{
+  content: "\ee53";
+}
+
+.icofont-eclipse_df888d62b85da804:before
+{
+  content: "\ee54";
+}
+
+.icofont-fahrenheit_066ddbfaabe6ab58:before
+{
+  content: "\ee55";
+}
+
+.icofont-forest-fire_1901ad403e8b47c5:before
+{
+  content: "\ee56";
+}
+
+.icofont-full-night_3e6a666a4a969fd8:before
+{
+  content: "\ee57";
+}
+
+.icofont-full-sunny_52e752b9517f0423:before
+{
+  content: "\ee58";
+}
+
+.icofont-hail-night_2be69afed8a2ccff:before
+{
+  content: "\ee59";
+}
+
+.icofont-hail-rainy-night_b22b0cc8e1a1c08e:before
+{
+  content: "\ee5a";
+}
+
+.icofont-hail-rainy-sunny_6317108393477b86:before
+{
+  content: "\ee5b";
+}
+
+.icofont-hail-rainy_61931d82155e82e2:before
+{
+  content: "\ee5c";
+}
+
+.icofont-hail-sunny_751f3ccb3b931d7e:before
+{
+  content: "\ee5d";
+}
+
+.icofont-hail-thunder-night_2c3201dbee01dcb0:before
+{
+  content: "\ee5e";
+}
+
+.icofont-hail-thunder-sunny_99d0ad9c0f0e58c9:before
+{
+  content: "\ee5f";
+}
+
+.icofont-hail-thunder_8dacb4c230503466:before
+{
+  content: "\ee60";
+}
+
+.icofont-hail_3fec43b6abac5085:before
+{
+  content: "\ee61";
+}
+
+.icofont-hill-night_c7ecc1cb0dcb2371:before
+{
+  content: "\ee62";
+}
+
+.icofont-hill-sunny_dcd158bcbc36f41c:before
+{
+  content: "\ee63";
+}
+
+.icofont-hurricane_a38c9147f9fd84d1:before
+{
+  content: "\ee64";
+}
+
+.icofont-meteor_5eca53bd755f7440:before
+{
+  content: "\ee65";
+}
+
+.icofont-night_a2b451819df68716:before
+{
+  content: "\ee66";
+}
+
+.icofont-rainy-night_41b808aaf9bd0ded:before
+{
+  content: "\ee67";
+}
+
+.icofont-rainy-sunny_91d89cbe648bf428:before
+{
+  content: "\ee68";
+}
+
+.icofont-rainy-thunder_98077beac588ca37:before
+{
+  content: "\ee69";
+}
+
+.icofont-rainy_c0e177fa3b0cd864:before
+{
+  content: "\ee6a";
+}
+
+.icofont-snow-alt_04ac6ba1da24575b:before
+{
+  content: "\ee6b";
+}
+
+.icofont-snow-flake_ff1d306ca6b83a1e:before
+{
+  content: "\ee6c";
+}
+
+.icofont-snow-temp_653dc969771d5c16:before
+{
+  content: "\ee6d";
+}
+
+.icofont-snow_6e9c644cdc2eda85:before
+{
+  content: "\ee6e";
+}
+
+.icofont-snowy-hail_3079b887a140313e:before
+{
+  content: "\ee6f";
+}
+
+.icofont-snowy-night-hail_764ab64f19c43d5c:before
+{
+  content: "\ee70";
+}
+
+.icofont-snowy-night-rainy_50a2a89a60cea8c2:before
+{
+  content: "\ee71";
+}
+
+.icofont-snowy-night_56063ac2b1d4f596:before
+{
+  content: "\ee72";
+}
+
+.icofont-snowy-rainy_1f9bae6b93bae85f:before
+{
+  content: "\ee73";
+}
+
+.icofont-snowy-sunny-hail_44564548b626bfa8:before
+{
+  content: "\ee74";
+}
+
+.icofont-snowy-sunny-rainy_ebb6d85a7431abdf:before
+{
+  content: "\ee75";
+}
+
+.icofont-snowy-sunny_5259462baeaf0edb:before
+{
+  content: "\ee76";
+}
+
+.icofont-snowy-thunder-night_a18543c02de46ed5:before
+{
+  content: "\ee77";
+}
+
+.icofont-snowy-thunder-sunny_1e960cbdc287abef:before
+{
+  content: "\ee78";
+}
+
+.icofont-snowy-thunder_da242bf04e595d96:before
+{
+  content: "\ee79";
+}
+
+.icofont-snowy-windy-night_c5068261130b052e:before
+{
+  content: "\ee7a";
+}
+
+.icofont-snowy-windy-sunny_e698dc6dd5711d9b:before
+{
+  content: "\ee7b";
+}
+
+.icofont-snowy-windy_eb8fab4a9746a592:before
+{
+  content: "\ee7c";
+}
+
+.icofont-snowy_68142ab9ef18ed41:before
+{
+  content: "\ee7d";
+}
+
+.icofont-sun-alt_e48305642062fdee:before
+{
+  content: "\ee7e";
+}
+
+.icofont-sun-rise_d2d2ca792159adc7:before
+{
+  content: "\ee7f";
+}
+
+.icofont-sun-set_ba0c0688ce7cf366:before
+{
+  content: "\ee80";
+}
+
+.icofont-sun_5fe99451a91a650c:before
+{
+  content: "\ee81";
+}
+
+.icofont-sunny-day-temp_aaf7f512b878c124:before
+{
+  content: "\ee82";
+}
+
+.icofont-sunny_ab17b6cc7651534d:before
+{
+  content: "\ee83";
+}
+
+.icofont-thunder-light_5ae566fd24a5de20:before
+{
+  content: "\ee84";
+}
+
+.icofont-tornado_850293084f6925f3:before
+{
+  content: "\ee85";
+}
+
+.icofont-umbrella-alt_f3db8cc547cf3330:before
+{
+  content: "\ee86";
+}
+
+.icofont-umbrella_8602b210d7597626:before
+{
+  content: "\ee87";
+}
+
+.icofont-volcano_fcd6cb35b7ae35f6:before
+{
+  content: "\ee88";
+}
+
+.icofont-wave_250c7a8858999d9e:before
+{
+  content: "\ee89";
+}
+
+.icofont-wind-scale-0_812114f6dac5f545:before
+{
+  content: "\ee8a";
+}
+
+.icofont-wind-scale-1_44a46fee8b6f816e:before
+{
+  content: "\ee8b";
+}
+
+.icofont-wind-scale-10_c87b8786b33e24af:before
+{
+  content: "\ee8c";
+}
+
+.icofont-wind-scale-11_7406f9eacef14a45:before
+{
+  content: "\ee8d";
+}
+
+.icofont-wind-scale-12_e5ee41582aa87c17:before
+{
+  content: "\ee8e";
+}
+
+.icofont-wind-scale-2_c8207224605a8c7b:before
+{
+  content: "\ee8f";
+}
+
+.icofont-wind-scale-3_9ab6d2df2703b44a:before
+{
+  content: "\ee90";
+}
+
+.icofont-wind-scale-4_06a6fdacdfaedea2:before
+{
+  content: "\ee91";
+}
+
+.icofont-wind-scale-5_48eebfdf0d777827:before
+{
+  content: "\ee92";
+}
+
+.icofont-wind-scale-6_d8c8ddc17d9b55ee:before
+{
+  content: "\ee93";
+}
+
+.icofont-wind-scale-7_80d22223766d7de9:before
+{
+  content: "\ee94";
+}
+
+.icofont-wind-scale-8_274b47a03de6135f:before
+{
+  content: "\ee95";
+}
+
+.icofont-wind-scale-9_8f5a36eb4f535d3e:before
+{
+  content: "\ee96";
+}
+
+.icofont-wind-waves_865e0d66ba51df69:before
+{
+  content: "\ee97";
+}
+
+.icofont-wind_cc85c6b0daeede43:before
+{
+  content: "\ee98";
+}
+
+.icofont-windy-hail_6a78d0ecefcff640:before
+{
+  content: "\ee99";
+}
+
+.icofont-windy-night_78c02f0c0487748a:before
+{
+  content: "\ee9a";
+}
+
+.icofont-windy-raining_62e7499d0efbc34a:before
+{
+  content: "\ee9b";
+}
+
+.icofont-windy-sunny_f39d8bf30eea15c4:before
+{
+  content: "\ee9c";
+}
+
+.icofont-windy-thunder-raining_fe2cc5a95729b781:before
+{
+  content: "\ee9d";
+}
+
+.icofont-windy-thunder_93318c6d1d522ebf:before
+{
+  content: "\ee9e";
+}
+
+.icofont-windy_5588e4c9872b2eaf:before
+{
+  content: "\ee9f";
+}
+
+.icofont-addons_c120b30999a7baaa:before
+{
+  content: "\eea0";
+}
+
+.icofont-address-book_a80313e48966b2ca:before
+{
+  content: "\eea1";
+}
+
+.icofont-adjust_70a04cf86dca2d91:before
+{
+  content: "\eea2";
+}
+
+.icofont-alarm_285d9439f2c7b1da:before
+{
+  content: "\eea3";
+}
+
+.icofont-anchor_b168c087ac2c5800:before
+{
+  content: "\eea4";
+}
+
+.icofont-archive_d3462848cc5f61f5:before
+{
+  content: "\eea5";
+}
+
+.icofont-at_4e88b09c4feb5965:before
+{
+  content: "\eea6";
+}
+
+.icofont-attachment_c1bbb4dee09ad622:before
+{
+  content: "\eea7";
+}
+
+.icofont-audio_32252b4f6f6ce1c1:before
+{
+  content: "\eea8";
+}
+
+.icofont-automation_9798615c7cc9d2a2:before
+{
+  content: "\eea9";
+}
+
+.icofont-badge_aa02bd48d76d8784:before
+{
+  content: "\eeaa";
+}
+
+.icofont-bag-alt_0f6cfcf6ccf3e6f6:before
+{
+  content: "\eeab";
+}
+
+.icofont-bag_33d0b03da6e8777b:before
+{
+  content: "\eeac";
+}
+
+.icofont-ban_93ff5754221f5f6a:before
+{
+  content: "\eead";
+}
+
+.icofont-bar-code_78490e9a3d867fee:before
+{
+  content: "\eeae";
+}
+
+.icofont-bars_5726065200d0b1c2:before
+{
+  content: "\eeaf";
+}
+
+.icofont-basket_89219078058265ba:before
+{
+  content: "\eeb0";
+}
+
+.icofont-battery-empty_7532ac14894708f3:before
+{
+  content: "\eeb1";
+}
+
+.icofont-battery-full_70f2e50bbabc1436:before
+{
+  content: "\eeb2";
+}
+
+.icofont-battery-half_e51974bd89e68cd9:before
+{
+  content: "\eeb3";
+}
+
+.icofont-battery-low_7a368df175ff3bde:before
+{
+  content: "\eeb4";
+}
+
+.icofont-beaker_3e03c27acd4a9bef:before
+{
+  content: "\eeb5";
+}
+
+.icofont-beard_3457339eab39d757:before
+{
+  content: "\eeb6";
+}
+
+.icofont-bed_bfe2d8c3f72327d9:before
+{
+  content: "\eeb7";
+}
+
+.icofont-bell_88517d6c826c22bd:before
+{
+  content: "\eeb8";
+}
+
+.icofont-beverage_d7b56c0ff1a3dbe9:before
+{
+  content: "\eeb9";
+}
+
+.icofont-bill_eccc3efbd195ca96:before
+{
+  content: "\eeba";
+}
+
+.icofont-bin_fa9abb8c687cc4cc:before
+{
+  content: "\eebb";
+}
+
+.icofont-binary_9ede64f608adcc49:before
+{
+  content: "\eebc";
+}
+
+.icofont-binoculars_f3d88f559b582ff7:before
+{
+  content: "\eebd";
+}
+
+.icofont-bluetooth_93ea1cffc125d176:before
+{
+  content: "\eebe";
+}
+
+.icofont-bomb_cb87bc67ac8f5619:before
+{
+  content: "\eebf";
+}
+
+.icofont-book-mark_4d176a8d60fe1581:before
+{
+  content: "\eec0";
+}
+
+.icofont-box_0007eb0806bee689:before
+{
+  content: "\eec1";
+}
+
+.icofont-briefcase_e0b22571651f0854:before
+{
+  content: "\eec2";
+}
+
+.icofont-broken_11efaaff394a553a:before
+{
+  content: "\eec3";
+}
+
+.icofont-bucket_f5ca0e51c319f7bf:before
+{
+  content: "\eec4";
+}
+
+.icofont-bucket1_c0ae40dcf62c0a87:before
+{
+  content: "\eec5";
+}
+
+.icofont-bucket2_27eb6c4dc87f3ad7:before
+{
+  content: "\eec6";
+}
+
+.icofont-bug_86e2f9777412fc72:before
+{
+  content: "\eec7";
+}
+
+.icofont-building_baaa0c067907492b:before
+{
+  content: "\eec8";
+}
+
+.icofont-bulb-alt_ee87c37fb02b0490:before
+{
+  content: "\eec9";
+}
+
+.icofont-bullet_86d40dbf5b0b0238:before
+{
+  content: "\eeca";
+}
+
+.icofont-bullhorn_d7caad4fb2cbf478:before
+{
+  content: "\eecb";
+}
+
+.icofont-bullseye_b45ec81eb9c9d10a:before
+{
+  content: "\eecc";
+}
+
+.icofont-calendar_42215098215147c3:before
+{
+  content: "\eecd";
+}
+
+.icofont-camera-alt_ea594f6d4c356e0b:before
+{
+  content: "\eece";
+}
+
+.icofont-camera_f141db95173ebc3c:before
+{
+  content: "\eecf";
+}
+
+.icofont-card_afa7ebbee5eb49dd:before
+{
+  content: "\eed0";
+}
+
+.icofont-cart-alt_fbb02e5fbfbb46df:before
+{
+  content: "\eed1";
+}
+
+.icofont-cart_d60dd7d96295ba2d:before
+{
+  content: "\eed2";
+}
+
+.icofont-cc_39deaf3a588e4c18:before
+{
+  content: "\eed3";
+}
+
+.icofont-charging_243e66607b90d221:before
+{
+  content: "\eed4";
+}
+
+.icofont-chat_eb007f09c6fd6099:before
+{
+  content: "\eed5";
+}
+
+.icofont-check-alt_3b3fa13fa489b806:before
+{
+  content: "\eed6";
+}
+
+.icofont-check-circled_5509192d7006357c:before
+{
+  content: "\eed7";
+}
+
+.icofont-check_2528d3c8f08791f4:before
+{
+  content: "\eed8";
+}
+
+.icofont-checked_32a7038cabf2ada0:before
+{
+  content: "\eed9";
+}
+
+.icofont-children-care_2cd9e07fdaae1b69:before
+{
+  content: "\eeda";
+}
+
+.icofont-clip_6c0936db64a02ebf:before
+{
+  content: "\eedb";
+}
+
+.icofont-clock-time:before
+{
+  content: "\eedc";
+}
+
+.icofont-close-circled_8f3b3202d0adfa6a:before
+{
+  content: "\eedd";
+}
+
+.icofont-close-line-circled_cd784604616592d6:before
+{
+  content: "\eede";
+}
+
+.icofont-close-line-squared-alt_781f8a53aa7d3484:before
+{
+  content: "\eedf";
+}
+
+.icofont-close-line-squared_5d36729b50e39596:before
+{
+  content: "\eee0";
+}
+
+.icofont-close-line_8d830f2385d3b59c:before
+{
+  content: "\eee1";
+}
+
+.icofont-close-squared-alt_1f43f371e6f8a326:before
+{
+  content: "\eee2";
+}
+
+.icofont-close-squared_4eb6d1629a2adba9:before
+{
+  content: "\eee3";
+}
+
+.icofont-close_f77f8625c1c7aa8b:before
+{
+  content: "\eee4";
+}
+
+.icofont-cloud-download_a248b9381c37bc7d:before
+{
+  content: "\eee5";
+}
+
+.icofont-cloud-refresh_e9bc1162ed797ac5:before
+{
+  content: "\eee6";
+}
+
+.icofont-cloud-upload_4f6351a079c2d466:before
+{
+  content: "\eee7";
+}
+
+.icofont-cloud_c44daeaed72d9a91:before
+{
+  content: "\eee8";
+}
+
+.icofont-code-not-allowed_83e798b187c63bb7:before
+{
+  content: "\eee9";
+}
+
+.icofont-code_adcdc854ce7d17ec:before
+{
+  content: "\eeea";
+}
+
+.icofont-comment_fd79c591c5c258bd:before
+{
+  content: "\eeeb";
+}
+
+.icofont-compass-alt_97f6f523368258ca:before
+{
+  content: "\eeec";
+}
+
+.icofont-compass_b6e8d0f26e9ad33b:before
+{
+  content: "\eeed";
+}
+
+.icofont-computer_b0852b6a76239c60:before
+{
+  content: "\eeee";
+}
+
+.icofont-connection_62e0dd91d00f788c:before
+{
+  content: "\eeef";
+}
+
+.icofont-console_e31f9b6396b7faa3:before
+{
+  content: "\eef0";
+}
+
+.icofont-contacts_007f015dbcee17a4:before
+{
+  content: "\eef1";
+}
+
+.icofont-contrast_3ce087ed2a53faa0:before
+{
+  content: "\eef2";
+}
+
+.icofont-copyright_1bfc24379502bc0b:before
+{
+  content: "\eef3";
+}
+
+.icofont-credit-card_0d6a9bf7a047e728:before
+{
+  content: "\eef4";
+}
+
+.icofont-crop_38ec9946a36cfe3e:before
+{
+  content: "\eef5";
+}
+
+.icofont-crown_eb7fcf48fb176dd9:before
+{
+  content: "\eef6";
+}
+
+.icofont-cube_cb0cb41d40c98b3c:before
+{
+  content: "\eef7";
+}
+
+.icofont-cubes_fce49c6edc7798b9:before
+{
+  content: "\eef8";
+}
+
+.icofont-dashboard-web_ec1c63e38798ca51:before
+{
+  content: "\eef9";
+}
+
+.icofont-dashboard_55788454752df797:before
+{
+  content: "\eefa";
+}
+
+.icofont-data_d3e0834c458348eb:before
+{
+  content: "\eefb";
+}
+
+.icofont-database-add_90c7418740982b50:before
+{
+  content: "\eefc";
+}
+
+.icofont-database-locked_970a1cd91913501d:before
+{
+  content: "\eefd";
+}
+
+.icofont-database-remove_9970aad841441d3a:before
+{
+  content: "\eefe";
+}
+
+.icofont-database_57f9cbcc775d11fa:before
+{
+  content: "\eeff";
+}
+
+.icofont-delete_72b5fdf9413a2669:before
+{
+  content: "\ef00";
+}
+
+.icofont-diamond_2cfa5528d4b9ded9:before
+{
+  content: "\ef01";
+}
+
+.icofont-dice-multiple_186801926c69a439:before
+{
+  content: "\ef02";
+}
+
+.icofont-dice_31673a6b049996e3:before
+{
+  content: "\ef03";
+}
+
+.icofont-disc_2e82cd7fb9db110d:before
+{
+  content: "\ef04";
+}
+
+.icofont-diskette_c47163b4d06a6402:before
+{
+  content: "\ef05";
+}
+
+.icofont-document-folder_ad453b5461b8dcb5:before
+{
+  content: "\ef06";
+}
+
+.icofont-download-alt_343fbf49790a8764:before
+{
+  content: "\ef07";
+}
+
+.icofont-download_c7d3829f36b6a051:before
+{
+  content: "\ef08";
+}
+
+.icofont-downloaded_47187314b12458bc:before
+{
+  content: "\ef09";
+}
+
+.icofont-drag_30eacc8f5f72cb6b:before
+{
+  content: "\ef0a";
+}
+
+.icofont-drag1_3e98ca0412cb55d5:before
+{
+  content: "\ef0b";
+}
+
+.icofont-drag2_3291c4c4e4173842:before
+{
+  content: "\ef0c";
+}
+
+.icofont-drag3_2b647942d926fd7f:before
+{
+  content: "\ef0d";
+}
+
+.icofont-earth_f2b5a9d6440589d4:before
+{
+  content: "\ef0e";
+}
+
+.icofont-ebook_fe0415fc495a80ff:before
+{
+  content: "\ef0f";
+}
+
+.icofont-edit_4a540e6ecc8a6ddc:before
+{
+  content: "\ef10";
+}
+
+.icofont-eject_c7dfc68adc6d04ea:before
+{
+  content: "\ef11";
+}
+
+.icofont-email_f00c0d931338adb8:before
+{
+  content: "\ef12";
+}
+
+.icofont-envelope-open_e39466478ae92829:before
+{
+  content: "\ef13";
+}
+
+.icofont-envelope:before
+{
+  content: "\ef14";
+}
+
+.icofont-eraser_63d4b85d709c7b03:before
+{
+  content: "\ef15";
+}
+
+.icofont-error_7d0002e93dc52020:before
+{
+  content: "\ef16";
+}
+
+.icofont-excavator_841d479426dbb129:before
+{
+  content: "\ef17";
+}
+
+.icofont-exchange_eadc1a9fdb029382:before
+{
+  content: "\ef18";
+}
+
+.icofont-exclamation-circle_8e1fc9bea0556d9f:before
+{
+  content: "\ef19";
+}
+
+.icofont-exclamation-square_b69ede17d0d4c5c5:before
+{
+  content: "\ef1a";
+}
+
+.icofont-exclamation-tringle_43870097a47a1721:before
+{
+  content: "\ef1b";
+}
+
+.icofont-exclamation_03a878bd972e7291:before
+{
+  content: "\ef1c";
+}
+
+.icofont-exit_34f3984ff543a27a:before
+{
+  content: "\ef1d";
+}
+
+.icofont-expand_bc1efb1df4c88586:before
+{
+  content: "\ef1e";
+}
+
+.icofont-external-link_18d72dec6fe28d7d:before
+{
+  content: "\ef1f";
+}
+
+.icofont-external_1c16a971022ba069:before
+{
+  content: "\ef20";
+}
+
+.icofont-eye-alt_2eb43d3192485a98:before
+{
+  content: "\ef21";
+}
+
+.icofont-eye-blocked_222d602be557ca44:before
+{
+  content: "\ef22";
+}
+
+.icofont-eye-dropper_8fea421adcc2087a:before
+{
+  content: "\ef23";
+}
+
+.icofont-eye_7df337490f6dd207:before
+{
+  content: "\ef24";
+}
+
+.icofont-favourite_7981b219c0500c00:before
+{
+  content: "\ef25";
+}
+
+.icofont-fax_12b5de70f42b8833:before
+{
+  content: "\ef26";
+}
+
+.icofont-file-fill_5b694d62fa6fbd0f:before
+{
+  content: "\ef27";
+}
+
+.icofont-film_8b6cce042527aaa7:before
+{
+  content: "\ef28";
+}
+
+.icofont-filter_d862d9f6dab3f9d2:before
+{
+  content: "\ef29";
+}
+
+.icofont-fire-alt_904fd00b0d9c9caf:before
+{
+  content: "\ef2a";
+}
+
+.icofont-fire-burn_7b1346a6f3e248ca:before
+{
+  content: "\ef2b";
+}
+
+.icofont-fire_ce4149ac139b4504:before
+{
+  content: "\ef2c";
+}
+
+.icofont-flag-alt-1_7fcf19b176c0d75e:before
+{
+  content: "\ef2d";
+}
+
+.icofont-flag-alt-2_cc340499757a8094:before
+{
+  content: "\ef2e";
+}
+
+.icofont-flag_6b566021c56b034b:before
+{
+  content: "\ef2f";
+}
+
+.icofont-flame-torch_c36b85f5b9f56030:before
+{
+  content: "\ef30";
+}
+
+.icofont-flash-light_84d7b26966b1c124:before
+{
+  content: "\ef31";
+}
+
+.icofont-flash_8b3cb582a1f3c32d:before
+{
+  content: "\ef32";
+}
+
+.icofont-flask_2553afb5ea7b9a85:before
+{
+  content: "\ef33";
+}
+
+.icofont-focus_17bf4e789a3f4886:before
+{
+  content: "\ef34";
+}
+
+.icofont-folder-open_d6220205b5105f27:before
+{
+  content: "\ef35";
+}
+
+.icofont-folder_ef372e9b9ee8cb1d:before
+{
+  content: "\ef36";
+}
+
+.icofont-foot-print_c447616f64a26cc5:before
+{
+  content: "\ef37";
+}
+
+.icofont-garbage_43910f205a8eabc7:before
+{
+  content: "\ef38";
+}
+
+.icofont-gear-alt_b89414eb67190482:before
+{
+  content: "\ef39";
+}
+
+.icofont-gear_f281e129b268296c:before
+{
+  content: "\ef3a";
+}
+
+.icofont-gears_b255cd99a9a4ce70:before
+{
+  content: "\ef3b";
+}
+
+.icofont-gift_8397c69a05352bbf:before
+{
+  content: "\ef3c";
+}
+
+.icofont-glass_9c569e5296094a8d:before
+{
+  content: "\ef3d";
+}
+
+.icofont-globe_56e5a4a1681a4b88:before
+{
+  content: "\ef3e";
+}
+
+.icofont-graffiti_22fa11cf97a0fb2f:before
+{
+  content: "\ef3f";
+}
+
+.icofont-grocery_88fc8ce80f8460b8:before
+{
+  content: "\ef40";
+}
+
+.icofont-hand_2534c1230c846722:before
+{
+  content: "\ef41";
+}
+
+.icofont-hanger_6d5ab073fba72c78:before
+{
+  content: "\ef42";
+}
+
+.icofont-hard-disk_34681ea9a20c2731:before
+{
+  content: "\ef43";
+}
+
+.icofont-heart-alt_352a051ab0411906:before
+{
+  content: "\ef44";
+}
+
+.icofont-heart_de5919db393b9d7a:before
+{
+  content: "\ef45";
+}
+
+.icofont-history_d3283c48ea15374b:before
+{
+  content: "\ef46";
+}
+
+.icofont-home_3fa017b6812f2de8:before
+{
+  content: "\ef47";
+}
+
+.icofont-horn_dedea03825e9735d:before
+{
+  content: "\ef48";
+}
+
+.icofont-hour-glass_3f8e6844ef800e2a:before
+{
+  content: "\ef49";
+}
+
+.icofont-id_aea3fbc759c82804:before
+{
+  content: "\ef4a";
+}
+
+.icofont-image_381b420418b4b8de:before
+{
+  content: "\ef4b";
+}
+
+.icofont-inbox_76854cd5c2b15aa4:before
+{
+  content: "\ef4c";
+}
+
+.icofont-infinite_7498c941533a2072:before
+{
+  content: "\ef4d";
+}
+
+.icofont-info-circle_4679ae8499762853:before
+{
+  content: "\ef4e";
+}
+
+.icofont-info-square_7c5f928ab5e080ba:before
+{
+  content: "\ef4f";
+}
+
+.icofont-info_30ea56bd2e279205:before
+{
+  content: "\ef50";
+}
+
+.icofont-institution_808d9c4110f37ea5:before
+{
+  content: "\ef51";
+}
+
+.icofont-interface_1260e380947e9b71:before
+{
+  content: "\ef52";
+}
+
+.icofont-invisible_2158eb684ab7590e:before
+{
+  content: "\ef53";
+}
+
+.icofont-jacket_af7096a9f6004733:before
+{
+  content: "\ef54";
+}
+
+.icofont-jar_72b50334b88943e8:before
+{
+  content: "\ef55";
+}
+
+.icofont-jewlery_8a94e165a14e6525:before
+{
+  content: "\ef56";
+}
+
+.icofont-karate_1918e4f299ac7c2a:before
+{
+  content: "\ef57";
+}
+
+.icofont-key-hole_48474383d751ae4e:before
+{
+  content: "\ef58";
+}
+
+.icofont-key_7f00ea4fdbdb2986:before
+{
+  content: "\ef59";
+}
+
+.icofont-label_eb45513d3fba1550:before
+{
+  content: "\ef5a";
+}
+
+.icofont-lamp_0b4e4bc5d8a2fc4b:before
+{
+  content: "\ef5b";
+}
+
+.icofont-layers_269555727561a18c:before
+{
+  content: "\ef5c";
+}
+
+.icofont-layout_0b97fb5ca398f088:before
+{
+  content: "\ef5d";
+}
+
+.icofont-leaf_9b8f59b1c56ea04d:before
+{
+  content: "\ef5e";
+}
+
+.icofont-leaflet_aa99644b5919239e:before
+{
+  content: "\ef5f";
+}
+
+.icofont-learn_8ef2da4326f20d29:before
+{
+  content: "\ef60";
+}
+
+.icofont-lego_0f2dd8dff2d42c99:before
+{
+  content: "\ef61";
+}
+
+.icofont-lens_ffca9ebff21501e1:before
+{
+  content: "\ef62";
+}
+
+.icofont-letter_79bd25543d5d115b:before
+{
+  content: "\ef63";
+}
+
+.icofont-letterbox_8b85de5829e4cbf5:before
+{
+  content: "\ef64";
+}
+
+.icofont-library_4575de0278e78502:before
+{
+  content: "\ef65";
+}
+
+.icofont-license_0ddd9c1a39f4f4f9:before
+{
+  content: "\ef66";
+}
+
+.icofont-life-bouy_640ea04d2c8fd7a4:before
+{
+  content: "\ef67";
+}
+
+.icofont-life-buoy_3ef8d01ad3d1bb49:before
+{
+  content: "\ef68";
+}
+
+.icofont-life-jacket_ab50ce93d5d96942:before
+{
+  content: "\ef69";
+}
+
+.icofont-life-ring_673553da6ec948b5:before
+{
+  content: "\ef6a";
+}
+
+.icofont-light-bulb_0c3729baa4301099:before
+{
+  content: "\ef6b";
+}
+
+.icofont-lighter_5dd9946db998881b:before
+{
+  content: "\ef6c";
+}
+
+.icofont-lightning-ray_e66189d12ff89e59:before
+{
+  content: "\ef6d";
+}
+
+.icofont-like_a9697d0dc6a7857f:before
+{
+  content: "\ef6e";
+}
+
+.icofont-line-height_ade5dc04b1994c7b:before
+{
+  content: "\ef6f";
+}
+
+.icofont-link-alt_8a158fd0a1d4dfe3:before
+{
+  content: "\ef70";
+}
+
+.icofont-link_b02deff67a26a052:before
+{
+  content: "\ef71";
+}
+
+.icofont-list_f5c930f2b3676faa:before
+{
+  content: "\ef72";
+}
+
+.icofont-listening_0eb1a7bbf7fc46af:before
+{
+  content: "\ef73";
+}
+
+.icofont-listine-dots_74299bdce94f1163:before
+{
+  content: "\ef74";
+}
+
+.icofont-listing-box_307a6cdb4f1cce74:before
+{
+  content: "\ef75";
+}
+
+.icofont-listing-number_b9b938be1b6c379e:before
+{
+  content: "\ef76";
+}
+
+.icofont-live-support_c25597fc003e818b:before
+{
+  content: "\ef77";
+}
+
+.icofont-location-arrow_72f126086d0aaf64:before
+{
+  content: "\ef78";
+}
+
+.icofont-location-pin:before
+{
+  content: "\ef79";
+}
+
+.icofont-lock_0d8be61965d0f00d:before
+{
+  content: "\ef7a";
+}
+
+.icofont-login_72e5e7cafdbf3ba4:before
+{
+  content: "\ef7b";
+}
+
+.icofont-logout_9259df75a6945ce2:before
+{
+  content: "\ef7c";
+}
+
+.icofont-lollipop_839ccaf9548b961c:before
+{
+  content: "\ef7d";
+}
+
+.icofont-long-drive_b51bd32614476375:before
+{
+  content: "\ef7e";
+}
+
+.icofont-look_7afd0c211eeb53a5:before
+{
+  content: "\ef7f";
+}
+
+.icofont-loop_9257482d982ca063:before
+{
+  content: "\ef80";
+}
+
+.icofont-luggage_59e637f7ead1d4c7:before
+{
+  content: "\ef81";
+}
+
+.icofont-lunch_1ec6417465940353:before
+{
+  content: "\ef82";
+}
+
+.icofont-lungs_76b1f09b47bc37e7:before
+{
+  content: "\ef83";
+}
+
+.icofont-magic-alt_c629c69ffeb63a2a:before
+{
+  content: "\ef84";
+}
+
+.icofont-magic_95a350b283f9eb63:before
+{
+  content: "\ef85";
+}
+
+.icofont-magnet_24e800b8b38826d3:before
+{
+  content: "\ef86";
+}
+
+.icofont-mail-box_5c9f22b8de31f8b0:before
+{
+  content: "\ef87";
+}
+
+.icofont-mail_c69f37d530358380:before
+{
+  content: "\ef88";
+}
+
+.icofont-male_8e85bcdc366d3420:before
+{
+  content: "\ef89";
+}
+
+.icofont-map-pins_6114abf43db50448:before
+{
+  content: "\ef8a";
+}
+
+.icofont-map_b6ed8fec66dae271:before
+{
+  content: "\ef8b";
+}
+
+.icofont-maximize_d5ab6a0325fb821c:before
+{
+  content: "\ef8c";
+}
+
+.icofont-measure_f3635986bb7b4f84:before
+{
+  content: "\ef8d";
+}
+
+.icofont-medicine_165773bbc28e947e:before
+{
+  content: "\ef8e";
+}
+
+.icofont-mega-phone_0c2bd2ec39d3cebe:before
+{
+  content: "\ef8f";
+}
+
+.icofont-megaphone-alt_86653bfc8bb54e06:before
+{
+  content: "\ef90";
+}
+
+.icofont-megaphone_59a97d3b0760f47e:before
+{
+  content: "\ef91";
+}
+
+.icofont-memorial_75e24030f86b627b:before
+{
+  content: "\ef92";
+}
+
+.icofont-memory-card_66f7cdfc4697b60d:before
+{
+  content: "\ef93";
+}
+
+.icofont-mic-mute_deabb34a8334c274:before
+{
+  content: "\ef94";
+}
+
+.icofont-mic_da1716c83dc38529:before
+{
+  content: "\ef95";
+}
+
+.icofont-military_d2f1dbf1eebbb0a2:before
+{
+  content: "\ef96";
+}
+
+.icofont-mill_ca140d7a424e047c:before
+{
+  content: "\ef97";
+}
+
+.icofont-minus-circle_b24e29cbdd274b14:before
+{
+  content: "\ef98";
+}
+
+.icofont-minus-square_f05768b04b66df8e:before
+{
+  content: "\ef99";
+}
+
+.icofont-minus_2f802e375bbf6fd3:before
+{
+  content: "\ef9a";
+}
+
+.icofont-mobile-phone_54622d8889761d6e:before
+{
+  content: "\ef9b";
+}
+
+.icofont-molecule_c83666380e807479:before
+{
+  content: "\ef9c";
+}
+
+.icofont-money_f9d00f0ce4ec213f:before
+{
+  content: "\ef9d";
+}
+
+.icofont-moon_d515a40e21cb5ee7:before
+{
+  content: "\ef9e";
+}
+
+.icofont-mop_71a8fc369ddbab94:before
+{
+  content: "\ef9f";
+}
+
+.icofont-muffin_2e368dfdc483c475:before
+{
+  content: "\efa0";
+}
+
+.icofont-mustache_e137a4416149ac62:before
+{
+  content: "\efa1";
+}
+
+.icofont-navigation-menu_dd485fbba33c4467:before
+{
+  content: "\efa2";
+}
+
+.icofont-navigation_52813175c8c0aae9:before
+{
+  content: "\efa3";
+}
+
+.icofont-network-tower_9dec459372f918dd:before
+{
+  content: "\efa4";
+}
+
+.icofont-network_193b9086de4939ce:before
+{
+  content: "\efa5";
+}
+
+.icofont-news_e7dbbff7db8cddce:before
+{
+  content: "\efa6";
+}
+
+.icofont-newspaper_7c4436a9d8e6f402:before
+{
+  content: "\efa7";
+}
+
+.icofont-no-smoking_702aee510fb1100a:before
+{
+  content: "\efa8";
+}
+
+.icofont-not-allowed_5973d518ba948fb4:before
+{
+  content: "\efa9";
+}
+
+.icofont-notebook_444dfb9ad4ccb44f:before
+{
+  content: "\efaa";
+}
+
+.icofont-notepad_a4217471662ca07c:before
+{
+  content: "\efab";
+}
+
+.icofont-notification_314ba9620e30c0ea:before
+{
+  content: "\efac";
+}
+
+.icofont-numbered_f8a40b678368e2d6:before
+{
+  content: "\efad";
+}
+
+.icofont-opposite_abf4a58f2fc05b49:before
+{
+  content: "\efae";
+}
+
+.icofont-optic_05b18bc6697bfcb1:before
+{
+  content: "\efaf";
+}
+
+.icofont-options_1bb211fbf6fe1fde:before
+{
+  content: "\efb0";
+}
+
+.icofont-package_a55569039ec4294a:before
+{
+  content: "\efb1";
+}
+
+.icofont-page_435cde565e951736:before
+{
+  content: "\efb2";
+}
+
+.icofont-paint_1489eeed69f324e7:before
+{
+  content: "\efb3";
+}
+
+.icofont-paper-plane_3ff1ceea2ae8689c:before
+{
+  content: "\efb4";
+}
+
+.icofont-paperclip_8a65fdc7196bd06f:before
+{
+  content: "\efb5";
+}
+
+.icofont-papers_5a37ac874b491b08:before
+{
+  content: "\efb6";
+}
+
+.icofont-pay_4536859b1f2fc90c:before
+{
+  content: "\efb7";
+}
+
+.icofont-penguin-linux_7133e0c4fe05073d:before
+{
+  content: "\efb8";
+}
+
+.icofont-pestle_70d89bcf36b07854:before
+{
+  content: "\efb9";
+}
+
+.icofont-phone-circle_329cf6f80902db12:before
+{
+  content: "\efba";
+}
+
+.icofont-phone:before
+{
+  content: "\efbb";
+}
+
+.icofont-picture_1874b98814e11db2:before
+{
+  content: "\efbc";
+}
+
+.icofont-pine_6216fd82f2d80c40:before
+{
+  content: "\efbd";
+}
+
+.icofont-pixels_92946d544e1fbb07:before
+{
+  content: "\efbe";
+}
+
+.icofont-plugin_11337e423bf85e95:before
+{
+  content: "\efbf";
+}
+
+.icofont-plus-circle_8207576217472474:before
+{
+  content: "\efc0";
+}
+
+.icofont-plus-square_3d2feb60c851047b:before
+{
+  content: "\efc1";
+}
+
+.icofont-plus_a6deae54e367a5aa:before
+{
+  content: "\efc2";
+}
+
+.icofont-polygonal_464cc0233c2d61fe:before
+{
+  content: "\efc3";
+}
+
+.icofont-power_8080233e8787a4f2:before
+{
+  content: "\efc4";
+}
+
+.icofont-price_2acc7c96e6bffb54:before
+{
+  content: "\efc5";
+}
+
+.icofont-print_8f731b8b0ad34506:before
+{
+  content: "\efc6";
+}
+
+.icofont-puzzle_93728ad6f2c89b03:before
+{
+  content: "\efc7";
+}
+
+.icofont-qr-code_37a16ca765f8a066:before
+{
+  content: "\efc8";
+}
+
+.icofont-queen_1f8c616eec270478:before
+{
+  content: "\efc9";
+}
+
+.icofont-question-circle_ffb8116b0fb42421:before
+{
+  content: "\efca";
+}
+
+.icofont-question-square_9cdc85b3b7aee61e:before
+{
+  content: "\efcb";
+}
+
+.icofont-question_2ae0403ae0220499:before
+{
+  content: "\efcc";
+}
+
+.icofont-quote-left_5b850e8beb23f603:before
+{
+  content: "\efcd";
+}
+
+.icofont-quote-right_f8ffc61a0abcfee0:before
+{
+  content: "\efce";
+}
+
+.icofont-random_7ec0ba2d1e9517ed:before
+{
+  content: "\efcf";
+}
+
+.icofont-recycle_c90d28702979d175:before
+{
+  content: "\efd0";
+}
+
+.icofont-refresh_ec360c8d891eef68:before
+{
+  content: "\efd1";
+}
+
+.icofont-repair_977cf5763f5e9970:before
+{
+  content: "\efd2";
+}
+
+.icofont-reply-all_7aa73457e455b486:before
+{
+  content: "\efd3";
+}
+
+.icofont-reply_5f90e0edb04f5ff9:before
+{
+  content: "\efd4";
+}
+
+.icofont-resize_ac2139cc0f415ac4:before
+{
+  content: "\efd5";
+}
+
+.icofont-responsive_894cedc5c8a6578d:before
+{
+  content: "\efd6";
+}
+
+.icofont-retweet_2e730ebad7483174:before
+{
+  content: "\efd7";
+}
+
+.icofont-road_edb2913da6ea1da3:before
+{
+  content: "\efd8";
+}
+
+.icofont-robot_2981acfb302ac7fe:before
+{
+  content: "\efd9";
+}
+
+.icofont-royal_0b317c917aacf3de:before
+{
+  content: "\efda";
+}
+
+.icofont-rss-feed_dab5e97170dfdb61:before
+{
+  content: "\efdb";
+}
+
+.icofont-safety_9dbaded52de7ac5f:before
+{
+  content: "\efdc";
+}
+
+.icofont-sale-discount_02f9a42bf893c1bf:before
+{
+  content: "\efdd";
+}
+
+.icofont-satellite_58756d9239b2f9f2:before
+{
+  content: "\efde";
+}
+
+.icofont-send-mail_b244d0f22d718015:before
+{
+  content: "\efdf";
+}
+
+.icofont-server_61a5fb1af714de44:before
+{
+  content: "\efe0";
+}
+
+.icofont-settings-alt_a829eef5fdf132ef:before
+{
+  content: "\efe1";
+}
+
+.icofont-settings_d6e11c5cb940a752:before
+{
+  content: "\efe2";
+}
+
+.icofont-share-alt_e41f5de701983504:before
+{
+  content: "\efe3";
+}
+
+.icofont-share-boxed_0a8a4532cd64ca33:before
+{
+  content: "\efe4";
+}
+
+.icofont-share_c4fa06e7125788d4:before
+{
+  content: "\efe5";
+}
+
+.icofont-shield_f56c5b358f2dba0a:before
+{
+  content: "\efe6";
+}
+
+.icofont-shopping-cart_584356a4bf457f10:before
+{
+  content: "\efe7";
+}
+
+.icofont-sign-in_18d10d803a2e9aeb:before
+{
+  content: "\efe8";
+}
+
+.icofont-sign-out_a16cbe7b9302a110:before
+{
+  content: "\efe9";
+}
+
+.icofont-signal_a1c5b56940626105:before
+{
+  content: "\efea";
+}
+
+.icofont-site-map_c01e7ec643441bd1:before
+{
+  content: "\efeb";
+}
+
+.icofont-smart-phone_00796de43198d589:before
+{
+  content: "\efec";
+}
+
+.icofont-soccer_e31b3c9556feaa09:before
+{
+  content: "\efed";
+}
+
+.icofont-sort-alt_93421b537a2bb83a:before
+{
+  content: "\efee";
+}
+
+.icofont-sort_e88a3faa7bcf48d7:before
+{
+  content: "\efef";
+}
+
+.icofont-space_42a2ddb0e114567f:before
+{
+  content: "\eff0";
+}
+
+.icofont-spanner_75eb03e7e702e556:before
+{
+  content: "\eff1";
+}
+
+.icofont-speech-comments_246bb807d17489c2:before
+{
+  content: "\eff2";
+}
+
+.icofont-speed-meter_36914f74d1b33ad0:before
+{
+  content: "\eff3";
+}
+
+.icofont-spinner-alt-1_85d08e7fa822fc7a:before
+{
+  content: "\eff4";
+}
+
+.icofont-spinner-alt-2_80dddf24108fb384:before
+{
+  content: "\eff5";
+}
+
+.icofont-spinner-alt-3_2c497aeca119612a:before
+{
+  content: "\eff6";
+}
+
+.icofont-spinner-alt-4_cf14b3f857fcb722:before
+{
+  content: "\eff7";
+}
+
+.icofont-spinner-alt-5_ac3524df1807f916:before
+{
+  content: "\eff8";
+}
+
+.icofont-spinner-alt-6_84076e1e4625f4a6:before
+{
+  content: "\eff9";
+}
+
+.icofont-spinner_e907adde3712a6f3:before
+{
+  content: "\effa";
+}
+
+.icofont-spreadsheet_433b8ad6ba21d8fd:before
+{
+  content: "\effb";
+}
+
+.icofont-square_a0a9f26d0d8e2fb3:before
+{
+  content: "\effc";
+}
+
+.icofont-ssl-security_43aaefa2b6378709:before
+{
+  content: "\effd";
+}
+
+.icofont-star-alt-1_de65e8d0425c96e4:before
+{
+  content: "\effe";
+}
+
+.icofont-star-alt-2_b24113eb4ed284df:before
+{
+  content: "\efff";
+}
+
+.icofont-star_97f0db203e5235ec:before
+{
+  content: "\f000";
+}
+
+.icofont-street-view_c022280a1657d717:before
+{
+  content: "\f001";
+}
+
+.icofont-support-faq_faf4a7647eec8186:before
+{
+  content: "\f002";
+}
+
+.icofont-tack-pin_9089a91c7180228d:before
+{
+  content: "\f003";
+}
+
+.icofont-tag_b27b70a16758a740:before
+{
+  content: "\f004";
+}
+
+.icofont-tags_717795b6fc17a0b2:before
+{
+  content: "\f005";
+}
+
+.icofont-tasks-alt_a3e818d98067a3dc:before
+{
+  content: "\f006";
+}
+
+.icofont-tasks_8a7840e818749ba2:before
+{
+  content: "\f007";
+}
+
+.icofont-telephone_dd56d5799caa6167:before
+{
+  content: "\f008";
+}
+
+.icofont-telescope_4ecd442287d8bc5a:before
+{
+  content: "\f009";
+}
+
+.icofont-terminal_8a4516323e962095:before
+{
+  content: "\f00a";
+}
+
+.icofont-thumbs-down_fd25ed2ff7c471d6:before
+{
+  content: "\f00b";
+}
+
+.icofont-thumbs-up_fab8edbb680cd74d:before
+{
+  content: "\f00c";
+}
+
+.icofont-tick-boxed_154573aa9bbb1aea:before
+{
+  content: "\f00d";
+}
+
+.icofont-tick-mark_16781668162ec5cd:before
+{
+  content: "\f00e";
+}
+
+.icofont-ticket_1f8f167f9c215602:before
+{
+  content: "\f00f";
+}
+
+.icofont-tie_c141350f66790060:before
+{
+  content: "\f010";
+}
+
+.icofont-toggle-off_ccdf4e1ce19b89d0:before
+{
+  content: "\f011";
+}
+
+.icofont-toggle-on_8a06020dc8f84caf:before
+{
+  content: "\f012";
+}
+
+.icofont-tools-alt-2_119f3da6a6e9331a:before
+{
+  content: "\f013";
+}
+
+.icofont-tools_994364501c68ce36:before
+{
+  content: "\f014";
+}
+
+.icofont-touch_fc8db0db334573e9:before
+{
+  content: "\f015";
+}
+
+.icofont-traffic-light_927a53d3480ea627:before
+{
+  content: "\f016";
+}
+
+.icofont-transparent_64ea95ea967d791f:before
+{
+  content: "\f017";
+}
+
+.icofont-tree_486373180c086822:before
+{
+  content: "\f018";
+}
+
+.icofont-unique-idea_4833654ee6dc6f3c:before
+{
+  content: "\f019";
+}
+
+.icofont-unlock_475b0fa0cf50efe2:before
+{
+  content: "\f01a";
+}
+
+.icofont-unlocked_2447c514da29fa70:before
+{
+  content: "\f01b";
+}
+
+.icofont-upload-alt_853081bc87482854:before
+{
+  content: "\f01c";
+}
+
+.icofont-upload_8f8f554a3cb4df1b:before
+{
+  content: "\f01d";
+}
+
+.icofont-usb-drive_6b597c25aab33bf1:before
+{
+  content: "\f01e";
+}
+
+.icofont-usb_af4bd1e67cf60355:before
+{
+  content: "\f01f";
+}
+
+.icofont-vector-path_112d2ff12e1d5662:before
+{
+  content: "\f020";
+}
+
+.icofont-verification-check_d3c2ad0a57b13791:before
+{
+  content: "\f021";
+}
+
+.icofont-wall-clock_a33e4f25d16af7b0:before
+{
+  content: "\f022";
+}
+
+.icofont-wall_b4b2042653b2af02:before
+{
+  content: "\f023";
+}
+
+.icofont-wallet_1db05291f434c94e:before
+{
+  content: "\f024";
+}
+
+.icofont-warning-alt_4fe9a054576456ff:before
+{
+  content: "\f025";
+}
+
+.icofont-warning_23e6aee9300afb3a:before
+{
+  content: "\f026";
+}
+
+.icofont-water-drop_3665bfc54cd87f14:before
+{
+  content: "\f027";
+}
+
+.icofont-web_4fc267c1797a5b2d:before
+{
+  content: "\f028";
+}
+
+.icofont-wheelchair_1a1374b14ae968d5:before
+{
+  content: "\f029";
+}
+
+.icofont-wifi-alt_b8312df06f581075:before
+{
+  content: "\f02a";
+}
+
+.icofont-wifi_3cda7a137dd5ab07:before
+{
+  content: "\f02b";
+}
+
+.icofont-world_c97cbd3df0ec3ecd:before
+{
+  content: "\f02c";
+}
+
+.icofont-zigzag_21b6e5b6261beccc:before
+{
+  content: "\f02d";
+}
+
+.icofont-zipped_64e874e16d535602:before
+{
+  content: "\f02e";
+}
+
+.icofont-xs_5ab0cfc70c0e6d02
+{
+  font-size: .5em;
+}
+
+.icofont-sm_dae27f970914f506
+{
+  font-size: .75em;
+}
+
+.icofont-md_23a11ffbc8aac0d5
+{
+  font-size: 1.25em;
+}
+
+.icofont-lg_c8deac63d0ebf896
+{
+  font-size: 1.5em;
+}
+
+.icofont-1x_c608146f17b3cfe3
+{
+  font-size: 1em;
+}
+
+.icofont-2x_b0ff24966fa3595f
+{
+  font-size: 2em;
+}
+
+.icofont-3x_67de87ac7ba86598
+{
+  font-size: 3em;
+}
+
+.icofont-4x_b9834eb44d2325fb
+{
+  font-size: 4em;
+}
+
+.icofont-5x_06f78b4aa25bd319
+{
+  font-size: 5em;
+}
+
+.icofont-6x_47ed767b173d4d03
+{
+  font-size: 6em;
+}
+
+.icofont-7x_9d3f8d677af23c34
+{
+  font-size: 7em;
+}
+
+.icofont-8x_a3831276127a7b7b
+{
+  font-size: 8em;
+}
+
+.icofont-9x_5026a412dad5e6c3
+{
+  font-size: 9em;
+}
+
+.icofont-10x_451162349bd67dd8
+{
+  font-size: 10em;
+}
+
+.icofont-fw_f2862449f7596007
+{
+  text-align: center;
+  width: 1.25em;
+}
+
+.icofont-ul_5ca4fe889386dcd5
+{
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.icofont-ul_5ca4fe889386dcd5 > li
+{
+  position: relative;
+  line-height: 2em;
+}
+
+.icofont-ul_5ca4fe889386dcd5 > li .icofont_19b207ff19c06747
+{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.icofont-border_f4e2c55d1db6f4c5
+{
+  border: solid 0.08em #f1f1f1;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
+}
+
+.icofont-pull-left_5f788e242ecd7ac9
+{
+  float: left;
+}
+
+.icofont-pull-right_eb8e47a3e4dd65c4
+{
+  float: right;
+}
+
+.icofont_19b207ff19c06747.icofont-pull-left_5f788e242ecd7ac9
+{
+  margin-right: .3em;
+}
+
+.icofont_19b207ff19c06747.icofont-pull-right_eb8e47a3e4dd65c4
+{
+  margin-left: .3em;
+}
+
+.icofont-spin_5bec8eecaef8c35b
+{
+  -webkit-animation: icofont-spin 2s infinite linear;
+  animation: icofont-spin 2s infinite linear;
+  display: inline-block;
+}
+
+.icofont-pulse_d7f92b07d5f108dd
+{
+  -webkit-animation: icofont-spin 1s infinite steps(8);
+  animation: icofont-spin 1s infinite steps(8);
+  display: inline-block;
+}
+
+@-webkit-keyframes icofont-spin
+{
+  0%
+  {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100%
+  {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes icofont-spin
+{
+  0%
+  {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100%
+  {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.icofont-rotate-90_8ff4b1458efcdccc
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft_09cb2202bb85b6ad.BasicImage_29095ed23d5f9d62(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.icofont-rotate-180_e0657740648ef136
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft_09cb2202bb85b6ad.BasicImage_29095ed23d5f9d62(rotation=2)";
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.icofont-rotate-270_e8aa6ae91697934a
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft_09cb2202bb85b6ad.BasicImage_29095ed23d5f9d62(rotation=3)";
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+.icofont-flip-horizontal_cd81e8ec0220df01
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft_09cb2202bb85b6ad.BasicImage_29095ed23d5f9d62(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+.icofont-flip-vertical_53f1730ff60da303
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft_09cb2202bb85b6ad.BasicImage_29095ed23d5f9d62(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+
+.icofont-flip-horizontal_cd81e8ec0220df01.icofont-flip-vertical_53f1730ff60da303
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft_09cb2202bb85b6ad.BasicImage_29095ed23d5f9d62(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+  transform: scale(-1, -1);
+}
+
+:root .icofont-rotate-90_8ff4b1458efcdccc,
+	:root .icofont-rotate-180_e0657740648ef136,
+	:root .icofont-rotate-270_e8aa6ae91697934a,
+	:root .icofont-flip-horizontal_cd81e8ec0220df01,
+	:root .icofont-flip-vertical_53f1730ff60da303
+{
+  -webkit-filter: none;
+  filter: none;
+  display: inline-block;
+}
+
+.icofont-inverse_906904c8bcac4b4b
+{
+  color: #fff;
+}
+
+.sr-only_b399e01a13873028
+{
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable_7fb98e3728c5c7bd:active,
+	.sr-only-focusable_7fb98e3728c5c7bd:focus
+{
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+	

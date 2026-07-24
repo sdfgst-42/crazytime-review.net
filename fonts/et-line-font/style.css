@@ -1,0 +1,343 @@
+@font-face {
+	font-family: 'et-line';
+	src:url('fonts/et-line.eot');
+	src:url('fonts/et-line.eot?#iefix') format('embedded-opentype'),
+		url('fonts/et-line.woff') format('woff'),
+		url('fonts/et-line.ttf') format('truetype'),
+		url('fonts/et-line.svg#et-line') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'et-line';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	display:inline-block;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-mobile_f42c17e6eb5c8151, .icon-laptop_de5d51d810d7d79b, .icon-desktop_1c6bbc5e0253cf23, .icon-tablet_b11b2c62777bfd10, .icon-phone_8fb2bf211db592c1, .icon-document_04f1432ae68694f2, .icon-documents_9788021646f18da8, .icon-search_490afe32b5eebe68, .icon-clipboard_308e5c9278296a2a, .icon-newspaper_e2156934414e9b5c, .icon-notebook_a15fa276a20c84df, .icon-book-open_6992a872aabc92c5, .icon-browser_972bc7223ceaa894, .icon-calendar_d2ad435ee9244fcd, .icon-presentation_61fbb6a8b22884a2, .icon-picture_ae7384515d58aa38, .icon-pictures_52f65842f0d5b73e, .icon-video_d8b05aa01b7a378d, .icon-camera_31c9f37e2f3c4571, .icon-printer_5a2ca9f7d1b453b9, .icon-toolbox_71bd16ec346de071, .icon-briefcase_ffe815865e1d1daa, .icon-wallet_61e1a826b5c455f8, .icon-gift_d32a16bbe648ef05, .icon-bargraph_ecd1da22751c6b2f, .icon-grid_4c5494fd7197a9b5, .icon-expand_6e50516fe30aa1d4, .icon-focus_e279d95a5f46e274, .icon-edit_f9437d5dabc4042c, .icon-adjustments_c8aa6809f21b25cc, .icon-ribbon_1845c057064e8dd7, .icon-hourglass_db2f53b8d9c51d42, .icon-lock_c19fbaebb9685129, .icon-megaphone_c8d4b0769eb41177, .icon-shield_6bce4f517e158426, .icon-trophy_a852bd5392438b38, .icon-flag_1659eebe14980f37, .icon-map_c21fe76a267c40f4, .icon-puzzle_03d6ed542b60da47, .icon-basket_67ce2c6550675f8f, .icon-envelope_66a71aa2b58b01e1, .icon-streetsign_fbcbb66e02202e64, .icon-telescope_f066d17c5418d100, .icon-gears_d8e7ed41bd443bef, .icon-key_b59dbd82d316342d, .icon-paperclip_1aeb592650a6a3dd, .icon-attachment_a295a2c3c59e1956, .icon-pricetags_8b93be77cc98c5eb, .icon-lightbulb_59b19672cd9e47b7, .icon-layers_b25386786b843089, .icon-pencil_31f036e31c30c870, .icon-tools_3d5527210bb6e993, .icon-tools-2_2680f4dbc5b7f7f8, .icon-scissors_55cad7ab50222fb2, .icon-paintbrush_ebd12e15b10cb224, .icon-magnifying-glass_0510348d3e23808b, .icon-circle-compass_c7ea50057a1f7cfe, .icon-linegraph_335b493055f3204c, .icon-mic_6c0b1369221a9fda, .icon-strategy_8e9aa49c4f7030ae, .icon-beaker_ecf1fc92e317b245, .icon-caution_ec6f1b9843b71a08, .icon-recycle_cc08feb4c3cd1475, .icon-anchor_1cf61c3a31cd6bab, .icon-profile-male_2a277870f260c197, .icon-profile-female_afeaed54ce9dd8eb, .icon-bike_d844f1e7c5fe8db8, .icon-wine_8f0296b78ef80c9b, .icon-hotairballoon_6d0a73c5847471c0, .icon-globe_43ca9fc7a4677634, .icon-genius_1961be2eb57f121b, .icon-map-pin_183b1f94aca34fb0, .icon-dial_2e8eb050118791e1, .icon-chat_cc6be638faf8ef21, .icon-heart_26bb16bcb5be3873, .icon-cloud_d3bcfb036d4ff4b5, .icon-upload_c78c9e8465394209, .icon-download_be602eb209ff0e38, .icon-target_9944e9768364e9f6, .icon-hazardous_f45f09314a79c60e, .icon-piechart_f14ce044113a8fc9, .icon-speedometer_cc21ed0a38cb630a, .icon-global_5a11840cc0a63b46, .icon-compass_31ba593c1516f62b, .icon-lifesaver_bb2923900054c515, .icon-clock_b58d77634d21beeb, .icon-aperture_69c356adb0e78f13, .icon-quote_bc3774b36cf65b76, .icon-scope_c5454d961944047f, .icon-alarmclock_7276e8a5fd86ce33, .icon-refresh_8fa8e999605e5596, .icon-happy_d0139159ecd448d1, .icon-sad_9795970f7a6a4a29, .icon-facebook_74025ee7fe91f0c8, .icon-twitter_b4a5fab062bbdcce, .icon-googleplus_80a846d013620eb1, .icon-rss_820f627a934a3422, .icon-tumblr_269e0fdf6ce7e51f, .icon-linkedin_bb2db080d967cde7, .icon-dribbble_5a33f8c9305a2e13 {
+	font-family: 'et-line';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	display:inline-block;
+}
+.icon-mobile_f42c17e6eb5c8151:before {
+	content: "\e000";
+}
+.icon-laptop_de5d51d810d7d79b:before {
+	content: "\e001";
+}
+.icon-desktop_1c6bbc5e0253cf23:before {
+	content: "\e002";
+}
+.icon-tablet_b11b2c62777bfd10:before {
+	content: "\e003";
+}
+.icon-phone_8fb2bf211db592c1:before {
+	content: "\e004";
+}
+.icon-document_04f1432ae68694f2:before {
+	content: "\e005";
+}
+.icon-documents_9788021646f18da8:before {
+	content: "\e006";
+}
+.icon-search_490afe32b5eebe68:before {
+	content: "\e007";
+}
+.icon-clipboard_308e5c9278296a2a:before {
+	content: "\e008";
+}
+.icon-newspaper_e2156934414e9b5c:before {
+	content: "\e009";
+}
+.icon-notebook_a15fa276a20c84df:before {
+	content: "\e00a";
+}
+.icon-book-open_6992a872aabc92c5:before {
+	content: "\e00b";
+}
+.icon-browser_972bc7223ceaa894:before {
+	content: "\e00c";
+}
+.icon-calendar_d2ad435ee9244fcd:before {
+	content: "\e00d";
+}
+.icon-presentation_61fbb6a8b22884a2:before {
+	content: "\e00e";
+}
+.icon-picture_ae7384515d58aa38:before {
+	content: "\e00f";
+}
+.icon-pictures_52f65842f0d5b73e:before {
+	content: "\e010";
+}
+.icon-video_d8b05aa01b7a378d:before {
+	content: "\e011";
+}
+.icon-camera_31c9f37e2f3c4571:before {
+	content: "\e012";
+}
+.icon-printer_5a2ca9f7d1b453b9:before {
+	content: "\e013";
+}
+.icon-toolbox_71bd16ec346de071:before {
+	content: "\e014";
+}
+.icon-briefcase_ffe815865e1d1daa:before {
+	content: "\e015";
+}
+.icon-wallet_61e1a826b5c455f8:before {
+	content: "\e016";
+}
+.icon-gift_d32a16bbe648ef05:before {
+	content: "\e017";
+}
+.icon-bargraph_ecd1da22751c6b2f:before {
+	content: "\e018";
+}
+.icon-grid_4c5494fd7197a9b5:before {
+	content: "\e019";
+}
+.icon-expand_6e50516fe30aa1d4:before {
+	content: "\e01a";
+}
+.icon-focus_e279d95a5f46e274:before {
+	content: "\e01b";
+}
+.icon-edit_f9437d5dabc4042c:before {
+	content: "\e01c";
+}
+.icon-adjustments_c8aa6809f21b25cc:before {
+	content: "\e01d";
+}
+.icon-ribbon_1845c057064e8dd7:before {
+	content: "\e01e";
+}
+.icon-hourglass_db2f53b8d9c51d42:before {
+	content: "\e01f";
+}
+.icon-lock_c19fbaebb9685129:before {
+	content: "\e020";
+}
+.icon-megaphone_c8d4b0769eb41177:before {
+	content: "\e021";
+}
+.icon-shield_6bce4f517e158426:before {
+	content: "\e022";
+}
+.icon-trophy_a852bd5392438b38:before {
+	content: "\e023";
+}
+.icon-flag_1659eebe14980f37:before {
+	content: "\e024";
+}
+.icon-map_c21fe76a267c40f4:before {
+	content: "\e025";
+}
+.icon-puzzle_03d6ed542b60da47:before {
+	content: "\e026";
+}
+.icon-basket_67ce2c6550675f8f:before {
+	content: "\e027";
+}
+.icon-envelope_66a71aa2b58b01e1:before {
+	content: "\e028";
+}
+.icon-streetsign_fbcbb66e02202e64:before {
+	content: "\e029";
+}
+.icon-telescope_f066d17c5418d100:before {
+	content: "\e02a";
+}
+.icon-gears_d8e7ed41bd443bef:before {
+	content: "\e02b";
+}
+.icon-key_b59dbd82d316342d:before {
+	content: "\e02c";
+}
+.icon-paperclip_1aeb592650a6a3dd:before {
+	content: "\e02d";
+}
+.icon-attachment_a295a2c3c59e1956:before {
+	content: "\e02e";
+}
+.icon-pricetags_8b93be77cc98c5eb:before {
+	content: "\e02f";
+}
+.icon-lightbulb_59b19672cd9e47b7:before {
+	content: "\e030";
+}
+.icon-layers_b25386786b843089:before {
+	content: "\e031";
+}
+.icon-pencil_31f036e31c30c870:before {
+	content: "\e032";
+}
+.icon-tools_3d5527210bb6e993:before {
+	content: "\e033";
+}
+.icon-tools-2_2680f4dbc5b7f7f8:before {
+	content: "\e034";
+}
+.icon-scissors_55cad7ab50222fb2:before {
+	content: "\e035";
+}
+.icon-paintbrush_ebd12e15b10cb224:before {
+	content: "\e036";
+}
+.icon-magnifying-glass_0510348d3e23808b:before {
+	content: "\e037";
+}
+.icon-circle-compass_c7ea50057a1f7cfe:before {
+	content: "\e038";
+}
+.icon-linegraph_335b493055f3204c:before {
+	content: "\e039";
+}
+.icon-mic_6c0b1369221a9fda:before {
+	content: "\e03a";
+}
+.icon-strategy_8e9aa49c4f7030ae:before {
+	content: "\e03b";
+}
+.icon-beaker_ecf1fc92e317b245:before {
+	content: "\e03c";
+}
+.icon-caution_ec6f1b9843b71a08:before {
+	content: "\e03d";
+}
+.icon-recycle_cc08feb4c3cd1475:before {
+	content: "\e03e";
+}
+.icon-anchor_1cf61c3a31cd6bab:before {
+	content: "\e03f";
+}
+.icon-profile-male_2a277870f260c197:before {
+	content: "\e040";
+}
+.icon-profile-female_afeaed54ce9dd8eb:before {
+	content: "\e041";
+}
+.icon-bike_d844f1e7c5fe8db8:before {
+	content: "\e042";
+}
+.icon-wine_8f0296b78ef80c9b:before {
+	content: "\e043";
+}
+.icon-hotairballoon_6d0a73c5847471c0:before {
+	content: "\e044";
+}
+.icon-globe_43ca9fc7a4677634:before {
+	content: "\e045";
+}
+.icon-genius_1961be2eb57f121b:before {
+	content: "\e046";
+}
+.icon-map-pin_183b1f94aca34fb0:before {
+	content: "\e047";
+}
+.icon-dial_2e8eb050118791e1:before {
+	content: "\e048";
+}
+.icon-chat_cc6be638faf8ef21:before {
+	content: "\e049";
+}
+.icon-heart_26bb16bcb5be3873:before {
+	content: "\e04a";
+}
+.icon-cloud_d3bcfb036d4ff4b5:before {
+	content: "\e04b";
+}
+.icon-upload_c78c9e8465394209:before {
+	content: "\e04c";
+}
+.icon-download_be602eb209ff0e38:before {
+	content: "\e04d";
+}
+.icon-target_9944e9768364e9f6:before {
+	content: "\e04e";
+}
+.icon-hazardous_f45f09314a79c60e:before {
+	content: "\e04f";
+}
+.icon-piechart_f14ce044113a8fc9:before {
+	content: "\e050";
+}
+.icon-speedometer_cc21ed0a38cb630a:before {
+	content: "\e051";
+}
+.icon-global_5a11840cc0a63b46:before {
+	content: "\e052";
+}
+.icon-compass_31ba593c1516f62b:before {
+	content: "\e053";
+}
+.icon-lifesaver_bb2923900054c515:before {
+	content: "\e054";
+}
+.icon-clock_b58d77634d21beeb:before {
+	content: "\e055";
+}
+.icon-aperture_69c356adb0e78f13:before {
+	content: "\e056";
+}
+.icon-quote_bc3774b36cf65b76:before {
+	content: "\e057";
+}
+.icon-scope_c5454d961944047f:before {
+	content: "\e058";
+}
+.icon-alarmclock_7276e8a5fd86ce33:before {
+	content: "\e059";
+}
+.icon-refresh_8fa8e999605e5596:before {
+	content: "\e05a";
+}
+.icon-happy_d0139159ecd448d1:before {
+	content: "\e05b";
+}
+.icon-sad_9795970f7a6a4a29:before {
+	content: "\e05c";
+}
+.icon-facebook_74025ee7fe91f0c8:before {
+	content: "\e05d";
+}
+.icon-twitter_b4a5fab062bbdcce:before {
+	content: "\e05e";
+}
+.icon-googleplus_80a846d013620eb1:before {
+	content: "\e05f";
+}
+.icon-rss_820f627a934a3422:before {
+	content: "\e060";
+}
+.icon-tumblr_269e0fdf6ce7e51f:before {
+	content: "\e061";
+}
+.icon-linkedin_bb2db080d967cde7:before {
+	content: "\e062";
+}
+.icon-dribbble_5a33f8c9305a2e13:before {
+	content: "\e063";
+}

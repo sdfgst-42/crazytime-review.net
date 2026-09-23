@@ -1,0 +1,11 @@
+name = "crazytime-review-net"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=crazytime-review.net"
+HMAC_KEY = "b376ccaa83511da0c47ef252151a6dc4658ffd0be8e136d99b516b00c73be863"
+COOKIE_NAME = "0ts"
+PLAY_PATH = "try"
+BUTTON_ID = "pd047feaf6edea397b6eaba1bd5c5d64c"
+GATE_SALT = "c80ccb959a4cbcab"
